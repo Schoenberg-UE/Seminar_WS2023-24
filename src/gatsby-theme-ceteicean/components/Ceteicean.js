@@ -20,8 +20,8 @@ const MyCeteicean = ({pageContext}) => {
     "tei-teiheader": TeiHeader,
     //"tei-note": Note,
     "tei-persname": PersName,
-    /*"tei-add": Add,
-    "tei-pb": (props) => <Pb {...props}/>, */
+    //"tei-add": Add,
+    "tei-pb": (props) => <Pb {...props}/>,
   }
 
   return (
