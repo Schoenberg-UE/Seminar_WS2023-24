@@ -18,9 +18,9 @@ const MyCeteicean = ({pageContext}) => {
   const routes = {
     "tei-tei": Tei,
     "tei-teiheader": TeiHeader,
-    /*"tei-note": Note,
+    //"tei-note": Note,
     "tei-persname": PersName,
-    "tei-add": Add,
+    /*"tei-add": Add,
     "tei-pb": (props) => <Pb {...props}/>, */
   }
 
