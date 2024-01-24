@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sem.21360">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Linke an Arnold Schönberg, 19. Juli 1910</title>
+                <editor>Soleil Fröhlich</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Linke, Karl</persName>
+                    <placeName>Lunz am See</placeName>
+                    <date when="1910-07-19" />
+
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Schönberg, Arnold</persName>
+                    <placeName>???</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <pb n="1" />
+                <opener>
+                    <dateline><placeName>Lunz</placeName>, <date when="1910-07-09">19. Jul. <hi
+                                rendition="#o">10. </hi></date></dateline>
+                    <salute>Geehrter Herr Schönberg!</salute>
+                </opener>
+                <p>Eben habe ich den Aufsatz über <lb />Sie angefangen. Ich bin so froh <lb />daß er
+                    mir gleich auf den ersten Griff <lb />so gelingt. Ich glaube, so warm und <lb />begeistert
+                    habe ich schon lange nichts <lb />geschrieben. Vieles wird mir während <lb />des
+                    Schreibens noch weit klarer und <lb />bedeutender. Ich weiß <del>g</del> heute,
+                    daß <lb />nur so zu malen und zu musizieren <lb />ist, wie Sie es tun. Natürlich
+                    jeder <lb />in seinem Menschen. Aber es war <lb />bis jetzt nichts ähnliches da,
+                    weil <lb />keiner den Mut hatte, es zu wagen <lb />und wahrscheinlich auch
+                    keiner die <lb />Kraft. Sonst hätte er es doch wohl <lb />tun müssen. Ich habe
+                    heute immer <lb />an Sie gedacht, als ich vom Lunzberg <lb />zum erstenmal die
+                    Pracht und Wucht <lb /> des Ötschers bewundern mußte. Sie <lb />werden lachen,
+                    aber ich bin so kindisch. <pb n="2" /> Es wird über Malerei wohl ebenso=<lb />viel
+                    gesprochen werden wie über <lb />Musik. Auch über Dichtung. Ich <lb />glaube,
+                    das ist alles Eines und hat <lb />Zusammenhänge, tief wie das Erz <lb />der
+                    Berge. Die Künste sind ein=<lb />ander so notwendig wie die Spektral=<lb />farben
+                    dem Sonnenlicht. Fehlt eine, <lb />dann ist’s nicht weiß und hell. Denn <lb />alles
+                    Wollen ist weiß und hell, auch <lb />wenn es dunkel ist, auch wenn <lb />Schleier
+                    drüber liegen. </p>
+                <p>Ich bin so froh, daß ich so oft <lb />bei Ihnen sein durfte. Ich glaubte <lb />immer,
+                    es gäbe nichts Größeres, <del rendition="#s">als</del> das <lb />
+                        <gap
+                        reason="illegible" /> unser Dreigespann (ich, Csmarich, <lb />Gütersloh)
+                    nicht kennte und könnte. <lb />Und da erlebte ich es, daß einer in <lb />unheimlicher
+                    Deutlichkeit dastand <lb />und mit ungeheuren Armen dorthin <lb />langte, <del>
+                    wohin</del> unsere Augen <lb />nicht einmal noch sahen. Jeder <lb />wehrt sich
+                    seiner Haut, besonders <lb />seiner ehrlichen. Darum dieses <pb n="3" />scheue
+                    Zurückziehen, das Verblüfftsein. <lb /><add place="intralinear">Denn</add>das
+                    Einwenden und das Wissen-wollen <lb />war ja nur ein Ihrere Kunst näher=<lb />kommen.
+                    Nicht bei jedem ist es <lb />ein Blitzstrahl, der niederzuckt, <add
+                        place="intralinear">auf</add> daß er brennt. </p>
+                <p>Heute ist mir vieles klar und ich <lb />weiß wie ich zu schreiben habe. Wenn <lb />ich
+                    den Aufsatz so fertig bringe, wie <lb />ich ihn dunkel in mir habe, dann <lb />werde
+                    ich Ihnen das Manuskript <lb />senden.</p>
+                <closer>
+                    <salute>Einstweilen verbleibe<lb />ich Ihr ganz ergebener<lb /></salute>
+                    <signed>Karl
+                        Linke</signed>
+                    <address>
+                        <addrLine>in Lunz, N.Ö.</addrLine>
+                        <addrLine>Gasthof Grubmayr.</addrLine>
+                    </address>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
