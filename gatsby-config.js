@@ -48,7 +48,6 @@ module.exports = {
         name: `tei-files`,
         path: `${__dirname}/static/tei/`,
       },
-    },
-    `gatsby-transformer-xml`
+    }
   ],
 }
