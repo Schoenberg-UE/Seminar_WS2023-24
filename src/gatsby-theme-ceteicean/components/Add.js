@@ -7,17 +7,27 @@ const Add = ({teiNode}) => {
 
   const add = teiNode
   const place = add.getAttribute('place') || ''
-  const text = add.innerHTML
+  const tooltipText = {
+    "superlinear": "über der Zeile",
+    "sublinear": "unter der Zeile",
+    "intralinear": "innerhalb der Zeile",
+    "across": "über den bestehenden Text",
+    "top": "am oberen Rand",
+    "bottom": "am unteren Rand",
+    "right": "am rechten Rand",
+    "left": "am linken Rand",
+  }
+  const content = add.innerHTML
 
   const renderTooltip = (props) => (
     <Tooltip id="button-tooltip" {...props}>
-      { place }
+      {`Einfügung ${tooltipText[place]}` }
     </Tooltip>
   );
 
   return <Behavior node={teiNode}>
-            <OverlayTrigger placement="auto" delay={{ show: 250, hide: 400 }} overlay={renderTooltip}>
-                <span className="addition" style={{backgroundColor: "lightgrey"}}>{ text }</span>
+            <OverlayTrigger placement="auto" delay={{ show: 100, hide: 200 }} overlay={renderTooltip}>
+                <span className="addition" style={{backgroundColor: "lightgrey"}}>{ content }</span>
             </OverlayTrigger>
          </Behavior>
 }
