@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sem.13844">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Karl Linke an Arnold Schönberg, 24. Dezember 1911</title>
+            <editor>Soleil Fröhlich</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Linke, Karl</persName>
+               <placeName>Wien</placeName>
+               <date when="1911-12-24" />
+            </correspAction>
+            <correspAction type="received">
+               <persName>Arnold Schönberg</persName>
+               <placeName>???</placeName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" />
+            <opener>
+               <dateline>
+                  <placeName>Wien</placeName>, <date when="1911-12-24">24. 12. 1911.</date>
+               </dateline>
+               <salute>Sehr lieber Herr Schönberg, </salute>
+            </opener>
+            <p>ich habe Ihre Harmonielehre eben <lb />erhalten und schon wieder viel gelesen darin.
+               Trotzdem ich doch <lb />fast alles kenne, wirkt es wieder neu, frisch, unmittelbar
+               und so <lb />lustig. Wie viele werden erkennen, wie unheimlich stark dieses <lb />Buch
+               ist? Ich werde es wahrscheinlich besprechen (Budapests Presse). <lb />Sie haben doch
+               nichts dagegen?</p>
+            <p>Ich habe aber auch Ihren Aufsatz über Liszt gelesen, der <lb />mir als das tiefste
+               erscheint, was über Liszt je gesagt worden ist. <lb />Wie Sie da vorrücken und den
+               „Übersetzungsfehler“ entdecken, <lb />das ist zum Verrücktwerden fein. Dabei ist das
+               so ein klarer, <lb />ernster Stil und so wunderbar geschlossen! Ich habe immer das <lb />Gefühl
+               gehabt, als hätten Sie bei diesem Aufsatz gar keine <lb />Sprache mehr gebraucht,
+               weil Sie die Gedanken schon ganz <lb />entblößt und nackt hinlegen konnten. Es kommen
+               keine <lb />Bekleidungsszenen mehr vor (Gedanken in Worte „kleiden“). <lb />Die
+               Gedanken stehen <del rendition="#s">ganz</del> allein dort zum Unterschied <add
+                  place="intralinear">
+                  von </add>den anderen <lb />„Kapazitäten“, wo die Worte allein stehen. In dem Heft
+               ist auch <lb />ein Ausspruch Weingartners, wieweit die Musik „gehen darf“. <lb />Ich
+               werde mir das merken, denn er wird in Wien „Die Gefilde <lb />der Seligen“ aufführen
+               und da werde ich seine Worte brauchen. <lb />Es ist einfach niederträchtig, aber der
+               eine Ausspruch entlarvt <lb />ihn. Aus seinem Unvermögen ein Gesetz für andre
+               ableiten <del rendition="#s">zu </del><lb /><del rendition="#s">wollen</del>, aus
+               seinem persönlichen Unwohlsein eine Weltkrankheit <lb /> konstruieren <add
+                  place="superlinear">zu </add>wollen, na, ich bin auch Referent. Nach solchen <lb />Bissen
+               schnappe ich auch. </p>
+            <p>Ich bin eben mit einem großen Referat über den „Gaukler <lb />unserer lieben Frau“ v.
+               Massenet fertig (Opernpremiere) und habe <lb />es bereits weggeschickt. Heute früh
+               lese ich die Zeitungen, <lb />um meine Unwissenheit zu erfahren, da sah ich, wie
+               seicht <lb />alle diese Referate waren. Meines war natürlich schon fertig <lb />und
+               gegen diese fremden gehalten, kam es mir fast wie eine <lb />Tiefseeforschung vor.
+               Und da die Bienenfeld und der Korngold <pb n="2" />und alle so seicht waren wie
+               Massenets Musik, also<handShift scribe="kurrent" /> einander eben=<lb />bürtig, mußte
+               ich mir <del rendition="#s">
+                  doch</del>sagen, daß sie alle nichts verstehen <lb />und nur reden. Aber nichts,
+               gar nichts enthält so ein Referat! Es <lb />ist das erstemal, daß ich das
+               kontrollieren kann, da ich das Werk <lb />sehr <unclear>genau</unclear> kenne. Eine
+               solche Oberflächlichkeit hätte ich doch nicht <lb />für möglich gehalten.
+               Lexikonwissen, das ist das Einzige, das <lb />die Bienenfeld anfhäuft. </p>
+            <p>Ich will Ihnen mein Referat dann senden, bis auch mein <lb />erstes Konzertreferat
+               erschienen ist (Anfang Jänner) und <sic>sie </sic>bitten <lb />mir zu schreiben, ob
+               es Ihnen gefällt. </p>
+            <p>Am <add place="intralinear">vor</add>letzten Schultage vor Weihnachten habe ich in
+               der <lb />Lehrerkonferenz meinen Vortrag über den Grammatikunterricht <lb />gehalten,
+               der größere Aufregung hervorgerufen <add place="superlinear">hat</add>, als ich
+               geahnt <lb />hätte. Einer stand <add place="superlinear">gleich </add> nachher auf
+               und sagte: "Was wir hier gehört <lb />haben, das ist einfach unerhört prächtig und
+               neu. Aber wir wissen, <lb />daß wir, die ältere Generation, vorerst krepieren müssen,
+               bevor <lb />das durchdringt. Unsere Haut ist schon hart und wir kommen aus <lb />ihr
+               nicht mehr heraus. Aber den Jüngeren dürfen wir den Weg <lb />nicht versperren. Darum
+               beschließe die Konferenz: 1. Einsendung <lb />des Referates an den Schulrat Suchomel,
+               der auch erfahren muss <lb />was da emporwächst. 2. Veröffentlichung <add
+                  place="superlinear">in </add>einem Schulblatte, <lb />damit auch die Lehrer davon
+               erfahren." Das hat die Konferenz <lb />tatsächlich beschlossen und der <handShift
+                  scribe="latin" /> Zentralverein der Wiener Lehrerschaft <lb /><handShift
+                  scribe="kurrent" />hat mich eingeladen, meinen Vortrag in größerem Kreise im <lb />Februar
+               zu halten. </p>
+            <p>Ich kann es Ihnen daher nicht ersparen und werde Ihnen <lb />auch dieses Referat zur
+               Lektüre senden. Ich weiß dieses „ersparen“ <lb />ist eine kleine verkappte Eitelkeit
+               von mir. Aber ich bin schon ein <lb />bißchen eitel. </p>
+            <p>Lustig werden erst die Folgen meines Schulreferates. Kein <lb />Lehrer kann mehr mit
+               ernster Miene Grammatik unterrichten, weil<lb />diese Art des Grammatikunterrichtes
+               so unsäglich bloßgestellt ist. <lb />Das fühlen schon einige, daß es so nicht
+               weitergeht. Und bei <lb />Veröffentlichung wird es einige Wandale geben, weil ich die <lb />Bonzen
+               unter den Lehrern (Verfasser von Sprachbüchern) angreife <lb />und abschreckende
+               Beispiele aus ihren Büchern zitiere. Das <lb />ist sehr, sehr lustig.</p>
+            <closer><salute>Es grüßt Sie, recht frohe Weihnachten <lb />wünschend Ihr ganz ergebener </salute>
+               Karl Linke.</closer>
+            <postscript>
+               <p>Thom wird Sie schon besucht haben?</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

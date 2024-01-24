@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "schoenberg-letters",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "Ergebnisse des Seminars »Klavierstuecke unveraendert Stop«. Schönberg-Briefe edieren held at the mdw / Arnold Schönberg Center in WS 2023/24.",
   "version": "0.1.0",
   "license": "0BSD",
   "scripts": {
@@ -10,18 +10,30 @@
     "start": "gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "dependencies": {
+    "bootstrap": "^5.3.2",
     "gatsby": "^5.13.1",
     "react": "^18.2.0",
+    "react-bootstrap": "^2.10.0",
     "react-dom": "^18.2.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": "https://github.com/Schoenberg-UE/Seminar_WS2023-24"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
+  },
+  "devDependencies": {
+    "gatsby-source-filesystem": "^5.13.1",
+    "gatsby-theme-ceteicean": "^3.3.1",
+    "gatsby-transformer-ceteicean": "^1.2.1",
+    "gatsby-transformer-xml": "^5.13.1",
+    "gh-pages": "^6.1.1",
+    "saxon-js": "^2.6.0",
+    "xslt3": "^2.6.0"
   }
 }
