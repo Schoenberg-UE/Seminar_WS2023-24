@@ -8,8 +8,8 @@
     <xsl:output method="xml" indent="yes"/>
     <xsl:mode on-no-match="shallow-copy"/>
     
-    <xsl:template match="note">
-        <note xmlns="http://www.tei-c.org/ns/1.0" n="{count(preceding::note) + 1}">
+    <xsl:template match="note[parent::seg]">
+        <note xmlns="http://www.tei-c.org/ns/1.0" n="{count(preceding::note[parent::seg]) + 1}">
             <xsl:apply-templates select="@*"/>
             <xsl:apply-templates select="node()"/>
         </note>

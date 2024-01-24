@@ -10,7 +10,7 @@ const PersName = (props) => {
   const gndId = target.split("/").pop()
   
   return <Behavior node={props.teiNode}>
-    <Link to={target} className="PlaceName" data-gndId={gndId}>
+    <Link to={target} className="PlaceName" data-gndid={gndId}>
       <TEINodes 
         teiNodes={props.teiNode.childNodes}
         {...props}/>

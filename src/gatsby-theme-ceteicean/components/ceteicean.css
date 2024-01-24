@@ -807,11 +807,12 @@ tei-stamp {
   margin-top: 1em;
   margin-bottom: 1em;
 }
+/*
 tei-stamp:before {
   font-weight: bold;
   content: "Stamped: ";
 }
-
+*/
 tei-surplus>*:first-child:before {
   content: "\a[";
   white-space: pre;

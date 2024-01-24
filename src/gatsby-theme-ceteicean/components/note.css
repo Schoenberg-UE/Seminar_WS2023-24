@@ -2,3 +2,7 @@
     border: 1px solid;
     border-color: inherit;
   }
+
+  .popover-body tei-p {
+    margin: 0 !important;
+  }

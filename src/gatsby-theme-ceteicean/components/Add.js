@@ -27,7 +27,7 @@ const Add = ({teiNode}) => {
 
   return <Behavior node={teiNode}>
             <OverlayTrigger placement="auto" delay={{ show: 100, hide: 200 }} overlay={renderTooltip}>
-                <span className="addition" style={{backgroundColor: "lightgrey"}}>{ content }</span>
+                <span className="addition">{ content }</span>
             </OverlayTrigger>
          </Behavior>
 }

@@ -34,7 +34,7 @@
             <div type="letter">
                 <pb n="1" />
                 <opener>
-                    <seg hand="author"><stamp><bibl sameAs="https://d-nb.info/013874969">PULT UND TAKTSTOCK<lb/>MONATSSCHRIFT FÜR DIRIGENTEN<lb/></bibl><seg type="comment"><orig>Verlag der Universal-Edition</orig><note><p><ref target="https://d-nb.info/dnbn/33001031X">Bla Bla bla</ref></p></note></seg><lb/>WIEN <seg hand="author"><date when="1927-02-28">28.Februar 1927</date></seg><lb/>I. KARLSPLATZ 6</stamp></seg>
+                    <seg hand="author"><stamp><bibl sameAs="https://d-nb.info/013874969">PULT UND TAKTSTOCK<lb/>MONATSSCHRIFT FÜR DIRIGENTEN<lb/></bibl><seg type="comment"><orig>Verlag der Universal-Edition</orig><note><p><ref target="https://d-nb.info/dnbn/33001031X">Link zum GND-Eintrag</ref></p></note></seg><lb/>WIEN <seg hand="author"><date when="1927-02-28">28.Februar 1927</date></seg><lb/>I. KARLSPLATZ 6</stamp></seg>
                    <address>
                     <addrLine>K.S./P.</addrLine>
                     <addrLine>Herrn</addrLine>
@@ -46,7 +46,7 @@
                     <salute>Lieber Herr Schönberg!</salute>
                 </opener>
                 <p>Verzeihen Sie, dass ich Ihnen erste heute den Empfang der gesandten Kritiken
-                    bestätige. Von der <persName ref="https://d-nb.info/gnd/11928586X">Jarnach</persName><seg type="comment"><orig>-Kritik</orig><note><p><ref target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=1440&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"></ref></p></note></seg> haben wir uns eine grössere Anzahl aus <placeName ref="https://d-nb.info/gnd/4005728-8">Berlin</placeName> 
+                    bestätige. Von der <seg type="comment"><orig><persName ref="https://d-nb.info/gnd/11928586X">Jarnach</persName>-Kritik</orig><note><p><ref target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=1440&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"></ref></p></note></seg> haben wir uns eine grössere Anzahl aus <placeName ref="https://d-nb.info/gnd/4005728-8">Berlin</placeName> 
                     kommen lassen und sie im Original mit einem entsprechenden Begleitschreiben an
                     etwa 2 Dutzend wichtige Dirigenten geschickt, und zwar an solche, die <seg type="comment"><orig>Pelleas</orig><note><p><ref target="https://d-nb.info/gnd/300139241"></ref></p></note></seg>
                     noch nicht aufgeführt haben. Ausserdem wird der von Ihnen gewünschte Prospekt
@@ -60,7 +60,7 @@
                     weil ich mit einigen Mitarbeitern noch in Korrespondenz stehe. Könnte nicht Jens
                     Qu. für dieses Heft Schönberg interviewen?</p>
                 <pb n="2" />
-                <p>Ich glaube, dass viele Dirigenten vom <seg type="comment"><orig>Pelleas</orig><note><p><ref target="https://d-nb.info/gnd/300139241"></ref></p></note></seg> durch die Orchesterbesetzung
+                <p>Ich glaube, dass viele Dirigenten vom <seg type="comment"><orig>Pelleas</orig><note><p>Werkinfos: <ref target="https://d-nb.info/gnd/300139241">Hallo</ref></p></note></seg> durch die Orchesterbesetzung
                     abgeschreckt werden und würde darum gerne wissen, wie Sie sich im Prinzip zu
                     einer Bearbeitung mit weniger Bläsern (etwa 3 faches Holz, 4 Hörner, 3
                     Trompeten, 3 Posaunen, Tuba) stellen würden. Vielleicht sind Sie so freundlich,
