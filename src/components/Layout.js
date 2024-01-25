@@ -41,7 +41,7 @@ const Layout = ({ location, children }) => {
         <main className="content">{ children }</main>
         <footer className="footer">
             <div className="container">
-                <p className="text-center">Copyright bla bla</p>
+                <p className="text-center"></p>
             </div>
         </footer>
       </>

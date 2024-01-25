@@ -2,14 +2,15 @@ import React from "react"
 import { Behavior } from "gatsby-theme-ceteicean/src/components/Behavior"
 import { TEINodes } from "react-teirouter"
 
-const PersName = (props) => {
+const PlaceName = (props) => {
   
-  const persName = props.teiNode
-  const target = persName.getAttribute("ref")
+  const placeName = props.teiNode
+  const target = placeName.getAttribute("ref")
+  if (target === null) return
   const gndId = target.split("/").pop()
   
   return <Behavior node={props.teiNode}>
-    <a href={target} className="PersName" data-gndid={gndId} target="_blank" rel="noopener noreferrer">
+    <a href={target} className="PlaceName" data-gndid={gndId} target="_blank" rel="noopener noreferrer">
       <TEINodes 
         teiNodes={props.teiNode.childNodes}
         {...props}/>
@@ -17,4 +18,4 @@ const PersName = (props) => {
   </Behavior>
 }
 
-export default PersName
+export default PlaceName

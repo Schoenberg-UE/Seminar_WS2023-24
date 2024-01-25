@@ -4,11 +4,14 @@ import {
   Tei,
   TeiHeader
 } from "gatsby-theme-ceteicean/src/components/DefaultBehaviors"
+import Layout from "../../components/Layout"
 import Pb from "./Pb"
 import Note from "./Note"
 import PersName from "./PersName"
+import PlaceName from "./PlaceName"
+import Bibl from "./Bibl"
 import Add from "./Add"
-import Layout from "../../components/Layout"
+//import Mirador from "./Mirador"
 
 import "./ceteicean.css"
 import "./style.css"
@@ -20,6 +23,8 @@ const MyCeteicean = ({pageContext}) => {
     "tei-teiheader": TeiHeader,
     "tei-note": Note,
     "tei-persname": PersName,
+    "tei-placename": PlaceName,
+    "tei-bibl": Bibl,
     "tei-add": Add,
     "tei-pb": (props) => <Pb {...props}/>,
   }
