@@ -7,32 +7,57 @@ const Index = () => {
       query teifiles {
         allCetei {
           nodes {
-            parent {
-              ... on File {
-                name
-              }
-            }
+            prefixed
           }
         }
       }
     `)
+    
     const teifiles = data.allCetei.nodes
+    
+    const cardInfo = teifiles.map(file => {
+      const xmlString = file.prefixed
+      const parser = new DOMParser();
+      const xmlDoc = parser.parseFromString(xmlString, "application/xml");
+      const errorNode = xmlDoc.querySelector("parsererror");
+      if (errorNode) {
+        return console.log("error while parsing"); 
+      }
+      const root = xmlDoc.documentElement
+      const id = root.getAttribute("xml:id")
+      const title = xmlDoc.querySelector("tei-titleStmt > tei-title").textContent
+      const editor = xmlDoc.querySelector("tei-titleStmt > tei-editor").textContent
+      const paragraphs = xmlDoc.querySelectorAll("tei-div[type='letter'] > tei-p")
+      const textContent = [...paragraphs].map(item => item.textContent)
+      const letterText = textContent.join(" ")
+      const incipit = letterText.split(/(\s+)/).slice(0,22).join("")
+      const date = new Date(xmlDoc.querySelector("tei-correspAction[type='sent'] > tei-date").getAttribute("when"))
+      return {
+        "id": id,
+        "title": title,
+        "editor": editor,
+        "incipit": incipit,
+        "date": date
+      }
+    }).sort((a, b) => a.date - b.date)
+
     return (
       <Layout location="briefe">
         <div className="container">
-          <div>{teifiles.map(file => (
+          <h3 class="text-center my-5">Briefliste</h3>
+          <div>{cardInfo.map(obj => (
 
-            <div className="card w-50 mt-5 mx-auto">
-                <div className="card-body">
-                    <h5 className="card-title">
-                        <Link to={`../${file.parent.name}`}>{file.parent.name}</Link>
-                    </h5>
-                    <h6 className="card-subtitle mb-2 text-muted">Editor</h6>
-                    <p className="card-text">Incipit...</p>
-                </div>
-            </div>
-          
-          ))}
+              <div className="card w-50 mt-4 mx-auto" key={ obj.id }>
+                  <div className="card-body">
+                      <h5 className="card-title mb-3">
+                          <Link to={ `../${obj.id}` }>{ obj.title }</Link>
+                      </h5>
+                      <h6 className="card-subtitle mb-2 text-muted">{ `bearbeitet von ${obj.editor}` }</h6>
+                      <p className="card-text">{ `${obj.incipit}...` }</p>
+                  </div>
+              </div>
+            
+            ))}
           </div>
         </div>
       </Layout>
