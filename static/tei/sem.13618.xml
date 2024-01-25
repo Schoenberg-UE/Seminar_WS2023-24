@@ -1,0 +1,98 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sem.13618">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Linke an Arnold Schönberg, 9. Mai 1912</title>
+                <editor>Adrian Schmidt</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Linke, Karl</persName>
+                    <placeName>Wien</placeName>
+                    <date when="1912-05-09" />
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Schönberg, Arnold</persName>
+                    <placeName>Wien</placeName><!-- können wir nicht wissen, Schönberg lebte aber zu der Zeit in Berlin -->
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <pb n="#1" />
+                <opener>
+                    <dateline>Wien, 9. Mai 1912.</dateline><!-- <dateline>Wien, <date when="1912-05-09">9. Mai 1912</date>.</dateline> -->
+                    <salute>Sehr lieber Herr Schönberg,</salute>
+                </opener>
+                <p>ich bin noch ganz krumm <!-- <lb/> -->vom Schreiben: Ich habe einen großen Aufsatz „Die Phrase <lb />
+                    und der Geschichtsunterricht“ beendet. Er ist räumlich die <del rendition="#s">
+                        <lb /> aer</del><!-- umgekehrt: zuerst <lb/>, dann <del...> --> ausgedehnteste <del rendition="#s">von</del> meiner
+                    bisherigen Arbeiten.<lb /></p>
+                <p>Aber es ist sonderbar, je tiefer ich in den Stoff eindringe, <!-- <lb/> -->desto <lb /> mehr
+                    erkenne ich, wie unerschöpflich er ist. Auf <!-- <lb/> -->allen Seiten sehe ich Wege <lb />
+                    abzweigen, die mich in <add place="superlinear">neue</add> Gebiete <lb />
+                    führen; oft strömt mir so viel zu, daß ich fühle, wie <!-- <lb/> siehe weitere Zeilenumbrüche -->alles über mir <lb />
+                    zusammenschlägt und ich auf Augenblicke jeden Richtpunkt verliere. Ich habe mich <lb />
+                    bemüht gerade- auszugehen und nur das mit hereinzunehmen, was un- bedingt zur <lb />Sache
+                    gehört. An den abzweigenden Wegen, die nichts anderes sind als Übergänge <lb />zu
+                    geschriebenen und noch nicht geschriebenen Aufsätzen spüre ich bereits, <lb />
+                    wie <del
+                        rendition="#s">es</del> langsam ein Buch wird.</p>
+                <p>Vorerst <del rendition="#s">Nun</del> werde ich <del rendition="#s">aust</del>
+                    <lb />Gelegenheit
+                    haben ein anderes Buch zu schreiben. Ein Berliner Verlag (Rütte und <lb />
+                    Löhni oder so ähnlich) gibt eine Sammlung von Monographien heraus, wo Gurlitt <lb />bereits
+                    „Die Schule“ geschrieben hat. Ich will den „Lehrer“ schreiben. Es ist <lb />sehr
+                    wahrscheinlich, daß er dort heraus- kommt (Thom, dessen Roman in seinem <lb />
+                    Verlag in den nächsten Wochen herauskommt, hat mir den Vorschlag gemacht, denn <lb />
+                    mit dem Bande „Der Lehrer“ sind sie dort in Verlegenheit und wissen niemanden, <lb />
+                    der ihn schreiben könnte). Das wird meine Ferienarbeit sein, ich freue mich <lb />
+                    darauf; hier fühle ich schon jetzt, daß dies einmal wirklich etwas <del
+                        rendition="#s">zu</del> wird.<lb /> <del rendition="#s">werden verspricht</del></p>
+                <p>Am Dienstag 14. halte ich meinen ersten Vortrag im</p><!-- ich denke, der Seitenumbruch ist innerhalb des Absatzes, also hier </p> und nech dem Seitenumbruch <p> kann weg -->
+                <pb n="#2" />
+                <p>„Zentralverein der Wiener-Lehrerschaft.“ So soll das <add place="superlinear">der <lb />
+                    Verein</add> wirklich eine Sammlung gescheiter Köpfe sein; ich bin <lb />
+                    schon begierig, wie sie meinen Aufsatz („Unser Grammatikunterricht, ein <lb />
+                    Verderber der deutschen Sprache“) aufnehmen; daran werde ich ja am besten <lb />
+                    erkennen, ob ich zu ihnen tauge. </p>
+                <p>Ich beginne jetzt, mich ernstlich zu organisieren. Ich gehöre dem Zentralverein <lb />an;
+                    denn als Einzelner werde ich nicht viel erreichen (Abänderungen des <lb />Lehrplanes,
+                    Lese= bücherfrage!) und mein Zweck reicht diesmal <lb /> <del rendition="#s">außer
+                    m</del> über mich hinaus. Ich will ja den Kindern helfen und das erreiche ich <lb />
+                    nicht, indem ich in der Stille Aufsätze schreibe. Ich will gehört und gelesen <lb />
+                    werden. Ich trete jetzt auch dem Prüfungsausschuss für Jugendschriften bei (man <lb />
+                    hat es mir angetragen), um einmal gegen den Schund aufzutreten, der „fürs Kind“ <lb />
+                    geschrieben wird. Kurzum, ich will Erfolge für die Jugend haben.</p>
+                <p>Mein Referat an der Budapester Presse war ein <lb />finanzieller Reinfall. Das
+                    wird mir immer deutlicher. <lb /> Seit Februar hat man mir kein Honorar bezahlt.
+                    Ich habe <lb /> bereits fünfmal darum [eingefügt] geschrieben und habe keine
+                    Antwort <lb /> bekommen. Ich habe mich um die Rechtswege erkundigt, <lb /> aber
+                    es ist wenig Hoffnung, etwas herauszubekommen. <lb /> Verhandlungen mit Ungarn
+                    sind aussichtslos; leichter ist <lb /> es mit dem Ausland. So kann es sein, daß
+                    ich mehr als <lb /> 300 Kronen verliere, wovon fast 100 K Barausgaben <lb /> für
+                    die Zeitung waren. Mein Voranschlag an Ausgaben <lb /> für die Ferien hat sich
+                    daher wesentlich reduziert. Mit <lb /> Ungarn lasse ich mich in nichts mehr ein.
+                    Ich habe genug. </p>
+                <p>Sobald mein Geschichtsreferat aus der Schreibmaschine <lb /> kommt, sende ich es
+                    Ihnen, jedenfalls nächste Woche.</p>
+                <closer><!-- hier kann man noch eine rendition="#r" für die Position einfügen -->
+                    <salute>So grüßt Sie herzlichst Ihr ganz ergeben</salute>
+                    <signed>Linke</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

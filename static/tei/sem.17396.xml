@@ -1,0 +1,68 @@
+<?xml-model
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sem.17396">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tischer und Jagenberg an Schönberg, 13. Juni 1913</title>
+                <editor>Jil Paul</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Tischer, Gerhard</persName>
+                    <placeName>Köln</placeName>
+                    <date when="1913-06-13" />
+                </correspAction>
+                <correspAction
+                    type="received">
+                    <persName>Schönberg, Arnold</persName>
+                    <placeName>Berlin</placeName>
+                    <date />
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener><stamp><orgName ref="https://d-nb.info/dnbn/330010050">Tischer &amp; Jagenberg</orgName>  <lb/>G. m. b. H.<lb/> Cöln am Rhein <lb/> -<lb/> Musikverlag.<lb/>
+                    Fernsprecher Nro. B 6279. <lb/><placeName ref="https://d-nb.info/gnd/4031483-2">Cöln</placeName> am Rhein, den <seg hand="#author"><date when="1913-06-13">13. Juni 1913</date></seg><placeName ref="https://d-nb.info/gnd/4831677-5">Bayenthal</placeName>
+                    Marienburgerstrasse 55.</stamp> <!-- Bibliotheksstempel --><address><addrLine>Herrn</addrLine>
+                    <addrLine><persName ref="https://d-nb.info/gnd/118610023">Arnold <hi rendition="#g">Schönberg,</hi></persName></addrLine> <addrLine><hi rendition="#uda"><placeName ref="https://d-nb.info/gnd/4571629-8">Berlin-Südende</placeName></hi></addrLine> <addrLine>Berlinerstr-17a I</addrLine></address>
+                
+                
+                <salute
+                        rendition="#c">Sehr geehrter Herr <persName ref="https://d-nb.info/gnd/118610023">Schönberg</persName>!</salute></opener>
+                <p>In Beantwortung Ihrer Karte teile ich Ihnen mit, dass wir <lb />selbst vorher von
+                    der englischen Aufführung nichts gewusst haben. Dieselbe <lb />ist von der
+                    <orgName>Londoner Choral-Society</orgName> unter <persName>Fagge</persName> erfolgt. Das Material -im <lb />ganzen nur
+                    60 Chorstimmen- ist auf dem Buchhändlerwege bezogen. Die eng-<lb />lische
+                    Uebersetzung hat sich Herr <persName>Fagge</persName> selbst gemacht und uns jetzt zum <lb />Ankauf
+                    offeriert. Wir haben sie hier und wollen sie erwerben. Wir können <lb />sie
+                    Ihnen auf kurze Zeit leihweise zur Verfügung stellen. Die in die Welt <lb />geschickten
+                    Notizen stammen natürlich von uns. Herr <persName>Fagge</persName> schrieb uns, <lb />dass er eben
+                    noch weitere Aufführungen in <placeName ref="https://d-nb.info/gnd/4014770-8">England</placeName> plane. Genaueres wissen <lb />wir nicht,
+                    wollen aber möglichst bald den <seg type="comment"><orig>englischen Text unserer Ausgabe</orig><note><p>Schönberg, Arnold: Friede auf Erden op. 13, 2. Ausgabe mit hinzugefügter englischer Übersetzung, Köln: Tischer &amp; Jagenberg G. m. b. H. 1912.</p><p><ref target="https://archive2.schoenberg.at/compositions/quellen_einzelansicht.php?id_quelle=886&amp;werke_id=244&amp;id_gatt=&amp;id_untergatt=&amp;herkunft=allewerke"></ref> </p></note></seg> <lb />mitherausbringen.
+                    Deutsche Aufführungen stehen trotz unseren Bemühungen <lb />noch immer nicht in
+                    Aussicht. Wir haben allerdings die Idee, das Werk in <lb />das Programm des
+                    nächstjährigen <orgName ref="https://d-nb.info/gnd/5011305-7">Tonkünstlerfestes</orgName> in <placeName ref="https://d-nb.info/gnd/4015557-2"> Essen</placeName> zu bringen. <lb />Kritiken haben wir
+                    noch nicht erhalten; Herr <persName>Fagge</persName> wollte sie uns schicken, <lb />hat aber bislang sein
+                    Wort nicht gehalten.</p>
+
+                <closer rendition="#r"><salute>Hochachtungsvoll <lb />
+                    Ihr ergebener</salute> <lb />
+                <signed><persName ref="https://d-nb.info/gnd/117400513">Dr. Tischer</persName></signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

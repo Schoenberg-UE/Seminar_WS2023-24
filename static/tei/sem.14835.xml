@@ -1,0 +1,65 @@
+<?xml-model
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-model
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sem.14835">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Pappenheim an Schönberg, 20. Februar 1914</title>
+<editor>Marius Auer</editor>
+</titleStmt>
+<publicationStmt>
+<p>Publication Information</p>
+</publicationStmt>
+<sourceDesc>
+<p>Information about the source</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+    <correspAction type="sent">
+    <persName>Pappenheim, Marie</persName>
+    <placeName>Paris</placeName>
+    <date when= "1914-02-20"/>
+    </correspAction>
+    <correspAction type="received">
+    <persName>Schönberg, Arnold</persName>
+    <placeName>Berlin</placeName>
+    </correspAction>
+    </correspDesc>
+    </profileDesc>
+</teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <pb n="1"/>
+                    <opener><address>
+                        <addrLine>Mr.</addrLine> 
+                        <addrLine>Arnold Schönberg</addrLine> 
+                        <addrLine>Allemagne</addrLine> 
+                        <addrLine>Berlin - Südende</addrLine> 
+                        <addrLine>Berlinerstr. 179</addrLine> 
+                        <addrLine>M Pappenheim</addrLine> 
+                        <addrLine>Dem à V ieme</addrLine> 
+                        <addrLine>Rue de Paraidis N°9</addrLine> 
+                    </address></opener>
+                <pb n="2"/>
+                    <opener><salute>Lieber Herr Schönberg,</salute></opener>
+                        <p>bitte schicken Sie <hi rendition="#u">mir die Szene zurück</hi> - ich mache nichts weil ich nichts weiß. Ich will d. <hi rendition="#u">Erzählung v. Sw.</hi>
+                        ganz ändern - nichts von Erlbenis w. in dieser Form. Ein rasches Gespräch - selbst in Parsifal sind die
+                        Erzählungen lang so viel kürzer sie sind. Da ich keinen Bescheid habe, habe ich in den <hi rendition="#u">ersten 2 Sz.</hi> nur gekürzt.
+                        Das 4. <unclear>Weitere</unclear> müßten Sie doch selbst kürzen - es hängt von der persönlichen Wertung ab. Auch
+                        ein Wort bitt ich über die <hi rendition="#u">Visionen</hi>. Ich schrieb schon, ich möchte <unclear>nur</unclear> denselb. Abglanz
+                        lassen den B. schildert. - Bitte antworten Sie gleich. - Auch ob die Gurrel in Wien sein werden - und wie es in
+                        Leipzig steht? - Ich wollte Dr. <unclear>Clemenceau</unclear> besuchen, <unclear>tats</unclear> aber <add place="superlinear">noch</add> nicht.
+                        Hier bleib ich ja doch nicht. - </p>  
+                    <closer><salute>Viele Grüße an Sie alle, an Trude schreib ich bald ein Gedicht.</salute>
+                    <signed>M. Pappenheim</signed></closer>
+                    <postscript><p>Bitte, haben Sie das Textbuch gedruckt? so bitte 1 Exempl. Kennen Sie B’s Widmung d Seraphita?</p></postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

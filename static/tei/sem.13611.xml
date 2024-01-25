@@ -1,0 +1,90 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sem.13611">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Linke an Arnold Schönberg, date unknown</title>
+                <editor>Adrian Schmidt</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Linke, Karl</persName>
+                    <placeName>Wien</placeName>
+                    <!-- kann man nicht mit Sicherheit sagen, also weglassen -->
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Schönberg, Arnold</persName>
+                    <placeName>Wien</placeName>
+                    <!-- kann man nicht mit Sicherheit sagen, eher Berlin oder Postdam (das erwähnt Linke im Brief)-->
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <pb n="#1"/>
+                <opener>
+                    <salute>Sehr lieber Herr Schönberg,</salute>
+                </opener>
+                <p>eben habe ich Ihr liebe <lb/>Karte aus Potsdam erhalten und <lb/>danke Ihnen
+                    dafür. Ich habe <lb/> während der Osterfeiertage einiges <lb/> gearbeitet – die
+                    beiden Tage aus-<lb/>genommen, an denen wir unsere <lb/>verunglückte Fußreise
+                    absolvierten; <lb/> aus Gründen der Billigkeit und <lb/>Gesundheit haben wir
+                    die entlegen-<lb/>sten Gebirgsdörfer aufgesucht, <lb/>aber schon am zweiten
+                    Tage kamen <lb/>wir im Schnee nicht mehr weiter, <lb/>mußten uns zur Bahn fahren
+                    <lb/>lassen und mit dem nächsten Zug <lb/>ging es bei herrlichstem Wetter
+                    <lb/>nach Wien. Es war scheußlich. <lb/>Dann hatte ich aber einige gute
+                    <lb/>Tage, wo mir viel einfiel. Vor <lb/>allem habe ich meine größte 
+                <pb n="#2"/>
+               Sorge los: Meine Sonate ist voll- <lb/>endet. Ich bin etwas besorgt <lb/>
+                    darüber, ob Sie meine Sendung <lb/>(die ersten 2 Sätze der Sonate) <lb/>
+                    erhalten haben, da Sie auch auf <lb/>der Karte nichts davon erwähnten. <lb/>
+                    Sollte sie <hi rendition="#u">nicht</hi> angekommen <lb/>sein, dann bitte ich Sie, mich gleich <lb/> zu
+                    verständigen, da ich dann <lb/>reklamieren muss.</p>
+                <p>Ist sie aber angekommen, dann <lb/>bin ich sehr neugierig, wie sie Ihnen
+                    <lb/>gefallen hat.</p>
+                <p>Ich fange jetzt an, an einem <lb/>größeren Aufsatz über den Unterricht <lb/>in
+                    Geschichte zu arbeiten. Nur brauche <lb/>ich noch einige schlechte Lehrbücher,
+                    <lb/> die mich vollends aufreizen müssen <lb/>zu dieser Arbeit. Das Positive
+                    steht <lb/> in mir <del rendition="#s">alles</del> fertig; denn es ist</p>
+                <pb n="#3"/>
+                <p>Das Ursprüngliche in mir gewesen. <lb/>Ich machte es schon so, als ich noch
+                    <lb/> nicht wußte, daß es gut war; <lb/>ja ich habe anfangs geglaubt, daß <lb/>
+                    es sogar schlecht ist (es war aber <lb/>nur anders, als die Schulmänner
+                    wollten) <lb/> Heute weiß ich aber, daß ich damals <lb/>recht hatte, wenngleich
+                    ich unbeholfen <lb/> und zaghaft war; ich hatte formale <lb/>Bedenken (keine
+                    Wiederholung des <lb/> Vorgetragenen; keine Zahlen, kein <lb/>systematisches
+                    Wissen!) und glaubte <lb/> den Schülern zu wenig zu geben. <lb/>(äußerlich zu
+                    wenig!) Erst als ich <lb/> einen Satz las, den mein würdiger <lb/>Vorgesetzter
+                    den Kindern in meiner <lb/> Abwesenheit diktierte (diktierte <lb/>in
+                    Geschichte!!), wusste ich, wie schlecht <lb/>von Grund auf dieser Unterricht in
+                    <lb/> Geschichte ist. Nun ich erst den <lb/>Unterschied spüre zwischen
+                    meinem
+                <pb n="#4"/>
+                Gefühl für die Sache und den abscheu- <lb/>lichen Phrasen aller Lehrbücher,
+                    <lb/> muß ich darangehen, das ausführlich <lb/>(negativ und viel positiv) aus-
+                    <lb/> zuarbeiten.</p>
+                <p>Vincenz Suchomel ist Regierungs- <lb/>rat geworden und pensioniert. <lb/> Wird
+                    sich in seine Heimat (Mähren) <lb/>zurückziehen und fischen (seine <lb/>
+                    Lieblingsbeschäftigung).</p>
+                <p>Ihr Wiener Konzert ist überall <lb/>angekündigt (auch in allen Zeitungen, <lb/>
+                    Plakatsäulen); ich habe auch für <lb/>Thom und Frau und andere Bekannte <lb/>
+                    Karten besorgen müssen; ich freue <lb/>mich sehr darauf; wir alle.</p>
+                <closer rendition="#r">
+                    <salute>Es grüßt Sie herzlichst <lb/>Ihr ganz ergebener </salute> <lb/>
+                    <signed>Karl Linke</signed>
+                </closer><postscript><p>Bitte (wenn möglich) Nachricht über <lb/>meine Sonate!</p></postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

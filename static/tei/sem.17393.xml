@@ -1,0 +1,117 @@
+<?xml-model
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sem.17393">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tischer und Jagenberg an Schönberg, 18. März 1912</title>
+                <editor>Jil Paul</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Tischer, Gerhard</persName>
+                    <placeName>Köln</placeName>
+                    <date when="1912-03-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Schönberg, Arnold</persName>
+                    <placeName>Berlin-Zehlendorf</placeName>
+                    <date/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <pb n="1"/>
+                <opener><stamp><orgName ref="https://d-nb.info/dnbn/330010050">Tischer &amp;
+                            Jagenberg</orgName><lb/>G. m. b. H.<lb/><placeName
+                            ref="https://d-nb.info/gnd/4031483-2">Cöln</placeName> am Rhein<lb/> -
+                        <lb/>Musikverlag.<lb/>Fernsprecher Nro. 6279.<lb/>
+                        <placeName ref="https://d-nb.info/gnd/4031483-2">Cöln</placeName> am Rhein,
+                        den <seg hand="#author"><date when="1912-03-18">18.März
+                            1912</date></seg><placeName ref="https://d-nb.info/gnd/4831677-5"
+                            >Bayenthal</placeName> Marienburgerstrasse 55.</stamp>
+                    <address>
+                        <addrLine rendition="#c">Herrn</addrLine>
+                        <addrLine rendition="#c"><persName ref="https://d-nb.info/gnd/118610023"
+                                >Arnold Schönberg</persName></addrLine>
+                        <addrLine rendition="#r">
+                            <hi rendition="#u"><placeName ref="https://d-nb.info/gnd/4079472-6"
+                                    >Berlin-Zehlendorf</placeName></hi></addrLine>
+                    </address>
+                    <salute rendition="#c">Sehr geehrter Herr!</salute></opener>
+                <p>Wir bestätigen mit Dank den Empfang des <lb/>Manuscriptes von <bibl
+                        sameAs="https://d-nb.info/gnd/300139128"> &#8222;Friede auf
+                        Erden&#8220;</bibl><!-- bibl besser innerhalb der Anführungszeichen --> (a cappella –<lb/>Partitur und Orchesterstimme). <lb/>
+                    Wir bitten Sie auf jeden Fall, für den Stich die <lb/>schon benutzten Stimmen
+                    aus <placeName ref="https://d-nb.info/gnd/4066012-6">Wien</placeName>
+                    <del rendition="#s">und</del> kommen <lb/>zu lassen, und dieselben noch einmal
+                    auf event. <lb/>Vortragszeichen selbst zu prüfen, da alle nach-<lb/>träglichen
+                    Korrekturen, wenn der Stich einmal <lb/>begonnen ist, sehr kostspielig
+                    werden.<metamark/> Die a cappella-<lb/>Partitur und Stimmen werden jedenfalls
+                    gestochen <lb/>und Raum für eine fremdsprachliche Übersetzung <lb/>vorgesehen.
+                    Wenn Sie eine künstlerisch <lb/>einwandfreie englische Übersetzung verschaffen
+                    <lb/>können, welche nicht allzu kostspielig wird, so <lb/>sind wir gern bereit,
+                    dieselbe zu erwerben. <lb/> Sie werden ja selbst auf möglichste
+                    Über-<lb/>einstimmung des Notenbildes mit den <lb/><pb n="2"/>Sprach-Akzenten
+                    bedacht sein. <lb/> Schon heute können wir Ihnen mitteilen, <lb/>daß wir die
+                    Partitur zu billigem Preise ab-<lb/>geben werden, um ihre Verbreitung bei
+                        event<gap rendition="lost"/><lb/> Aufführungen zu fördern. <lb/>Nach
+                    Unterzeichnung des beigefügten <seg type="comment"
+                                ><orig>Kon-<lb/>traktes</orig><note><p>Brief vom 19.03.1912, from:
+                                Gerhard, Tischer; to: Schönberg, Arnold; ASCC 23942</p><p><ref
+                                    target="https://repo.schoenberg.at/urn:nbn:at:at-asc-B239429"
+                                /></p></note></seg><!-- den Link können Sie direkt auf die Bezeichnung setzten <ref=target"...">ASCC 23942</ref> Bei der Benennung würde ich "Gerhard Tischer an Arnold Schönberg, 19. März 1912, ASCC 23942" schreiben, ist aber nicht falsch so--> werden wir Ihrem Wunsche gemäß <lb/>das Honorar
+                    an die <orgName ref="https://d-nb.info/gnd/16231438-3">Dresdener Bank</orgName>
+                    <lb/>Filiale Zehlendorf einzahlen.</p>
+                <closer rendition="#r"><salute>Hochachtungsvoll</salute><lb/> p <stamp><orgName
+                            ref="https://d-nb.info/dnbn/330010050">Tischer &amp; Jagenberg <!-- lb -->G. m. b.
+                            H.</orgName>
+                    </stamp><!-- lb -->
+                    <signed><persName>P. Beulke</persName></signed>
+                </closer>
+                <postscript>
+                    <p><metamark/>Ebenso wäre uns zur Einsichtnahme der Chorauszug erwünscht.
+                        <lb/>Ferner erbitten wir die Opuszahl</p>
+                </postscript>
+                <postscript>
+                    <p>Ihr soeben eingegangener <seg type="comment"><orig>Brief <lb/>vom 18. d.
+                                M.</orig><note><p>Brief vom 18.03.1912, from: Schönberg, Arnold; to:
+                                    Tischer, Gerhard; ASCC 23942</p><p><ref
+                                        target="https://repo.schoenberg.at/urn:nbn:at:at-asc-B239409"
+                                    />
+                                </p></note></seg> erledigt sich hierdurch</p>
+                </postscript>
+                <postscript>
+                    <p><seg type="comment"><orig>Vertrag!</orig><note><p>Brief vom 19.03.1912, from:
+                                    Gerhard, Tischer; to: Schönberg, Arnold; ASCC 23940</p><p><ref
+                                        target="https://repo.schoenberg.at/urn:nbn:at:at-asc-B239429"
+                                    /></p></note></seg></p>
+                    <p>Bitte das als Copie gekennzeichnete Ex. zu be-<lb/><!-- hier wäre es besser, den Kommentar auf die Copie zu legen, welche das überlieferte Dokument laut ASCC zu sein scheint -->halten, das andere
+                        zurückzusenden, da es gestem-<lb/>pelt werden muss.</p>
+                    <p>In §2 habe ich freigelassen, wer das Aufführungs-<lb/>recht hat, und bitte
+                        Sie das auszufüllen. Wir <lb/>sind Mitglieder der <orgName
+                            ref="https://d-nb.info/gnd/2172833-1">deutschen
+                        Genossenschaft</orgName>, aber w<gap reason="lost"/>sen nicht, ob Sie ev.
+                        der <orgName ref="https://d-nb.info/gnd/16016856-9">oester.</orgName>
+                        Angehören.</p>
+                    <closer><salute rendition="#r">Bestens grüßt Ihr ergebener</salute><lb/>
+                        <signed rendition="#r"><persName ref="https://d-nb.info/gnd/117400513">Dr.
+                                Tischer</persName></signed></closer>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

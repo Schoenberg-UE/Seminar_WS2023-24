@@ -1,0 +1,67 @@
+<?xml-model
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-model
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sem.14832">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Pappenheim an Schönberg, 18. Jänner 1914</title>
+<editor>Marius Auer</editor>
+</titleStmt>
+<publicationStmt>
+<p>Publication Information</p>
+</publicationStmt>
+<sourceDesc>
+<p>Information about the source</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+    <correspAction type="sent">
+    <persName>Pappenheim, Marie</persName>
+    <placeName>Paris</placeName>
+    <date when= "1914-01-18"/>
+    </correspAction>
+    <correspAction type="received">
+    <persName>Schönberg, Arnold</persName>
+    <placeName>Berlin</placeName>
+    </correspAction>
+    </correspDesc>
+    </profileDesc>
+</teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <pb n="1"/>
+                    <opener><address>
+                        <addrLine>Mr.</addrLine> 
+                        <addrLine>Arnold Schönberg</addrLine> 
+                        <addrLine> <del rendition="#u">Allemagne</del></addrLine> 
+                        <addrLine>Berlin - Südende</addrLine> 
+                        <addrLine>Berlinerstr. 179</addrLine> 
+                        <addrLine>M Pappenheim</addrLine> 
+                        <addrLine>Dem à V ieme</addrLine> 
+                        <addrLine>Rue de Paraidis N°9</addrLine> 
+                    </address></opener>
+                <pb n="2"/>
+                    <opener><salute>Lieber Herr Schönberg,</salute></opener>
+                    <p>ich habe eben <lb/>Seraph<supplied>ita</supplied> wieder begonnen. Bitte Sie aber mir zu schreiben, ob Sie an d. 
+                    1. Szene viel gekürzt od geändert wünschen. Die „Furchtbarkeit‘ kommt auch bei B. nur durch die Stimme des Adlers und 
+                    die Stimme der Turteltaube zum Bewußtsein. Die Kraft durch die Bewegungen, - übrigens nehme ich etwas v d Schilderung d.
+                    Schrecken des Winters fand A. Falbergs für d Szene, in A. Becker an A. Beste‘. Gung zweifelt<!-- schauen Sie nochmal in dem online Gutenberg-Seraphita Text nach, ob Sie etwas finden, was die Tarnskription hier klärt -->.
+                    Durch Verstärk. d Abweisung und wenn ich immer v d Abgrund sprechen lasse, den Ser. Blick
+                    zwischen ihnen öffnet, wird vielleicht erreicht, was Sie wollen. - Ich schicke es jetzt nicht
+                    stückweise. - Nach Land, wäre ich fast gefahren, Aber ich würde zu viel versäumen. Wars sehr
+                    schön? -</p>
+                    <closer>D. gnäd Frau viele herzl. Grüße. Hier wird immer massiert. Was macht das
+                    Gehalt? Grüße an alle Anderen.
+                    <signed>M.Pappenheim</signed></closer>
+                    <postscript>
+                    <p>Das ist am 15.geschrieben seit dann hab ich schon die 2. Szene begonnen</p></postscript>
+            </div>
+        </body>
+    </text>
+</TEI>
