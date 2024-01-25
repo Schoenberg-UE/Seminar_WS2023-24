@@ -31,7 +31,7 @@ const Index = () => {
       const textContent = [...paragraphs].map(item => item.textContent)
       const letterText = textContent.join(" ")
       const incipit = letterText.split(/(\s+)/).slice(0,22).join("")
-      const date = new Date(xmlDoc.querySelector("tei-correspAction[type='sent'] > tei-date").getAttribute("when"))
+      const date = xmlDoc.querySelector("tei-correspAction[type='sent'] > tei-date") ? new Date(xmlDoc.querySelector("tei-correspAction[type='sent'] > tei-date").getAttribute("when")) : new Date("1999-01-01")
       return {
         "id": id,
         "title": title,
@@ -41,13 +41,15 @@ const Index = () => {
       }
     }).sort((a, b) => a.date - b.date)
 
+    console.log(cardInfo)
+
     return (
       <Layout location="briefe">
         <div className="container">
-          <h3 class="text-center my-5">Briefliste</h3>
+          <h3 className="text-center my-5">Briefliste</h3>
           <div>{cardInfo.map(obj => (
 
-              <div className="card w-50 mt-4 mx-auto" key={ obj.id }>
+              <div className="card w-50 mb-4 mx-auto" key={ obj.id }>
                   <div className="card-body">
                       <h5 className="card-title mb-3">
                           <Link to={ `../${obj.id}` }>{ obj.title }</Link>
