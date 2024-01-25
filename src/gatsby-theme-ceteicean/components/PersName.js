@@ -6,6 +6,7 @@ const PersName = (props) => {
   
   const persName = props.teiNode
   const target = persName.getAttribute("ref")
+  if (target === null) return
   const gndId = target.split("/").pop()
   
   return <Behavior node={props.teiNode}>
