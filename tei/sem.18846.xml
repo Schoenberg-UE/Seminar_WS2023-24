@@ -1,0 +1,59 @@
+<?xml-model
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-model
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sem.14846">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Pappenheim an Schönberg, Datum unbekannt</title>
+<editor>Marius Auer</editor>
+</titleStmt>
+<publicationStmt>
+<p>Publication Information</p>
+</publicationStmt>
+<sourceDesc>
+<p>Information about the source</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+    <correspDesc>
+    <correspAction type="sent">
+        <persName>Pappenheim, Marie</persName>
+    </correspAction>
+    <correspAction type="received">
+    <persName>Schönberg, Arnold</persName>
+    </correspAction>
+    </correspDesc>
+    </profileDesc>
+</teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <pb n="1"/>
+                    <opener><salute>L. H. Schönberg</salute></opener>
+                    <p> Ich schicke die Sache sehr flüchtig gemacht und z.T. nicht direkt übersetzt. - habe auch da 
+                    ich nicht das Ganze habe keinen Überblick. <add place="superlinear">ich weiß kaum mehr was drin steht</add> Die Kürzungen etc. überlaß ich Ihnen, 
+                    die Szenenfolge etc. habe ich im Text erklärt. Für die Überarbeit. weiß ich jetzt manches, z.B. daß die Auflehnung 
+                    Wilfrieds stärker betont werden muß (2. und 3. Sz.) wegen des Ungestüms in der letzten Szene.</p> 
+                    <p>Ferner: der „Abrund zw. Seraph. und Minna</p> <p rendition="#r">Wilfried</p> <p>deutlicher.</p> <p>Bei Balzac sehr ins Einzelne gehend die Korrespondenzen 
+                    im Benehmen des Mann u. Frau Ser; z.B: die Abwehr des Kusses; zu Wilfr; ich werde mit einer grenzenlosen Liebe geliebt zu Minna: 
+                    Ich liebe grenzenlos, dort „männliche“ Kraft, hier weibliche Schwachheit. Wollen Sie das auch so stark ausgedrückt?</p>
+                <pb n="2"/>
+                    <p>Ferner: in Seraph. Rede d. <del rendition="#s">4.</del> 5. Szene kommt, da es als Szene wegfällt, der spätere Zweifel der beiden Männer 
+                    vorausgesagt u. zw. mit den Worten der Einleit. z. Kapitel Abschied: Mag die Szene offenbar noch so tief 
+                    gewesen sein etc., u. Gleiche Wellen peitschen schon mit gleichem Wogenschlag den Menschen granit? etc.</p> 
+                    <p>Auch sonst viele Schwierigkeiten. Wenn möglich bitte anfangs Jänner zur Überarbeit. schicken. 
+                    Von Mitte Jänner habe, ich doppelt zu tun.</p> <p>Am Rand bitte die Bemerk. und Zeichen.</p> 
+                    <milestone unit="section" rendition="#hr"/>
+                    <p>Vielen Dank für die Karte, indessen hat Trude meine. Können Sie die Gurrelieder noch nicht und ich kann 
+                    sie beinahe? Ich kann nicht mehr schreiben, ich bin zu müde. Bitte bestätigen Sie mir das Paket - und schreiben Sie mir bitte sehr, wegen der andern, wie ich Trude bat. 
+                    Schreiben Sie mir auch, ob Ihre Frau sich noch einmal geschält? hat - und wie das Gesicht aussieht, war von meiner ? 
+                    sie besitzt Auch Trudes?.</p>
+                    <closer><salute>Herzl. Grüße an Sie alle</salute></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -36,7 +36,7 @@
          <pb n="1" />
          <opener>
             <date rendition="#r">10.IV.1927</date>
-            <salute>Lieber Herr Schönberg!</salute><!-- kein Absatz-->
+            <salute>Lieber Herr Schönberg!</salute><!-- kein Absatz--><!-- siehe Brief 1313 -->
          </opener>
          <p>Vielen Dank für Ihre Briefe. <persName ref="https://d-nb.info/gnd/104532858">Dr. Adler</persName> hat den Brief noch am selben Tag bekommen, an dem
             ich ihn erhielt. Ihre Zustimmung zur Pariser <seg type="comment"><orig>Gurre-Lieder</orig><note><p><ref target="https://www.schoenberg.at/index.php/de/typography/gurre-lieder"></ref></p></note></seg> Aufführung habe ich
@@ -54,7 +54,7 @@
             eigentlich die Absicht, nach<placeName ref="https://d-nb.info/gnd/4066009-6">Wien</placeName> zu kommen? – Wegen der Kontrabässe im Fis moll
             Quartett habe ich <persName ref="https://d-nb.info/gnd/118629786">Webern</persName> schon gefragt. Er erinnert sich, dass Sie solche verwendet
             haben, aber sehr diskret. Ich werde mir das Exemplar, das <persName ref="https://d-nb.info/gnd/118509322">Berg</persName>hat, ansehn und Ihnen
-            darüber berichten. – Wegen der <seg type="comment"><orig>Pelleas</orig><note><p><ref target="https://d-nb.info/gnd/300139241"></ref></p></note></seg>-Partitur werde ich mit <persName ref="	https://d-nb.info/gnd/116755121">Hertzka</persName> reden. Vorher aber
+            darüber berichten. – Wegen der <seg type="comment"><orig>Pelleas</orig><note><p><ref target="https://d-nb.info/gnd/300139241"></ref></p></note></seg>-Partitur werde ich mit <persName ref="https://d-nb.info/gnd/116755121">Hertzka</persName> reden. Vorher aber
             mir die Möglichkeit der Reduktion genau überlegen. Zunächst halte ich sie nicht für
             unmöglich und leichter wie bei den <seg type="comment"><orig>Gurre-Lieder</orig><note><p><ref target="https://www.schoenberg.at/index.php/de/typography/gurre-lieder"></ref></p></note></seg>. Die Reduktion den Kapellmeistern zu
             überlassen halte ich für ungünstig; nicht nur weil man dann nicht weiss, was daraus
@@ -64,25 +64,24 @@
             Kapellmeister kaum Zeit dazu fänden. Ich werde die Partitur nochmals studieren und Ihnen
             von dem Resultat, zu dem ich komme, berichten. – Die Pelleas Aufführung hab ich bei
             <persName ref="https://d-nb.info/gnd/128400420">Kolisch</persName> gehört, der Ihnen ja vielleicht schon darüber berichtet hat. Er hatte sich einen
-            ganz grossen Raioapparat ausgeliehen. Es waren waren aber so viel Störungen, dass man
+            ganz grossen Radioapparat ausgeliehen. Es waren waren aber so viel Störungen, dass man
             nur selten überhaupt etwas und nur wenige Stellen klar hören konnte. Deutlich war die F
             Dur Partie mit den beiden heftigen Takten vorher, ein grosser Teil des Adagio, und der
             grösste Teil der Coda, namentlich die letzten Takte fast frei von Geräuschen. Man hatte
             den Eindruck, dass es eine sehr gute Aufführung gewesen sein muss. – In der
             Beethovenwoche war mir beinahe des Interessanteste, einmal wirklich einen Vergleich
-            zwischen <persName ref="https://d-nb.info/gnd/118629786">Webern</persName> und -<persName ref="	https://d-nb.info/gnd/11863027X">Weingartner</persName> ziehen zu können. <persName ref="https://d-nb.info/gnd/118629786">Webern</persName> dirigierte in einem Arbeiter
-            Konzert die Chorphantasie mit <persName ref="https://d-nb.info/gnd/118953060">Steuermann</persName >am Klavier; <del rendition="s">acht</del><add
+            zwischen <persName ref="https://d-nb.info/gnd/118629786">Webern</persName> und -<persName ref="https://d-nb.info/gnd/11863027X">Weingartner</persName> ziehen zu können. <persName ref="https://d-nb.info/gnd/118629786">Webern</persName> dirigierte in einem Arbeiter
+            Konzert die Chorphantasie mit <persName ref="https://d-nb.info/gnd/118953060">Steuermann</persName >am Klavier; <del rendition="#s">acht</del><!-- <del rendition="#s">acht</del> --><add
             place="superlinear">fünf</add> Tage später hörte ich sie mit demselben Orchester und
             <persName ref="https://d-nb.info/gnd/118608762">Franz Schmidt</persName> als Pianisten unter <persName ref="https://d-nb.info/gnd/11863027X">Weingartner</persName>. Dieser Qualitätsunterschied war so
             ungeheuerlich, dass er selbst den Orchestermusikern, mit denen ich gesprochen hab
             aufgefallen ist. Das eine Mal Musik, das andere Mal ein Brei.</p>
          <p>Bei uns zuhause ist alles in Ordnung. Die Kleine gedeiht sehr gut. Sie ist bald ein
-            Halbes Jahr alt.</p>
-            <closer><salute>Meine Frau lässt Sie beide vielmals herzlichst grüssen.
+            Halbes Jahr alt.</p> <closer><salute>Meine Frau lässt Sie beide vielmals herzlichst grüssen.
             Auch von mir viele Grüsse an Ihre liebe <persName
-            ref="https://d-nb.info/gnd/116860146">Frau</persName>. Ich bin stets in Verehrung Ihr
-            </salute><signed
-               rendition="r">Stein</signed> <seg hand="#addressee">19/4.</seg>
+            ref="https://d-nb.info/gnd/116860146">Frau</persName>. Ich bin stets in Verehrung <lb/>Ihr
+            </salute><lb/><signed
+               rendition="#r">Stein</signed> <seg hand="#addressee">19/4.</seg>
          </closer>
          </div>
       </body>

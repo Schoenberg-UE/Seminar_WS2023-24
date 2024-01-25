@@ -38,7 +38,7 @@
                   <addrLine>
                      <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
                   </addrLine>
-                  <addrLine>Charlottenburg 2</addrLine><!-- Ort verlinken -->
+                  <addrLine>Charlottenburg 2</addrLine>
                   <addrLine>Steinplatz 2</addrLine>
                   <addrLine>Pension Bavaria</addrLine>
                </address>
@@ -47,8 +47,8 @@
                </dateline>
                <salute>Lieber <persName ref="https://d-nb.info/gnd/124172962">Stein</persName></salute>
             </opener><!--
-            kein Absatz - Spezialfall: das kann man lösen, indem man den nächsten Absatz als "in der Zeile" <p rendition="inline"> codiert-->
-            <p>das <bibl sameAs="https://d-nb.info/013874969">Heft</bibl> ist ausgezeichnet. Ich bin
+            kein Absatz--><!-- das lässt sich damit lösen, dass man den folgenden Absatz als in der Zeile codiert: <p rendition="#inline"> -->
+            <p>das <bibl sameAs="https://d-nb.info/013874969">Heft</bibl><!-- hier würde ich schon einen Kommentar mit der bibliographischen Angabe des gesamten Heftes machen, da ja nicht die Zeitschrift insgesamt, sondern ein bestimmtes Heft gemeint ist  --> ist ausgezeichnet. Ich bin
                wirklich n nun stolz darauf, dass sich endlich nu<add place="intralinear">n</add>
                doch soviele finden, die nicht bloss durch Begeisterung für mich zu wirken imstande
                sind, sondern dadurch, dass das was <unclear> zu </unclear> schreiben an sich
@@ -57,7 +57,7 @@
                   <orig>Artikel</orig>
                   <note>
                      <p>
-                        <ref target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=2970&amp;amp;action=view&amp;amp;sortieren=lastChanged%20DESC&amp;amp;vonBis=0-19"/>
+                        <ref target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=2970&amp;amp;action=view&amp;amp;sortieren=lastChanged%20DESC&amp;amp;vonBis=0-19"></ref>
                      </p>
                   </note>
                </seg>
@@ -94,7 +94,7 @@
                   <orig>Aufsätze</orig>
                   <note>
                      <p>
-                        <ref target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=947&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"></ref>
+                        <ref target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=947&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"><!-- Hier wäre es gut dem link jeweils einen Textinhalt zu geben "Felber 1927a" oder "Exemplar aus dem Nachlass" - siehe auch die folgenden Stellen--></ref>
                      </p>
                      <p>
                         <ref target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=946&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"></ref>
@@ -114,14 +114,16 @@
                ja jetzt ganz anders, als anfangs. Und die Anal^se ist ausgezeichnet. Das wird Schule
                machen. Auch <persName ref="https://d-nb.info/gnd/117067482">Jalowetz</persName> ist
                sehr hübsch und warm. Nur kommt er leider nicht über seinen Fehler langer
-               Einleitungen hinaus und es fehlt ihm dann der Raum zu den Tatsachen. <seg type="comment">
-                  <orig>Er hätte entschieden schriftstellerische Begabung</orig>
+               Einleitungen hinaus und es fehlt ihm dann der Raum zu den Tatsachen. Er hätte
+               entschieden schriftstellerische Begabung <seg type="comment">
+                  <orig><!-- hier ist die codierung nicht ganz richtig - auf welcher Textstelle sitzt das orig des Kommentars? -->
                      <note>
                         <p>
                            <ref target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=1430&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"></ref>
                         </p>
                      </note>
-               </seg> schreibt aber zu selten, um diese Anfängerschwierigkeiten zu überwinden. Sehr hübsch finde ich auch die beiden <seg type="comment">
+                  </orig>
+               </seg>schreibt aber zu selten, um diese Anfängerschwierigkeiten zu überwinden. Sehr hübsch finde ich auch die beiden <seg type="comment">
                   <orig>Aufsätze</orig>
                   <note>
                      <p>
@@ -181,8 +183,8 @@
                Nochmals
                also: ich habe mich sehr gefreut.</p>
             <closer>
-               <salute>Viele herzlichste Grüsse an Sie und Ihre Frau, auch seiten meiner <persName
-                     ref="https://d-nb.info/gnd/116860146">Frau</persName></salute>. Wir kommen in circa 3
+               <salute>Viele herzlichste Grüsse an Sie und Ihre Frau<!-- kann man Steins Frau identifizieren? -->, auch seiten meiner <persName
+                     ref="https://d-nb.info/gnd/116860146">Frau</persName>. Wir kommen in circa 3
                   Wochen nach <placeName ref="https://d-nb.info/gnd/4066009-6">Wien</placeName>. Am
                   20 gebe ich in der <seg type="comment">
                      <orig>Akademie</orig>
@@ -201,20 +203,20 @@
                         </p>
                      </note>
                   </seg>
-                  Könnte die UE Sie nicht zu diesemals Referenten hersenden und um eventuell den
-                  einen oder anderen Autor zu „erwerben“? Billig, den Zillig! Ihr
+                  Könnte die UE<!-- Idenfikation --> Sie nicht zu diesemals Referenten hersenden und um eventuell den
+                  einen oder anderen Autor zu „erwerben“? Billig, den Zillig<!-- Identifikation -->! Ihr</salute>
                </closer>
                <postscript>
                   <p>PS. Bitte sagen Sie in der <seg type="comment">
-                        <orig>UE</orig>
+                        <orig>UE</orig><!-- hier können sie den link auch gleich auf den Namen <orgName ref="....">UE</orgName> setzen, wie bei Personen; ein Kommentar ist gar nicht nötig -->
                         <note>
                            <p>
                               <ref target="https://d-nb.info/dnbn/33001031X"></ref>
                            </p>
                         </note>
                      </seg>,
-                     ich bitte mir 2 Exemplare meiner Choralpartitur zu senden. Ich habe von einem
-                     Stück überhaupt keines. Und möchte doch den Aufsatz prüfen.</p>
+                     ich bitte mir 2 Exemplare meiner Choralpartitur<!-- Choralpartituren Bach-Bearbeitungen von AS --> zu senden. Ich habe von einem
+                     Stück überhaupt keines. Und möchte doch den Aufsatz<!-- Redlich --> prüfen.</p>
                </postscript>
          </div>
       </body>
