@@ -107,7 +107,7 @@ tei-signed {
 
 /* Links */
 a {
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 /* Hinzufügungen und Streichungen */
