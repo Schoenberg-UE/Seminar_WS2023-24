@@ -11,10 +11,11 @@ import "./note.css"
 const Note = (props) => {
 
   const note = props.teiNode
+  if (note.parentElement === undefined) return console.log("Fehler: " + note)
   if (note.parentElement.nodeName !== "tei-seg") return
   const n = note.getAttribute('n') || ''
   const lemma = note.previousElementSibling ? note.previousElementSibling.textContent : "Anmerkung"
-  console.log(note.childNodes)
+  //console.log(note.childNodes)
 
   const popover = (
     <Popover id="popover-basic">
