@@ -12,7 +12,7 @@ export default function About() {
           </div>
           <div className="pb-3">
             <h4>Seminarteilnehmer:innen</h4>
-            <p>###</p>
+            <p>Marius Auer, Soleil Fröhlich, Veronika Lesjak, Jil Paul, Adrian Schmidt, Katharina Stolarov</p>
           </div>
           <div className="pb-3">
             <h4>Technische Umsetzung</h4>
