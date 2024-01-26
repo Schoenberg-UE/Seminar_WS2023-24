@@ -11,12 +11,12 @@ export default function Home() {
       <main>
         <div className="container">
           <Alert variant={"primary"} className="my-5">
-            <p>Die auf dieser Seite gezeigten Briefe wurden von Studierenden der mdw im Rahmen des Seminars <em>»Klavierstuecke unveraendert Stop«. Schönberg-Briefe edieren</em> transkribiert und kommentiert. Das Seminar wurde im Wintersemester 2023/24 am Arnold Schönberg Center abgehalten.</p>
+            <p>Die auf dieser Seite gezeigten Briefe wurden von Studierenden der mdw im Rahmen des Seminars <em>»Klavierstuecke unveraendert Stop«. Schönberg-Briefe edieren</em> transkribiert und kommentiert. Das Seminar wurde im Wintersemester 2023/24 am Wissenschaftszentrum Arnold Schönberg und die Wiener Schule an der Universität für Musik und darstellende Kunst Wien abgehalten (<a href="http://www.schoenberg.at/index.php/de/veranstaltungen/3473/seminar-klavierstuecke-unveraendert-stop-schoenberg-briefe-edieren?filter_reset=1" target="_blank" rel="noopener noreferrer">Link zur Veranstaltungsseite</a>).</p>
           </Alert>
           <div className="theme-cards">
             <div className="d-flex flex-row mb-3">
               <Card style={{ display: "flex", flexDirection: "row", width: "60%" }}>
-                <Card.Img style={{ width: "auto", height: "20em" }} src="/images/PH8469.jpg" />
+                <Card.Img style={{ width: "auto", height: "20em" }} src="images/PH8469.jpg" />
                 <Card.Body>
                   <Card.Title>Karl Linke</Card.Title>
                   <Card.Text>
@@ -39,7 +39,7 @@ export default function Home() {
                     <Link to="/letters">Zu den Briefen</Link>
                   </Button>
                 </Card.Body>
-                <Card.Img style={{ width: "auto", height: "20em" }} src="/images/CR090.jpg" />
+                <Card.Img style={{ width: "auto", height: "20em" }} src="images/CR090.jpg" />
               </Card>
             </div>
             <div className="d-flex flex-row mb-3">
