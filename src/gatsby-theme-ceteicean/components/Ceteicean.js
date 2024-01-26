@@ -2,7 +2,9 @@ import React from "react"
 import Ceteicean from "gatsby-theme-ceteicean/src/components/Ceteicean"
 import {
   Tei,
-  TeiHeader
+  TeiHeader,
+  Ref,
+  Title
 } from "gatsby-theme-ceteicean/src/components/DefaultBehaviors"
 import Layout from "../../components/Layout"
 import Pb from "./Pb"
@@ -21,7 +23,9 @@ const MyCeteicean = ({pageContext}) => {
   const routes = {
     "tei-tei": Tei,
     "tei-teiheader": TeiHeader,
+    "tei-title": Title,
     "tei-note": Note,
+    "tei-ref": Ref,
     "tei-persname": PersName,
     "tei-placename": PlaceName,
     "tei-bibl": Bibl,
