@@ -17,21 +17,23 @@ const Index = () => {
     
     const cardInfo = teifiles.map(file => {
       const xmlString = file.prefixed
-      const parser = new DOMParser();
-      const xmlDoc = parser.parseFromString(xmlString, "application/xml");
-      const errorNode = xmlDoc.querySelector("parsererror");
+      const parser = new DOMParser()
+      const xmlDoc = parser.parseFromString(xmlString, "application/xml")
+      const errorNode = xmlDoc.getElementsByTagName("parsererror")[0]
       if (errorNode) {
-        return console.log("error while parsing"); 
+        return console.log("error while parsing")
       }
       const root = xmlDoc.documentElement
       const id = root.getAttribute("xml:id")
-      const title = xmlDoc.querySelector("tei-titleStmt > tei-title").textContent
-      const editor = xmlDoc.querySelector("tei-titleStmt > tei-editor").textContent
-      const paragraphs = xmlDoc.querySelectorAll("tei-div[type='letter'] > tei-p")
-      const textContent = [...paragraphs].map(item => item.textContent)
+      const header = root.firstElementChild
+      const text = root.lastElementChild
+      const title = header.getElementsByTagName("tei-title")[0].textContent
+      const editor = header.getElementsByTagName("tei-editor")[0].textContent
+      const paragraphs = text.getElementsByTagName("tei-p")
+      const textContent = Array.from(paragraphs).map(item => item.textContent)
       const letterText = textContent.join(" ")
       const incipit = letterText.split(/(\s+)/).slice(0,22).join("")
-      const date = xmlDoc.querySelector("tei-correspAction[type='sent'] > tei-date") ? new Date(xmlDoc.querySelector("tei-correspAction[type='sent'] > tei-date").getAttribute("when")) : new Date("1999-01-01")
+      const date = header.getElementsByTagName("tei-date")[0] ? root.getElementsByTagName("tei-date")[0].getAttribute("when") : "unknown" //[0] ? new Date(xmlDoc.getElementsByTagName("tei-date")[0].getAttribute("when")) : new Date("1999-01-01")
       return {
         "id": id,
         "title": title,
@@ -39,7 +41,15 @@ const Index = () => {
         "incipit": incipit,
         "date": date
       }
-    }).sort((a, b) => a.date - b.date)
+    }).sort((a, b) => {
+      if (a.date < b.date) {
+      return -1;
+    }
+    if (a.date > b.date) {
+      return 1;
+    }
+    return 0;
+    })
 
     console.log(cardInfo)
 
