@@ -6,11 +6,18 @@ const PlaceName = (props) => {
   
   const placeName = props.teiNode
   const target = placeName.getAttribute("ref")
-  if (target === null) return
+  if (target === null)
+  return <Behavior node={props.teiNode}>
+          <span className="place">
+            <TEINodes 
+              teiNodes={props.teiNode.childNodes}
+              {...props}/>
+          </span>
+        </Behavior>
   const gndId = target.split("/").pop()
   
   return <Behavior node={props.teiNode}>
-    <a href={target} className="PlaceName" data-gndid={gndId} target="_blank" rel="noopener noreferrer">
+    <a href={target} className="place" data-gndid={gndId} target="_blank" rel="noopener noreferrer">
       <TEINodes 
         teiNodes={props.teiNode.childNodes}
         {...props}/>
