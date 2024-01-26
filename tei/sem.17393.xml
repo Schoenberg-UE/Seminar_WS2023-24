@@ -52,9 +52,9 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                                     >Berlin-Zehlendorf</placeName></hi></addrLine>
                     </address>
                     <salute rendition="#c">Sehr geehrter Herr!</salute></opener>
-                <p>Wir bestätigen mit Dank den Empfang des <lb/>Manuscriptes von <bibl
-                        sameAs="https://d-nb.info/gnd/300139128"> &#8222;Friede auf
-                        Erden&#8220;</bibl><!-- bibl besser innerhalb der Anführungszeichen --> (a cappella –<lb/>Partitur und Orchesterstimme). <lb/>
+                <p>Wir bestätigen mit Dank den Empfang des <lb/>Manuscriptes von &#8222;<bibl
+                        sameAs="https://d-nb.info/gnd/300139128"> Friede auf
+                        Erden</bibl>&#8220; (a cappella –<lb/>Partitur und Orchesterstimme). <lb/>
                     Wir bitten Sie auf jeden Fall, für den Stich die <lb/>schon benutzten Stimmen
                     aus <placeName ref="https://d-nb.info/gnd/4066012-6">Wien</placeName>
                     <del rendition="#s">und</del> kommen <lb/>zu lassen, und dieselben noch einmal
@@ -70,16 +70,15 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                     Partitur zu billigem Preise ab-<lb/>geben werden, um ihre Verbreitung bei
                         event<gap rendition="lost"/><lb/> Aufführungen zu fördern. <lb/>Nach
                     Unterzeichnung des beigefügten <seg type="comment"
-                                ><orig>Kon-<lb/>traktes</orig><note><p>Brief vom 19.03.1912, from:
-                                Gerhard, Tischer; to: Schönberg, Arnold; ASCC 23942</p><p><ref
+                                ><orig>Kon-<lb/>traktes</orig><note><p><ref
                                     target="https://repo.schoenberg.at/urn:nbn:at:at-asc-B239429"
-                                /></p></note></seg><!-- den Link können Sie direkt auf die Bezeichnung setzten <ref=target"...">ASCC 23942</ref> Bei der Benennung würde ich "Gerhard Tischer an Arnold Schönberg, 19. März 1912, ASCC 23942" schreiben, ist aber nicht falsch so--> werden wir Ihrem Wunsche gemäß <lb/>das Honorar
+                                />Gerhard Tischer an Arnold Schönberg, 19. März 1912, ASCC 23942</p></note></seg> werden wir Ihrem Wunsche gemäß <lb/>das Honorar
                     an die <orgName ref="https://d-nb.info/gnd/16231438-3">Dresdener Bank</orgName>
                     <lb/>Filiale Zehlendorf einzahlen.</p>
                 <closer rendition="#r"><salute>Hochachtungsvoll</salute><lb/> p <stamp><orgName
                             ref="https://d-nb.info/dnbn/330010050">Tischer &amp; Jagenberg <!-- lb -->G. m. b.
                             H.</orgName>
-                    </stamp><!-- lb -->
+                    </stamp><lb/>
                     <signed><persName>P. Beulke</persName></signed>
                 </closer>
                 <postscript>
@@ -88,18 +87,14 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                 </postscript>
                 <postscript>
                     <p>Ihr soeben eingegangener <seg type="comment"><orig>Brief <lb/>vom 18. d.
-                                M.</orig><note><p>Brief vom 18.03.1912, from: Schönberg, Arnold; to:
-                                    Tischer, Gerhard; ASCC 23942</p><p><ref
-                                        target="https://repo.schoenberg.at/urn:nbn:at:at-asc-B239409"
-                                    />
+                                M.</orig><note><p>Arnold Schönberg an Gerhard Tischer, 18. März 1912, ASCC 23940</p><p><ref
+                                        target="https://repo.schoenberg.at/urn:nbn:at:at-asc-B239409"/>
                                 </p></note></seg> erledigt sich hierdurch</p>
                 </postscript>
                 <postscript>
-                    <p><seg type="comment"><orig>Vertrag!</orig><note><p>Brief vom 19.03.1912, from:
-                                    Gerhard, Tischer; to: Schönberg, Arnold; ASCC 23940</p><p><ref
-                                        target="https://repo.schoenberg.at/urn:nbn:at:at-asc-B239429"
-                                    /></p></note></seg></p>
-                    <p>Bitte das als Copie gekennzeichnete Ex. zu be-<lb/><!-- hier wäre es besser, den Kommentar auf die Copie zu legen, welche das überlieferte Dokument laut ASCC zu sein scheint -->halten, das andere
+                    <p>Vertrag!</p>
+                    <p>Bitte das als<seg type="comment"><orig>Copie</orig><note><p>Gerhard Tischer an Arnold Schönberg, 19. März 1912, ASCC 23942</p><p><ref target="https://repo.schoenberg.at/urn:nbn:at:at-asc-B239429"
+                        /></p></note></seg> gekennzeichnete Ex. zu be-<lb/>halten, das andere
                         zurückzusenden, da es gestem-<lb/>pelt werden muss.</p>
                     <p>In §2 habe ich freigelassen, wer das Aufführungs-<lb/>recht hat, und bitte
                         Sie das auszufüllen. Wir <lb/>sind Mitglieder der <orgName
