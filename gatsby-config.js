@@ -30,6 +30,32 @@ module.exports = {
         name: "Impressum",
         link: "/about"
       }
+    ],
+    entities: [
+      {
+        id: "persons",
+        name: "Personen",
+        element: "persName",
+        gndRef: "ref"
+      },
+      {
+        id: "organisations",
+        name: "Organisationen",
+        element: "orgName",
+        gndRef: "ref"
+      },
+      {
+        id: "places",
+        name: "Orte",
+        element: "placeName",
+        gndRef: "ref"
+      },
+      {
+        id: "works",
+        name: "Werke und Schriften",
+        element: "bibl",
+        gndRef: "sameAs"
+      },
     ]
   },
   plugins: [
