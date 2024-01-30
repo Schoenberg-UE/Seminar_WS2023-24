@@ -25,15 +25,15 @@ const Index = () => {
       }
       const root = xmlDoc.documentElement
       const id = root.getAttribute("xml:id")
-      const header = root.firstElementChild
-      const text = root.lastElementChild
+      const header = root.getElementsByTagName("tei-teiHeader")[0]
+      const body = root.getElementsByTagName("tei-body")[0]
       const title = header.getElementsByTagName("tei-title")[0].textContent
       const editor = header.getElementsByTagName("tei-editor")[0].textContent
-      const paragraphs = text.getElementsByTagName("tei-p")
+      const paragraphs = body.getElementsByTagName("tei-p")
       const textContent = Array.from(paragraphs).map(item => item.textContent)
       const letterText = textContent.join(" ")
       const incipit = letterText.split(/(\s+)/).slice(0,22).join("")
-      const date = header.getElementsByTagName("tei-date")[0] ? root.getElementsByTagName("tei-date")[0].getAttribute("when") : "unknown" //[0] ? new Date(xmlDoc.getElementsByTagName("tei-date")[0].getAttribute("when")) : new Date("1999-01-01")
+      const date = header.getElementsByTagName("tei-date")[0] ? header.getElementsByTagName("tei-date")[0].getAttribute("when") : "unknown" //[0] ? new Date(xmlDoc.getElementsByTagName("tei-date")[0].getAttribute("when")) : new Date("1999-01-01")
       return {
         "id": id,
         "title": title,
