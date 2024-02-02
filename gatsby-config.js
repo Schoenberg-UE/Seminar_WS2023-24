@@ -52,7 +52,7 @@ module.exports = {
       },
       {
         id: "works",
-        name: "Werke und Schriften",
+        name: "Musikalische Werke und Schriften",
         element: "bibl",
         gndRef: "sameAs"
       },
