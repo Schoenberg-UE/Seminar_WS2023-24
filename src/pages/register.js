@@ -1,8 +1,9 @@
-import * as React from "react"
+import React, {useState, useEffect} from "react"
 import { useStaticQuery, graphql, Link } from "gatsby"
 import Layout from "../components/Layout"
 
 const Index = () => {
+    // Build Time Data Fetching
     const data = useStaticQuery(graphql`
       query filesAndIndexMetadata {
         allCetei {
@@ -28,6 +29,31 @@ const Index = () => {
     const teifiles = data.allCetei.nodes
     const config = data.site.siteMetadata.entities
 
+    /*const gndKeys = {
+      persons: ["preferredName", "dateOfBirth", "dateOfDeath", "placeOfBirth", "placeOfDeath", "professionOrOccupation", "sameAs"],
+      organisations: ["preferredName"],
+      places: ["preferredName"],
+      works: ["preferredName"]
+    }*/
+    /*const dataStruct = [
+      {
+        "persons": {
+          "118610023": ["aaa"],
+          "118576291": ["bbb"],
+          "118610740": ["ccc"],
+          "11861911X": ["ddd"],
+          "118715054": ["eee"]
+        }
+      },
+      {
+        "places": {
+          "4066009-6": ["aaa"],
+          "4005728-8": ["ccc"],
+          "4036361-2": ["fff"]
+        }
+      }
+    ]*/
+    
     const parseXMLFile = file => {
       const xmlString = file.prefixed
       const parser = new DOMParser()
@@ -55,7 +81,7 @@ const Index = () => {
         return rv
       }, {})
     }
-    
+
     const parsedFiles = teifiles.map(parseXMLFile)
     const rootNodes = parsedFiles.map(file => file.documentElement)
     const entityTypes = config.map(item => item.id)
@@ -68,6 +94,7 @@ const Index = () => {
                             .filter(entity => entity.getAttribute(gndRef))
                             .map(entity => entity.getAttribute(gndRef))
                             .filter((value, index, array) => array.indexOf(value) === index)
+                            .map(entity => entity.substring(entity.lastIndexOf('/') + 1))
         const fileId = root.getAttribute("xml:id")
         const letterTitle = root.getElementsByTagName("tei-title")[0].textContent
         const date = root.getElementsByTagName("tei-date")[0] ? root.getElementsByTagName("tei-date")[0].getAttribute("when") : "unknown"
@@ -81,110 +108,82 @@ const Index = () => {
       return { [type]:  groupedEntities}
     })
 
-    console.log(dataStruct)
-
     
-      /*
-      const gndIds = entities.filter(entity => entity.getAttribute(mapping[type]["gndRef"])).map(entity => entity.getAttribute(mapping[type]["gndRef"])).filter((value, index, array) => array.indexOf(value) === index)
-      const aaa = gndIds.map(value, index => {
-        return { value: xmlIds[index] }
-      })
-    })
+    const [gndData, setGndData] = useState(null)
     
-    const id = root.getAttribute("xml:id")
-
-      // named entities
-      const persNames = root.getElementsByTagName("tei-persName")
-      const orgNames = root.getElementsByTagName("tei-orgName")
-      const placeNames = root.getElementsByTagName("tei-placeName")
-      const workNames = root.getElementsByTagName("tei-bibl")
-      
-      const map = {
-        "persons": [...persNames],
-        "organisations": [...orgNames],
-        "places": [...placeNames],
-        "works": [...workNames]
+    async function fetchGndApi(gndId) {
+      try {
+        const response = await fetch(`https://lobid.org/gnd/${gndId}.json`)
+        const data = await response.json()
+        return data
+      } catch(error) {
+        console.log(error)
       }
-
-      Object.keys(map).forEach(key => {
-        const predicate = {
-          "works": "sameAs",
-          "persons": "ref",
-          "places": "ref",
-          "organisations": "ref"
-        }
-        let filtered = map[key].filter(item => item.getAttribute(predicate[key]))
-        let distinctRefs = filtered.map(item => item.getAttribute("ref")).filter((value, index, array) => array.indexOf(value) === index)
-        map[key] = {}
-        distinctRefs.forEach(item => map[key][item] = id)
+    }
+    
+    useEffect(() => {
+      const promises = []
+      dataStruct.forEach(obj => {
+        const type = Object.keys(obj)[0]
+        Object.keys(obj[type]).forEach(gndId => {
+          const promise = fetchGndApi(gndId)
+          promises.push(promise) 
+        })
       })
-
-      console.log("MAP")*/
-      
-      /*const persNamesWithRef = Array.from(persNames).filter(item => item.getAttribute("ref"))
-      const orgNamesWithRef = Array.from(orgNames).filter(item => item.getAttribute("ref"))
-      const placeNamesWithRef = Array.from(placeNames).filter(item => item.getAttribute("ref"))
-      const workNamesWithRef = Array.from(workNames).filter(item => item.getAttribute("sameAs"))*/
-      
-      /*const gndRefs = persNamesWithRef.map(item => item.getAttribute("ref"))
-      const distinctGndRefs = gndRefs.filter((value, index, array) => array.indexOf(value) === index)
-      
-      distinctGndRefs.forEach(item => map[item] = id)*/
-      /*return map
-    })
-    console.log(personElements)
-    //console.log(personElements)
-
-    // ###########################################
-    // ########## HIER WEITERARBEITEN ############
-    // ###########################################
-    // get all unique keys inside the objects of the personElements-array (get keys, flatten two-dimensional array, filter distinct values)
-    const keys = personElements.map((item, index) => Object.keys(item).forEach(type => {
-      personElements[index][type] = Object.keys(item[type])
-    }))
-    console.log("KEYS")
-    console.log(keys)
-    //const keys = personElements.map(item => Object.keys(item)).flat().filter((value, index, array) => array.indexOf(value) === index)
-
-    let resultObj = {}
-
-    // for each resulting key, get all values that are assigned by this key in the personElements-array
-    keys.forEach(item => {
-      resultObj[item] = []
-      personElements.forEach(obj => {
-        if (obj[item]) {
-          resultObj[item].push(obj[item])
-        }
+      Promise.all(promises).then(values => {
+        setGndData(values)
+        console.log(values)
       })
-    })*/
-
+    }, [])
+    
+    if (gndData) {
     return (
       <Layout location="register">
         <div className="container">
           <h3 className="text-center my-5">Register</h3>
-          <div>{dataStruct.map(item => { 
-                const type = Object.keys(item)[0]
-                const entityInfo = config.filter(obj => obj.id === type)
-                const { id, name } = entityInfo[0]
-          return (
-            <div key={ id } className={ id }>
-              <h3>{ name }</h3>
-              {Object.entries(item[id]).map(([key, value]) => (
-                <div key={ key }>
-                  <div>{ key }</div>
-                  <ul>{value.sort(orderByDate).map(obj => (
-                    <li key={ obj.fileId }>
-                      <Link to={ `../${obj.fileId}` }>{ obj.title }</Link>
-                    </li>
-                  ))}</ul>
+          <div>
+            {config.map(obj => { 
+              const { id, name } = obj
+              const registerObj = dataStruct.filter(item => Object.hasOwn(item, id))
+              //console.log(registerObj)
+              return (
+                <div key={ id } className={ id }>
+                  <h3>{ name }</h3>
+                  {Object.entries(registerObj[0][id]).map(([key, value]) => {
+                    //console.log(gndData)
+                    const gndObj = gndData.filter(obj => obj !== undefined && obj.gndIdentifier === key)
+                    const preferredName = gndObj.length === 1 ? gndObj[0].preferredName : `Zum Eintrag mit der GND ${key} können keine Daten abgerufen werden.`
+                    //console.log(gndObj)
+                    return (
+                      <div key={ key }>
+                        <div>{ preferredName }</div>
+                        <ul>{value.sort(orderByDate).map(obj => {
+                          const { fileId, title } = obj
+                          return (
+                            <li key={ fileId }>
+                              <Link to={ `../${fileId}` }>{ title }</Link>
+                            </li>
+                          )
+                        })}</ul>
+                      </div>
+                    )}
+                  )}
                 </div>
-              ))}
-            </div>
-          )})}
+              )
+            })}
           </div>
+          {/* dataStruct.map(obj => {
+            const type = Object.keys(obj)[0]
+            return (
+              <div key={ type }>
+                <div>{ type }</div>
+                <ul>{gndData.map(item => (<li key={ item.preferredName }>{ item.preferredName }</li>))}</ul>
+              </div>
+            )
+          }) */}
         </div>
       </Layout>
-    )
+    )}
   }
   
   export default Index
