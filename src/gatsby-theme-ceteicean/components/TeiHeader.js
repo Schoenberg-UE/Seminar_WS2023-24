@@ -10,10 +10,10 @@ const TeiHeader = ({teiNode}) => {
   const editor = titleStmt.getElementsByTagName("tei-editor")[0].textContent
   const senderInfo = teiNode.getElementsByTagName("tei-correspAction")[0]
   const sender = senderInfo.getElementsByTagName("tei-persName")[0].textContent
-  const place = senderInfo.getElementsByTagName("tei-placeName")[0].textContent
+  const place = senderInfo.getElementsByTagName("tei-placeName")[0]
   const date = senderInfo.getElementsByTagName("tei-date")[0]
-  const formatDate = date.getAttribute("when")
-  const addressee = teiNode.getElementsByTagName("tei-correspAction")[1].getElementsByTagName("tei-persName")[0].textContent
+  const formatDate = date ? date.getAttribute("when") : "ohne Datum"
+  const addressee = teiNode.getElementsByTagName("tei-correspAction")[1].getElementsByTagName("tei-persName")[0]
 
   return (
     <Behavior node={teiNode}>
@@ -23,11 +23,11 @@ const TeiHeader = ({teiNode}) => {
       <div className="metadata">
         <div className="row sender">
             <div className="col-md-3">Absender:</div>
-            <div className="col-md-9">{ sender }, { place }, { formatDate }</div>
+            <div className="col-md-9">{ sender }, { place ? `${place.textContent}, ` : ""}{ formatDate }</div>
         </div>
         <div className="row addressee">
             <div className="col-md-3">Empfänger:</div>
-            <div className="col-md-9">{ addressee }</div>
+            <div className="col-md-9">{ addressee ? addressee.textContent : "" }</div>
         </div>
       </div>
       </Alert>
