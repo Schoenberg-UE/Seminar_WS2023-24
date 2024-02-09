@@ -2,7 +2,6 @@ import React from "react"
 import Ceteicean from "gatsby-theme-ceteicean/src/components/Ceteicean"
 import {
   Tei,
-  TeiHeader,
   Ref,
   Title
 } from "gatsby-theme-ceteicean/src/components/DefaultBehaviors"
@@ -13,6 +12,7 @@ import PersName from "./PersName"
 import PlaceName from "./PlaceName"
 import Bibl from "./Bibl"
 import Add from "./Add"
+import TeiHeader from "./TeiHeader"
 //import Mirador from "./Mirador"
 
 import "./ceteicean.css"
