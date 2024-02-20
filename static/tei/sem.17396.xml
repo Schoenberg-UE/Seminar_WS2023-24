@@ -59,9 +59,9 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                             ref="https://d-nb.info/gnd/118610023"
                     >Schönberg</persName>!</salute></opener>
                 <p>In Beantwortung Ihrer Karte teile ich Ihnen mit, dass wir <lb/>selbst vorher von
-                    der englischen Aufführung<!-- Falls bei Fr. Muxeneder hiezu nichts steht kann man hier kann man etwas finden (ohne Bezahlzugang sollte zumindest das Datum dingfest zu machen sein) https://britishnewspaperarchive.co.uk/search/results/1910-01-01/1919-12-31?basicsearch=%22arnold%20sch%c3%b6nberg%22%20peace&exactsearch=false&retrievecountrycounts=false&sortorder=dayearly --> nichts gewusst haben. Dieselbe <lb/>ist von der
+                    der englischen Aufführung<!-- Falls bei Fr. Muxeneder hiezu nichts steht kann man hier kann man etwas finden (ohne Bezahlzugang sollte zumindest das Datum dingfest zu machen sein) https://britishnewspaperarchive.co.uk/search/results/1910-01-01/1919-12-31?basicsearch=%22arnold%20sch%c3%b6nberg%22%20peace&amp;exactsearch=false&amp;retrievecountrycounts=false&amp;sortorder=dayearly --> nichts gewusst haben. Dieselbe <lb/>ist von der
                         <orgName>Londoner Choral-Society</orgName> unter <persName>Fagge</persName>
-                    erfolgt. Das Material -<!-- hier nimmt man eher einen Halbgeviertstrich &#8211; -->im <lb/>ganzen nur 60 Chorstimmen - ist auf dem
+                    erfolgt. Das Material -<!-- hier nimmt man eher einen Halbgeviertstrich &amp;#8211; -->im <lb/>ganzen nur 60 Chorstimmen - ist auf dem
                     Buchhändlerwege bezogen. Die eng-<lb/>lische <seg type="comment"
                             ><orig>Uebersetzung</orig><note><p>Bei dieser englischen Übersetzung
                                 handelt es sich um jene, die der 2. Auflage von op. 13 hinzugefügt

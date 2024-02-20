@@ -1,0 +1,130 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sem.13845">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Linke an Arnold Schönberg, ohne Datum</title>
+                <editor>Katarina Stolarov</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/14209062X">Karl Linke</persName>
+                    <placeName>[...]</placeName>
+                    <date when="1912"/>
+                </correspAction><note>Karl Linke, Schüler und Freund von dem Schönberg, war eine sehr vielseitige Persönlichkeit. Während der Kriegszeit in Europa versuchte er auf verschiedene Weise bedeutende Reformen vorzunehmen, sowohl in der deutschen Sprache als auch im Bildungswesen. Er war besorgt über veraltete Prinzipien im Schulsystem und erhielt von der Öffentlichkeit verurteilende Kommentare zu seinen modernen Ideen zur Reform der deutschen Sprache. Sein Schaffen spiegelte sich vor allem in seinen Büchern zur deutschen Grammatik und in Aufsätzen in pädagogischen Zeitschriften wider. Als Literaturliebhaber und Kenner verschiedener Kunstbereiche interessierte er sich sehr für Musik, die ihn mit einem der größten Musiker seiner Zeit, nämlich Schönberg, verband. Karl Linke beschäftigte sich intellektuell und engagiert mit Musik, komponierte und spielte Klavier. Er war gut vertraut mit allen damals bedeutenden Künstlern und Schöpfern und pflegte enge Beziehungen zu seinem Lehrer Schönberg, mit dem er neben der Musik auch über persönliche Angelegenheiten, Emotionen sowie die deutsche Sprache und das Bildungswesen sprach. Neben Musik und Literatur war auch die Malerei kein fremdes Betätigungsfeld und Interesse von ihm. Karl Linke besuchte verschiedene Ausstellungen und sammelte Eindrücke aus den Ländern, die er bereiste, über die damals aktuellen Richtungen und Maler. Man kann sagen, dass Karl Linke alle Kunstbereiche sehr kritisch betrachtete und eine moderne, aber sinnvolle Herangehensweise pflegte, bei der kein Platz für Oberflächlichkeit in seiner Arbeit war. Er war Pädagoge und Schriftsteller und arbeitete als Lehrer an einer Grundschule in Wien. Er war auch Dozent an der Lehrerakademie in Wien. Darüber hinaus unterrichtete er Grammatik und Rechtsschreiben in deutscher Sprache</note>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <pb n="1"/>
+                <salute>Sehr lieber Herr <persName ref="https://d-nb.info/gnd/118610023"
+                        >Schönberg</persName>,</salute>
+                <p>sowohl die Kritiken als auch die Karte aus <placeName ref="https://d-nb.info/gnd/7571567-3">Rheingold</placeName> habe ich erhalten <lb/>und
+                    danke Ihnen dafür. Ich will nun gleich weiter meinen Leidensweg <lb/>beim
+                    Komponieren berichten. Den Quartettsatz, von dem ich das letztemal schrieb,
+                    <lb/>habe ich trotz des mir zusagenden Themas nicht über 10 Takte
+                    hinausgebracht. <lb/>Ich fühlte bald, daß mir keine Fortsetzung einfiel und ließ
+                    wieder alles liegen. <lb/>Plötzlich entdeckte ich beim Herumräumen in meinen
+                    Büchern ein Gedicht vom <lb/><persName ref="https://d-nb.info/gnd/118551108"
+                        >Peter Hille</persName>, zudem mir sofort eine Melodie einfiel. Als ich aber
+                    anfing, <lb/>kam ich über diese Melodie und damit über den ersten Vers nicht
+                    hinaus. <lb/>Es war, als hätte jemand mir momentan das Licht ausgeblasen. Ich
+                    versuchte, <lb/>in der Meinung, mich im Gedicht geirrt zu haben, ein anderes,
+                    aber es ging nicht <lb/>besser. Jetzt hörte ich ganz auf. Nach einigen Tagen
+                    fiel mir ein, ich werde <lb/>ganz kleine Sachen für Klavier schreiben und als
+                    ich es versuchte, gelang <lb/>mir wirklich so etwas wie ein winziges Menuett, in
+                    einfachen Harmonien <lb/>mit einem kurzen einfachen Thema. Und als ich es fertig
+                    hatte, wußte ich, <lb/>daß ich jetzt <del rendition="#s">[…]</del> wieder dort
+                    anfangen mußte, wo Sie mit mir die <lb/>Kompositionslehre begannen. Bei der
+                    einfachen Liedform mit genauen <lb/>8taktigen Perioden. Vielleicht habe ich mir
+                    […] zu viel zugetraut und habe <lb/>deshalb nicht mehr weitergekonnt; darum hat
+                    es mich jetzt so weit zurück <lb/>geworfen. Ich mache jetzt Komponierübungen für
+                    Klavier zu vier Händen <lb/>und bemerke, dass ich die kleinen Formen jetzt viel
+                    sicherer mache als <lb/>damals; ich habe auch die alten Sachen hervorgeholt und
+                    habe erkannt, <lb/>was an ihnen schlecht war; <del rendition="#s">und</del> was
+                    ich heute besser kann. Und an Ihren <lb/>roten Strichen <add place="superlinear"
+                        >die noch dort stehen</add> merke ich, daß ich recht habe. Senden will ich
+                    Ihnen die <lb/>Sachen nicht; es sind nur Übungen, an denen ich lerne. Vielleicht
+                    komme <lb/>ich von da aus wo anders hin als ich ursprünglich wollte. <del
+                        rendition="#s">Und</del>
+                    <add place="superlinear">Erst</add> wenn ich <lb/>etwas als ganz besonders
+                    gelungen betrachte, <del rendition="#s">dann</del> werde ich wieder um <lb/><pb
+                        n="2"/> Ihren Rat bitten. Einstweilen kenne ich mich noch gut aus.</p>
+                <milestone unit="section" rendition="#star"/>
+                <p>Ich lese jetzt <persName ref="https://d-nb.info/gnd/118619314"
+                        >Strindberg</persName>. Nur <persName ref="https://d-nb.info/gnd/118619314"
+                        >Strindberg</persName>. Ich begreife nicht, daß nicht <lb/>alle Leute
+                        <persName ref="https://d-nb.info/gnd/118619314">Strindberg</persName> lesen.
+                    Wie kann man daneben von moderner <lb/>deutscher Literatur reden? Und warum
+                    rechtfertigt sich die Wissenschaft <lb/>nicht? Das sind ja Entdeckungen, die gar
+                    nicht zu übergehen sind! <lb/>Wir lesen alle <persName
+                        ref="https://d-nb.info/gnd/118619314">Strindberg</persName>: <persName
+                        ref="https://d-nb.info/gnd/118543342">Gütersloh</persName>, <persName
+                        ref="https://d-nb.info/gnd/118531824">Faistauer</persName>, <persName
+                        ref="https://d-nb.info/gnd/117343722">Thom</persName>, <persName
+                        ref="https://d-nb.info/gnd/119318652">Harta</persName> (ein Maler). <lb/>Es
+                    wird bei uns überhaupt nur <persName ref="https://d-nb.info/gnd/118619314"
+                        >Strindberg</persName> gelesen!</p>
+                <milestone unit="section" rendition="#star"/>
+                <p>Für die Schule habe ich jetzt <del rendition="#s">wieder</del> einen
+                    Aufsatz gegen die Lesebücher <lb/>geschrieben, der
+                    wahrscheinlich vom Redakteur der größten Lehrerzeitung, für <lb/>die er gedacht
+                    ist, abgewiesen werden wird, da der Redakteur <del rendition="#uu">für</del> die
+                    <lb/>Lesebücher ist und auch einen Leitartikel darüber geschrieben hat, auf
+                    <lb/>den mein<del rendition="#s">[…]</del> Aufsatz eine Antwort ist. Ich denke
+                    mir eine <del rendition="#s">[…]</del> periodisch <lb/>erscheinende
+                    Kinderzeitschrift (teilweise auch von Kindern gearbeitet) <lb/>statt der öden
+                    Lesebücher. Sollte der Aufsatz gedruckt werden, dann <lb/>werde ich Ihnen ein
+                    Exemplar senden. </p>
+                <milestone unit="section" rendition="#star"/>
+                <p><persName ref="https://d-nb.info/gnd/117343722">Thom</persName> hat mich gebeten,
+                    ihn nach und nach mit Ihren Liedern bekannt <lb/>zumachen. Das Studium macht mir
+                    nun eine große Freude. Jeden Sonntag <lb/>reise ich einem Lied (von <bibl sameAs="https://d-nb.info/gnd/300139144">op 1.</bibl>
+                    angefangen) zu ihm und spiele (nach <lb/>einwöchentlicher vorheriger Übung) ihm
+                    vor. Das sind genußreiche Stunden. <lb/>Wir entdecken fortwährend wunderbare
+                    Sachen drin. <persName ref="https://d-nb.info/gnd/117343722">Thom</persName>
+                    studiert auch Ihre <lb/><bibl sameAs="	https://d-nb.info/gnd/7648084-7">Harmonielehre</bibl> und kommt von Staunen und Begeisterung gar
+                    nicht zu sich. <lb/>Wir sind im Gedanken immer bei Ihnen. <persName
+                        ref="https://d-nb.info/gnd/118543342">Gütersloh</persName> liest <bibl
+                        sameAs="https://d-nb.info/gnd/4393297-6">Seraphita</bibl> und ist <lb/>voll
+                    Entzücken, <persName ref="https://d-nb.info/gnd/118531824">Faistauer</persName>
+                    will <persName ref="https://d-nb.info/gnd/118620169">Swedenborg</persName>
+                    kaufen, <persName ref="https://d-nb.info/gnd/117343722">Thom</persName> läßt
+                    sich zu <lb/>Weihnachten den ganzen <persName
+                        ref="https://d-nb.info/gnd/118619314">Strindberg</persName> schenken,
+                        <persName ref="https://d-nb.info/gnd/119318652">Harta</persName> beginnt das
+                    Studium <lb/>Ihrer <bibl sameAs="	https://d-nb.info/gnd/7648084-7">Harmonielehre</bibl>, <persName
+                        ref="https://d-nb.info/gnd/118687808">Eder</persName> (auch ein Maler) reist
+                    von <placeName ref="https://d-nb.info/gnd/4054835-1">Siebenbürgen</placeName>,
+                    seiner <lb/>Heimat, direkt ins <seg type="comment"><orig><placeName>Cafè Museum</placeName></orig><note>Cafe in Wien, Operngasse 7, 1010<ref target="https://en.wikipedia.org/wiki/Caf%C3%A9_Museum">Wikipedia</ref></note></seg>, um mit uns zu
+                    debattieren, <persName ref="https://d-nb.info/gnd/130213128">Königer</persName>
+                    <lb/>erklärt seine Ansichten über die wirklichen Dinge, worüber er einen Auf
+                    <lb/>satz geschrieben hat, der mir sehr bedeutend vorkommt, obwohl er ihn
+                    <lb/>mir nur flüchtig an dem Konzept vorgelesen hat. Aber ich werde ihn noch
+                    <lb/>bekommen.</p>
+                <p>Ich bitte nicht zu vergessen, wenn Sie noch so ein <seg type="comment"><orig>Bild</orig><note>Fotografie von Arnold Schönberg aus seiner Hietzinger Wohnung 113, fotografiert von Alban Berg.<ref target="https://archive.schoenberg.at/resources/pages/view.php?search=mahler+gustav+&amp;k=&amp;modal=&amp;display=thumbs&amp;order_by=relevance&amp;offset=0&amp;per_page=48&amp;archive=0&amp;sort=DESC&amp;restypes=1%2C9&amp;recentdaylimit=&amp;foredit=&amp;noreload=true&amp;access=&amp;ref=4231"> Arnold Schönerg Center 4231.</ref></note></seg> aus der Hietzinger
+                    wohnung <lb/>(mit Ihren Mahlerbildern an der Wand) haben, ich würde sehr gerne
+                    eines haben.</p>
+                <closer>
+                <salute>Es grüßt Sie Ihr tief ergebener</salute>
+                    <signed><persName ref="https://d-nb.info/gnd/14209062X"
+                        >Linke</persName>,</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
