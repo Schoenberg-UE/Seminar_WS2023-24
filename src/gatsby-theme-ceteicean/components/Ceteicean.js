@@ -10,6 +10,7 @@ import Pb from "./Pb"
 import Note from "./Note"
 import PersName from "./PersName"
 import PlaceName from "./PlaceName"
+import OrgName from "./OrgName"
 import Bibl from "./Bibl"
 import Add from "./Add"
 import TeiHeader from "./TeiHeader"
@@ -28,6 +29,7 @@ const MyCeteicean = ({pageContext}) => {
     "tei-note": Note,
     "tei-ref": Ref,
     "tei-persname": PersName,
+    "tei-orgname": OrgName,
     "tei-placename": PlaceName,
     "tei-bibl": Bibl,
     "tei-add": Add,
