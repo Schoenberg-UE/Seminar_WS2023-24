@@ -13,6 +13,7 @@ import PlaceName from "./PlaceName"
 import Bibl from "./Bibl"
 import Add from "./Add"
 import TeiHeader from "./TeiHeader"
+import Supplied from "./Supplied"
 //import Mirador from "./Mirador"
 
 import "./ceteicean.css"
@@ -30,6 +31,7 @@ const MyCeteicean = ({pageContext}) => {
     "tei-placename": PlaceName,
     "tei-bibl": Bibl,
     "tei-add": Add,
+    "tei-supplied": Supplied,
     "tei-pb": (props) => <Pb {...props}/>,
   }
 
