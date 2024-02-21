@@ -52,9 +52,9 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                                     >Berlin-Zehlendorf</placeName></hi></addrLine>
                     </address>
                     <salute rendition="#c">Sehr geehrter Herr!</salute></opener>
-                <p>Wir bestätigen mit Dank den Empfang des <lb/>Manuscriptes von &amp;#8222;<bibl
+                <p>Wir bestätigen mit Dank den Empfang des <lb/>Manuscriptes von &#8222;<bibl
                         sameAs="https://d-nb.info/gnd/300139128"> Friede auf
-                    Erden</bibl>&amp;#8220; (a cappella –<lb/>Partitur und Orchesterstimme). <!-- hier beginnt ein neuer Paragraph, lb danach nicht unbedingt nötig--><lb/>
+                    Erden</bibl>&#8220; (a cappella –<lb/>Partitur und Orchesterstimme). <!-- hier beginnt ein neuer Paragraph, lb danach nicht unbedingt nötig--><lb/>
                     Wir bitten Sie auf jeden Fall, für den Stich die <lb/>schon benutzten Stimmen
                     aus <placeName ref="https://d-nb.info/gnd/4066012-6">Wien</placeName>
                     <del rendition="#s">und</del> kommen <lb/>zu lassen, und dieselben noch einmal
