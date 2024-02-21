@@ -5,4 +5,5 @@
 
   .popover-body tei-p {
     margin: 0 !important;
+    text-align: start !important;
   }
