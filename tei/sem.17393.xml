@@ -6,7 +6,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tischer und Jagenberg an Schönberg, 18. März 1912</title>
+                <title>Tischer und Jagenberg an Schönberg, 18. März 1912</title><!-- nehmen wir den Titel wie auf den Briefpapier Tischer &amp; Jagenberg an Arnold Schönberg, ... -->
                 <editor>Jil Paul</editor>
             </titleStmt>
             <publicationStmt>
@@ -19,7 +19,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName>Tischer, Gerhard</persName>
+                    <persName>Tischer, Gerhard</persName><!-- hier kann man noch den Verlag als <orgName> angeben und Herrn Beulke als zweiten <persName>-->
                     <placeName>Köln</placeName>
                     <date when="1912-03-18"/>
                 </correspAction>
@@ -52,9 +52,9 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                                     >Berlin-Zehlendorf</placeName></hi></addrLine>
                     </address>
                     <salute rendition="#c">Sehr geehrter Herr!</salute></opener>
-                <p>Wir bestätigen mit Dank den Empfang des <lb/>Manuscriptes von &#8222;<bibl
+                <p>Wir bestätigen mit Dank den Empfang des <lb/>Manuscriptes von &amp;#8222;<bibl
                         sameAs="https://d-nb.info/gnd/300139128"> Friede auf
-                        Erden</bibl>&#8220; (a cappella –<lb/>Partitur und Orchesterstimme). <lb/>
+                    Erden</bibl>&amp;#8220; (a cappella –<lb/>Partitur und Orchesterstimme). <!-- hier beginnt ein neuer Paragraph, lb danach nicht unbedingt nötig--><lb/>
                     Wir bitten Sie auf jeden Fall, für den Stich die <lb/>schon benutzten Stimmen
                     aus <placeName ref="https://d-nb.info/gnd/4066012-6">Wien</placeName>
                     <del rendition="#s">und</del> kommen <lb/>zu lassen, und dieselben noch einmal
@@ -66,17 +66,17 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                     <lb/>können, welche nicht allzu kostspielig wird, so <lb/>sind wir gern bereit,
                     dieselbe zu erwerben. <lb/> Sie werden ja selbst auf möglichste
                     Über-<lb/>einstimmung des Notenbildes mit den <lb/><pb n="2"/>Sprach-Akzenten
-                    bedacht sein. <lb/> Schon heute können wir Ihnen mitteilen, <lb/>daß wir die
+                    bedacht sein. <!-- Paragraph --><lb/> Schon heute können wir Ihnen mitteilen, <lb/>daß wir die
                     Partitur zu billigem Preise ab-<lb/>geben werden, um ihre Verbreitung bei
-                        event<gap rendition="lost"/><lb/> Aufführungen zu fördern. <lb/>Nach
+                    event<gap rendition="lost"/><lb/> Aufführungen zu fördern. <!-- Paragraph --><lb/>Nach
                     Unterzeichnung des beigefügten <seg type="comment"
                                 ><orig>Kon-<lb/>traktes</orig><note><p><ref
                                     target="https://repo.schoenberg.at/urn:nbn:at:at-asc-B239429"
-                                />Gerhard Tischer an Arnold Schönberg, 19. März 1912, ASCC 23942</p></note></seg> werden wir Ihrem Wunsche gemäß <lb/>das Honorar
+                                >Gerhard Tischer an Arnold Schönberg, 19. März 1912, ASCC 23942</ref><!-- ref nur auf ASCC 23942, wie in den anderen beiden Kommentaren --></p></note></seg> werden wir Ihrem Wunsche gemäß <lb/>das Honorar
                     an die <orgName ref="https://d-nb.info/gnd/16231438-3">Dresdener Bank</orgName>
                     <lb/>Filiale Zehlendorf einzahlen.</p>
                 <closer rendition="#r"><salute>Hochachtungsvoll</salute><lb/> p <stamp><orgName
-                            ref="https://d-nb.info/dnbn/330010050">Tischer &amp; Jagenberg <!-- lb -->G. m. b.
+                            ref="https://d-nb.info/dnbn/330010050">Tischer &amp; Jagenberg <lb/>G. m. b.
                             H.</orgName>
                     </stamp><lb/>
                     <signed><persName>P. Beulke</persName></signed>
@@ -87,22 +87,19 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                 </postscript>
                 <postscript>
                     <p>Ihr soeben eingegangener <seg type="comment"><orig>Brief <lb/>vom 18. d.
-                                M.</orig><note><p>Arnold Schönberg an Gerhard Tischer, 18. März 1912, ASCC 23940</p><p><ref
-                                        target="https://repo.schoenberg.at/urn:nbn:at:at-asc-B239409"/>
-                                </p></note></seg> erledigt sich hierdurch</p>
+                                M.</orig><note><p>Arnold Schönberg an Gerhard Tischer, 18. März 1912, <ref target="https://repo.schoenberg.at/urn:nbn:at:at-asc-B239409">ASCC 23940</ref></p></note></seg> erledigt sich hierdurch</p>
                 </postscript>
                 <postscript>
                     <p>Vertrag!</p>
-                    <p>Bitte das als<seg type="comment"><orig>Copie</orig><note><p>Gerhard Tischer an Arnold Schönberg, 19. März 1912, ASCC 23942</p><p><ref target="https://repo.schoenberg.at/urn:nbn:at:at-asc-B239429"
-                        /></p></note></seg> gekennzeichnete Ex. zu be-<lb/>halten, das andere
+                    <p>Bitte das als<seg type="comment"><orig>Copie</orig><note><p>Gerhard Tischer an Arnold Schönberg, 19. März 1912, <ref target="https://repo.schoenberg.at/urn:nbn:at:at-asc-B239429">ASCC 23942</ref></p></note></seg> gekennzeichnete Ex. zu be-<lb/>halten, das andere
                         zurückzusenden, da es gestem-<lb/>pelt werden muss.</p>
                     <p>In §2 habe ich freigelassen, wer das Aufführungs-<lb/>recht hat, und bitte
                         Sie das auszufüllen. Wir <lb/>sind Mitglieder der <orgName
                             ref="https://d-nb.info/gnd/2172833-1">deutschen
-                        Genossenschaft</orgName>, aber w<gap reason="lost"/>sen nicht, ob Sie ev.
+                        Genossenschaft</orgName>, aber w<gap reason="lost"/><!-- Herausgeberergänzung der vermutlich fehlenden Buchstaben <supplied>is-</supplied> --><!-- lb -->sen nicht, ob Sie ev.
                         der <orgName ref="https://d-nb.info/gnd/16016856-9">oester.</orgName>
-                        Angehören.</p>
-                    <closer><salute rendition="#r">Bestens grüßt Ihr ergebener</salute><lb/>
+                        Angehören.</p><!-- hier könnte noch ein Kommentar sein, das lässt sich anhand der ASCC klären -->
+                    <closer><!-- hier können Sie den ganzen closer nach rechts setzten statt der Einzelteile --><salute rendition="#r">Bestens grüßt Ihr ergebener</salute><lb/><!-- ich sehe das eher als eine Zeile -->
                         <signed rendition="#r"><persName ref="https://d-nb.info/gnd/117400513">Dr.
                                 Tischer</persName></signed></closer>
                 </postscript>

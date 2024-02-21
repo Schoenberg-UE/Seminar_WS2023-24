@@ -23,7 +23,8 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
-                </correspAction>
+                </correspAction><note>Arnold Schönberg, als Künstler und Lehrer, verlangte dasselbe von seinen Schülern. Wenn man bedenkt, dass außerhalb des selbst erworbenen Wissens und Könnens erst dann sagen können, dass etwas wirklich unser Eigenes ist und erlernt wurde. Also können wir sagen, dass Schönberg einer dieser Lehrer war, die mit ihren Schülern an Können, aber auch an Wissen arbeiteten. Er gestattete ihnen Freiheit und Entwicklung, um ihre Fähigkeiten und musikalischen Ideen zu entwickeln und zu pflegen. Sein gesamtes privates Leben, vom Komponieren über das Malen bis hin zum Schreiben, übermittelte er weiter an seine Schüler, gerade um bei seinen Studenten den gleichen Wunsch und die gleiche Leidenschaft zu wecken und zu zeigen. Bei ihm wurde Oberflächlichkeit und Unwissenheit nicht toleriert, dennoch musste das Wissen und die Informationen, die ein Schüler erlangte, selbst einen Weg finden, um sie ebenfalls der Öffentlichkeit oder jemand anderem, den er wünschte, zu präsentieren und weiterzugeben. Schönberg als Lehrer glaubte an Wahrheit und Lüge, wobei in diesem Kontext falsches Wissen, falsche Musik und alles, was damit einhergeht, bei Schönberg scharf verurteilt wurde. Aber trotz seiner konsequenten und sinnvollen Wissensvermittlung und dem Herausholen des Besten aus den Schülern war ihm das Lächeln und die Freude an der Kunst wichtig. Er bemühte sich, dies bei seinen Studenten zu pflegen. Man könnte sagen, dass Schönberg ein ausgewogenes Verhältnis sowohl im Leben als auch in der gesamten Kunst und Lehre wichtig war. Wenn ein Student ein echtes und echtes Produkt haben wollte, musste er es gründlich verstehen und sich vor allem selbst dafür interessieren und dasselbe studieren.</note>
+        
             </correspDesc>
         </profileDesc>
     </teiHeader>
@@ -35,12 +36,12 @@
                 unserer Schulen, ihr Versagen vor dem Kinde. Und <lb/>daß Sie mir so rückhaltlos
                 zustimmen, das ist mir ein neuer <lb/>Ansporn, ganz meinem Gefühl nachzugehen, das mich
                 sicherer <lb/>führen wird, als vorher ausgeklügelte Lehrgänge und Methoden. <lb/>Ich habe
-                jetzt das Referat über den Grammatikunterricht bedeutend <lb/>erweitert (für den
+                jetzt das Referat über den <seg type="comment"><orig>Grammatikunterricht</orig><note>Dienstag 14. Mail 1912, halb 8 Uhr abends, Urania größer Vortragssaal<ref target="https://anno.onb.ac.at/cgi-content/anno?aid=zei&amp;datum=19120514&amp;query=%22Karl+Linke%22+%22Grammatikunterricht%22&amp;ref=anno-search&amp;seite=6"> Die Zeit, 14. Mai 1912, Seite 6</ref></note></seg> bedeutend <lb/>erweitert (für den
                 öffentlichen Vortrag), viele Beispiele, wie <lb/>ich Sie mit den Kindern erarbeitet habe
                 eingeführt, also haupt- <lb/>sächlich <hi rendition="#u">
                         Positives</hi> gezeigt. Diese Szenen, fühle ich, machen jetzt <lb/>den Vortrag
                 sehr lebendig und lustig. Auch der Titel,- der ja <lb/>nichts sagte - hat fallen müssen
-                uns heißt jetzt: Unser <lb/>Grammatikunterricht - ein Verderber der deutschen Sprache.
+                uns heißt jetzt: Unser <lb/><seg type="comment"><orig>Grammatikunterricht</orig><note>Dienstag 14. Mail 1912, halb 8 Uhr abends, Urania größer Vortragssaal<ref target="https://anno.onb.ac.at/cgi-content/anno?aid=zei&amp;datum=19120514&amp;query=%22Karl+Linke%22+%22Grammatikunterricht%22&amp;ref=anno-search&amp;seite=6"> Die Zeit, 14. Mai 1912,</ref></note></seg>- ein Verderber der deutschen Sprache.
                 <lb/>Ich will gleich mit der Ankündigung ein Bekenntnis ablegen. </p>
     <p>Was Sie über meine Musikreferate sagen, hat mich auch beruhigt. <lb/><del rendition="#s">Ub</del> Was Sie mit dem, leeren Satz über
                 Gregors Regie meinen, ist mit <lb/>nicht klar geworden; so <del rendition="#s">[…]</del> „beiläufig gesagt“ ist der Satz nicht, er <lb/>hat einen
@@ -50,10 +51,10 @@
                 (Klavier) fertig, <lb/>die jetzt bei <persName ref="https://d-nb.info/gnd/118509322">Berg</persName> sind, dem sie, als ich sie ihm vorspielte, sehr
                 <lb/>gut gefallen haben. Eines merke ich immer mehr: Man muß <lb/>den Punkt fühlen, wo man
                 aufzuhören hat. Wo das, was <lb/>unbedingt zu sagen war, zu Ende ist. Sehe es nun also
-                wie es <lb/>wolle. Ihre <bibl sameAs="https://d-nb.info/358638364">Klavierstücke</bibl> sind mir <del rendition="#s">das</del> immer das
+                wie es <lb/>wolle. Ihre <bibl sameAs="	https://d-nb.info/358638364">Klavierstücke</bibl> sind mir <del rendition="#s">das</del> immer das
                 Höchste. <lb/><persName ref="https://d-nb.info/gnd/1042405174">Réti</persName> hat eines gespielt; <persName ref="https://d-nb.info/gnd/118509322">Berg</persName> wird Ihnen ja davon geschrieben <lb/>haben und an
                 dem Referat über <persName ref="https://d-nb.info/gnd/1042405174">Réti</persName> habe ich wieder bemerkt, <lb/>wie sicher ich mich vom Instinkt
-                führen lassen kann. <persName ref="https://d-nb.info/gnd/1042405174">Réti</persName> <lb/>hat nämlich auch eine eigene Sonate gespielt, von der ich
+                führen lassen kann. <persName ref="https://d-nb.info/gnd/1042405174">Réti</persName> <lb/>hat nämlich auch eine <seg type="comment"><orig>eigene Sonate</orig><note>Sonntag 4.Februar 1912, Bösendorfer Saal <ref target="https://anno.onb.ac.at/cgi-content/anno?aid=iwe&amp;datum=19120211&amp;query=%22Rudolf+R%c3%a9ti%22+%22Sonate%22&amp;ref=anno-search&amp;seite=20">Illustriertes Wiener Extrablatt Nr. 40, 11. Februar 1912, Seite 20</ref></note></seg> gespielt, von der ich
                 gar <pb/><pb n="2"/> Keinen Eindruck habe. Aber wirklich nicht den
                 geringsten. Das machte <lb/>mir Sorge, denn das sollte doch der Höhepunkt der Matiné
                 ge- <lb/>wesen sein ( zur selben Stunde, als Ihre im <placeName ref="https://d-nb.info/gnd/4005728-8">Berlin</placeName> war, ich bin orien- <lb/>tiert durch

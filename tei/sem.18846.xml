@@ -5,54 +5,120 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
 href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sem.14846">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Pappenheim an Schönberg, Datum unbekannt</title>
-<editor>Marius Auer</editor>
-</titleStmt>
-<publicationStmt>
-<p>Publication Information</p>
-</publicationStmt>
-<sourceDesc>
-<p>Information about the source</p>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-    <correspDesc>
-    <correspAction type="sent">
-        <persName>Pappenheim, Marie</persName>
-    </correspAction>
-    <correspAction type="received">
-    <persName>Schönberg, Arnold</persName>
-    </correspAction>
-    </correspDesc>
-    </profileDesc>
-</teiHeader>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><persName ref="https://d-nb.info/gnd/134611306">Pappenheim</persName> an
+                        <persName ref="https://d-nb.info/gnd/118610023">Schönberg</persName>, Datum
+                    unbekannt</title>
+                <!-- Vorname und Nachname -->
+                <editor>Marius Auer</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/134611306">Pappenheim, Marie</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118610023">Schönberg, Arnold</persName>
+                </correspAction>
+                <note> Um die Briefkorrespondenzen zwischen Schönberg und Pappenheim besser
+                    nachvollziehen zu können, findet sich fortfolgend eine komprimierte
+                    Zusammenfassung der Biografie von Marie, auch genannt Mizzi, Pappenheim. Diese
+                    entstammt einem liberalen Elternhaus und gehört zu den ersten Frauen in Wien,
+                    die Medizin studieren dürfen, nachdem Frauen seit 1897 für das Medizinstudium
+                    zugelassen sind. Im Jahr 1909 schließt sie erfolgreich ihr Studium mit der
+                    Promotion ab. Anschließend absolviert sie eine Facharztausbildung zur
+                    Dermatologin am Wiener Allgemeinen Krankenhaus. Parallel dazu veröffentlicht sie
+                    Gedichte und Prosa in verschiedenen Zeitschriften, darunter auch in der
+                    "Fackel". Ein bedeutender Beitrag von ihr ist das Libretto "Erwartung", das sie
+                    für Arnold Schönberg verfasst. Später heiratet sie den Jugendpsychiater Hermann
+                    Frischauf. Während des Ersten Weltkriegs und der russischen Oktoberrevolution
+                    beginnt sie sich intensiv mit der marxistischen Ideologie auseinanderzusetzen,
+                    einer Überzeugung, der sie ihr Leben lang treu bleibt. Im Jahr 1919 tritt
+                    Pappenheim der Kommunistischen Partei Österreichs bei und engagiert sich in
+                    verschiedenen Hilfsorganisationen für Arbeiter/Arbeiterinnen. 1930 übernimmt sie
+                    die Leitung des Verlags der Kommunistischen Jugendinternationale in Österreich.
+                    Nach der Konfiszierung des Verlags im Jahr 1934 durch die NSDAP emigriert sie
+                    kurz darauf nach Paris. Zu den zentralen Anliegen von Pappenheim gehören die
+                    Legalisierung der Abtreibung und die sexuelle Aufklärungsarbeit in der
+                    Arbeiter-/Arbeiterinnenschaft. Im Jahr 1926 gründet sie gemeinsam mit Wilhelm
+                    Reich die "Sozialistische Gesellschaft für Sexualberatung und Sexualforschung",
+                    die sechs kostenlose Beratungsstellen in Wien unterhält. Im Jahr 1940 gelingt
+                    ihr die Flucht von Paris nach Mexiko. Nach dem Ende des Zweiten Weltkriegs kehrt
+                    sie nach Wien zurück, übt weiterhin ihren Beruf als Fachärztin aus und verfasst
+                    journalistische Beiträge, unter anderem für die Zeitschrift "Stimme der Frau"
+                    (vgl. Österreichische Nationalbibliothek; online unter:
+                    https://fraueninbewegung.onb.ac.at/node/1238; Zugriff am 22.01.2024).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
     <text>
         <body>
             <div type="letter">
                 <pb n="1"/>
-                    <opener><salute>L. H. Schönberg</salute></opener>
-                    <p> Ich schicke die Sache sehr flüchtig gemacht und z.T. nicht direkt übersetzt. - habe auch da 
-                    ich nicht das Ganze habe keinen Überblick. <add place="superlinear">ich weiß kaum mehr was drin steht</add> Die Kürzungen etc. überlaß ich Ihnen, 
-                    die Szenenfolge etc. habe ich im Text erklärt. Für die Überarbeit. weiß ich jetzt manches, z.B. daß die Auflehnung 
-                    Wilfrieds stärker betont werden muß (2. und 3. Sz.) wegen des Ungestüms in der letzten Szene.</p> 
-                    <p>Ferner: der „Abrund zw. Seraph. und Minna</p> <p rendition="#r">Wilfried</p> <p>deutlicher.</p> <p>Bei Balzac sehr ins Einzelne gehend die Korrespondenzen 
-                    im Benehmen des Mann u. Frau Ser; z.B: die Abwehr des Kusses; zu Wilfr; ich werde mit einer grenzenlosen Liebe geliebt zu Minna: 
-                    Ich liebe grenzenlos, dort „männliche“ Kraft, hier weibliche Schwachheit. Wollen Sie das auch so stark ausgedrückt?</p>
+                <opener><salute>L. H. <persName ref="https://d-nb.info/gnd/118610023"
+                            >Schönberg</persName></salute></opener>
+                <p> <!-- Zeilenumbrüche-->Ich schicke die Sache sehr flüchtig gemacht und z.T. nicht direkt übersetzt. -
+                    habe auch da ich nicht das Ganze habe keinen Überblick. <add place="superlinear"
+                        >ich weiß kaum mehr was drin steht</add> Die Kürzungen etc. überlaß ich
+                    Ihnen, die Szenenfolge etc. habe ich im Text erklärt. Für die Überarbeit. weiß
+                    ich jetzt manches, z.B. daß die Auflehnung Wilfrieds stärker betont werden muß
+                    (2. und 3. Sz.) wegen des Ungestüms in der letzten Szene.</p>
+                <p>Ferner: der „Abrund zw. Seraph. und Minna</p>
+                <p rendition="#r">Wilfried</p>
+                <p>deutlicher.</p>
+                <p>Bei <persName ref="https://d-nb.info/gnd/118506358">Balzac</persName> sehr ins
+                    Einzelne gehend die Korrespondenzen im Benehmen des Mann u. <!-- d. -->Frau Ser; z.B: die
+                    Abwehr des Kusses; zu Wilfr; ich werde mit einer grenzenlosen Liebe geliebt zu
+                    Minna: Ich liebe grenzenlos, <seg type="comment"><orig/>dort „männliche“ Kraft,
+                        hier weibliche Schwachheit.<note>Diese Frage von Pappenheim an Schönberg
+                            zeigt deutlich, dass sich Pappenheim schon bereits zu Beginn des 20.
+                            Jahrhunderts kritisch über geschlechterbasierte Rollenbilder
+                            auseinandersetzte und nichtzuletzt deswegen als eine wichtige Leitfigur
+                            der frühen Emanzipation und des frühen Feminismus gilt.</note></seg>
+                    Wollen Sie das auch so stark ausgedrückt?</p>
                 <pb n="2"/>
-                    <p>Ferner: in Seraph. Rede d. <del rendition="#s">4.</del> 5. Szene kommt, da es als Szene wegfällt, der spätere Zweifel der beiden Männer 
-                    vorausgesagt u. zw. mit den Worten der Einleit. z. Kapitel Abschied: Mag die Szene offenbar noch so tief 
-                    gewesen sein etc., u. Gleiche Wellen peitschen schon mit gleichem Wogenschlag den Menschen granit? etc.</p> 
-                    <p>Auch sonst viele Schwierigkeiten. Wenn möglich bitte anfangs Jänner zur Überarbeit. schicken. 
-                    Von Mitte Jänner habe, ich doppelt zu tun.</p> <p>Am Rand bitte die Bemerk. und Zeichen.</p> 
-                    <milestone unit="section" rendition="#hr"/>
-                    <p>Vielen Dank für die Karte, indessen hat Trude meine. Können Sie die Gurrelieder noch nicht und ich kann 
-                    sie beinahe? Ich kann nicht mehr schreiben, ich bin zu müde. Bitte bestätigen Sie mir das Paket - und schreiben Sie mir bitte sehr, wegen der andern, wie ich Trude bat. 
-                    Schreiben Sie mir auch, ob Ihre Frau sich noch einmal geschält? hat - und wie das Gesicht aussieht, war von meiner ? 
-                    sie besitzt Auch Trudes?.</p>
-                    <closer><salute>Herzl. Grüße an Sie alle</salute></closer>
+                <p>Ferner: in Seraph. Rede d. <del rendition="#s">4.</del> 5. Szene kommt, da es als
+                    Szene wegfällt, der spätere Zweifel der beiden Männer vorausgesagt u. zw. mit
+                    den Worten der Einleit. z. Kapitel Abschied: Mag die Szene offenbar noch so tief
+                    gewesen sein etc., u. <seg type="comment"><orig>Gleiche Wellen peitschen schon
+                            mit gleichem Wogenschlag den Menschen granit?</orig><note><!-- Hier sollten Sie noch vor Ihrer eigenen Interpretation die genaue Textstelle zitieren -->Diese Phrase
+                            stammt aus dem Teil des Abschieds der Seraphita und könnte insofern
+                            gedeudet werden, dass hier der Mensch als Granit beschrieben wird, der
+                            dem Ozean der Intelligenz als Wogenbrecher dient. Das könnte also
+                            bedeuten, dass der Mensch als Widerstandskraft oder Schutz vor den
+                            Herausforderungen bzw. Einflüssen des Wissens und der Intelligenz
+                            agiert.</note></seg> etc.</p>
+                <p>Auch sonst viele Schwierigkeiten. <!-- p -->Wenn möglich bitte anfangs Jänner zur
+                    Überarbeit. schicken. Von Mitte Jänner habe, ich doppelt zu tun.</p>
+                <p>Am Rand bitte die Bemerk. und Zeichen.</p>
+                <milestone unit="section" rendition="#hr"/>
+                <p>Vielen Dank für die Karte, indessen hat <persName
+                        ref="https://d-nb.info/gnd/136986374">Trude</persName> meine. Können Sie die
+                        <seg type="comment"><orig>
+                            <bibl sameAs="https://d-nb.info/gnd/300139152"
+                                >Gurrelieder</bibl></orig><note><p>Im selben Jahr in welchem dieser
+                                Brief verfasst wurde (1914), fand eine Aufführung der Gurrelieder in
+                                Leipzig statt</p><p>Zeit: Freitag, 6. März, abends um halb
+                                8</p><p>Ort: Alberthalle</p><p>Aufführendes Orchester: Hier liegt
+                                kein konkreter Name vor, die Gurrelieder wurden laut Programmflyer
+                                für Soli, Rezitation, vier Chöre und großes Orchester
+                                ausgelegt.<!-- die Besetzung ist vorgegeben, kann also nicht in dem Sinn ausgelegt werden. Eenn Sie den Flyer unter dem angegebenen link anclicken können sie die 2. Seite sehen, dort stehen die Ausführenden  --></p><p>Programmflyer abrufbar unter:
+                                <ref target="https://archive.schoenberg.at/resources/pages/view.php?search=basicyear%3A1914&amp;k=&amp;modal=&amp;display=thumbs&amp;order_by=relevance&amp;offset=0&amp;per_page=48&amp;archive=0&amp;sort=DESC&amp;restypes=7&amp;recentdaylimit=&amp;foredit=&amp;noreload=true&amp;access=&amp;ref=5542">/links<!-- Arnold Schönberg Center Bilddatenbank 5542 --></ref></p></note></seg>
+                    noch nicht und ich kann sie beinahe? Ich kann nicht mehr schreiben, ich bin zu
+                    müde. Bitte bestätigen Sie mir das <!-- korrektur Pappenheim das aus die -->Paket - und schreiben Sie mir bitte sehr,
+                    wegen der andern, wie ich Trude bat. Schreiben Sie mir auch, ob Ihre Frau sich
+                    noch einmal geschält hat - und wie das Gesicht aussieht, war von meinem Rezept<!-- hier würde ich ein unclear codieren -->
+                    sie benutzt Auch Trudes Teint.-</p>
+                <closer><!-- Position rechts --><salute>Herzl. Grüße an Sie alle</salute></closer>
             </div>
         </body>
     </text>
