@@ -20,21 +20,66 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
                <placeName ref="https://d-nb.info/gnd/4087306-7">Charlottenburg</placeName>
-               <date when="1927-05-13" />
+               <date when="1927-05-13"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124172962">Erwin Stein</persName>
                <placeName ref="https://d-nb.info/gnd/4066009-6">Wien</placeName>
             </correspAction>
-            <note><!-- es wäre gut, einmal die vollständige biblographische Angabe nach dem Zeitschriften-Zitierformat zu haben -->Das Sonderheft von Pult und Taktstock hatte den Themenschwerpunkt: Arnold Schönberg und seine Orchesterwerke. Es erschien 1927. Für das Heft konnte <persName ref="https://d-nb.info/gnd/124172962">Erwin Stein</persName> viele namentliche Musikwissenschaftler, Musiker, Dirigenten und Komponisten gewinnen, die einen schriftlichen Beitrag leisteten. Stein selbst schrieb einen Beitrag mit dem Titel „Die Behandlung der Sprechstimme in ‚Pierrot Lunaire‘“. Der Aufsatz ist eine Analyse des Werks im Hinblick auf die Verwendung der Sprechstimme. Der Autor thematisiert Schwierigkeiten und gibt Anweisungen wie das Stück geübt bzw. eingeübt werden soll. Zum Beispiel meint Stein, dass man sich eine sogenannte „singende Sprechweise“ (oder Singsang wie er es auch bezeichnet) nicht angewöhnen soll, da es uncharakteristisch sei und sich nur schwer abgewöhnen lässt (Stein, „Die Behandlung der Sprechstimme in ‚Pierrot Lunair‘“, S. 46.). Außerdem sei der erste Schritt beim Einstudieren, sich den Rhythmus zu vergegenwärtigen und erst dann die Sprechmelodie einzuüben (Stein, „Die Behandlung der Sprechstimme in ‚Pierrot Lunair‘“, S. 48.). Die Nähe zur Praxis wird am Ende des Aufsatzes hervorgehoben: Stein schrieb den Artikel im Hinblick auf das selbst erlebte Einstudieren des Stücks (Stein, „Die Behandlung der Sprechstimme in ‚Pierrot Lunair‘“, S. 49.). <lb/>Ein weiterer Aufsatz aus dem Sonderheft, welcher von Schönberg gelobt wird, ist jener von Erwin Felber „Pelleas und Melisande“. Der Aufsatz behandelt Schönbergs einzige Symphonische Dichtung „Pelleas und Melisande“. Wie Felber betont, spielt dieses Werk bei der Entwicklung von Schönbergs Stil eine große Rolle. Seine Analyse versucht dies darzulegen. Außerdem wird versucht das Werk in den Kontext der folgenden und vorhergehenden Werke zu setzten, um den Begriff symphonische Dichtung, die dem Werk zugeschrieben wird zu diskutieren. Felber zieht Vergleiche zu Strauß und Wagners romantischer Harmonik sowie Motivik und hebt Schönbergs kompositorische Innovationen hervor. (Felber, „Pelleas und Melisande“, S. 30-31.) <lb/>In der genannten Fachzeitschrift für Dirigenten haben außerdem noch Jascha Horenstein, Heinrich Jalowetz, Ernst Kunwald, Hans Redlich, Theodor W. Adorno und Alexander Zemlinsky einen (oder mehrere) Artikel zu einem Werk von Schönberg oder einem Thema mit Schönberg Bezug geschrieben. 
-               </note>
+            <note>Erwin Stein (Hg.), „Arnold Schönberg und seine Orchesterwerke, in: Pult und
+               Taktstock. Fachzeitschrift für Dirigenten 4/Heft 3/4 (1927). Das Sonderheft von Pult
+               und Taktstock hatte den Themenschwerpunkt: Arnold Schönberg und seine Orchesterwerke.
+               Es erschien 1927. Für das Heft konnte <persName ref="https://d-nb.info/gnd/124172962"
+                  >Erwin Stein</persName> viele namentliche Musikwissenschaftler, Musiker,
+               Dirigenten und Komponisten gewinnen, die einen schriftlichen Beitrag leisteten. Stein
+               selbst schrieb einen Beitrag mit dem Titel <ref
+                  target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=2970&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"
+                  >„Die Behandlung der Sprechstimme in ‚Pierrot Lunaire‘“</ref>. Der Aufsatz ist
+               eine Analyse des Werks im Hinblick auf die Verwendung der Sprechstimme. Der Autor
+               thematisiert Schwierigkeiten und gibt Anweisungen wie das Stück geübt bzw. eingeübt
+               werden soll. Zum Beispiel meint Stein, dass man sich eine sogenannte „singende
+               Sprechweise“ (oder Singsang wie er es auch bezeichnet) nicht angewöhnen soll, da es
+               uncharakteristisch sei und sich nur schwer abgewöhnen lässt. <ref
+                  target="https://archive.schoenberg.at/library/bilddaten/Stein1927b.pdf">(Stein,
+                  „Die Behandlung der Sprechstimme in ‚Pierrot Lunair‘“, S. 46.)</ref> Außerdem sei
+               der erste Schritt beim Einstudieren, sich den Rhythmus zu vergegenwärtigen und erst
+               dann die Sprechmelodie einzuüben <ref
+                  target="https://archive.schoenberg.at/library/bilddaten/Stein1927b.pdf">(Stein,
+                  „Die Behandlung der Sprechstimme in ‚Pierrot Lunair‘“, S. 48.)</ref> Die Nähe zur
+               Praxis wird am Ende des Aufsatzes hervorgehoben: Stein schrieb den Artikel im
+               Hinblick auf das selbst erlebte Einstudieren des Stücks.<ref
+                  target="https://archive.schoenberg.at/library/bilddaten/Stein1927b.pdf">(Stein,
+                  „Die Behandlung der Sprechstimme in ‚Pierrot Lunair‘“, S. 49.)</ref>
+               <lb/>Ein weiterer Aufsatz aus dem Sonderheft, welcher von Schönberg gelobt wird, ist
+               jener von <persName ref="https://d-nb.info/gnd/1180438051">Erwin
+                  Felber</persName><ref
+                  target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=947&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"
+                  >„Pelleas und Melisande“</ref>. Der Aufsatz behandelt Schönbergs einzige
+               Symphonische Dichtung <ref target="https://d-nb.info/gnd/300139241">„Pelleas und
+                  Melisande“</ref>. Wie Felber betont, spielt dieses Werk bei der Entwicklung von
+               Schönbergs Stil eine große Rolle. Seine Analyse versucht dies darzulegen. Außerdem
+               wird versucht das Werk in den Kontext der folgenden und vorhergehenden Werke zu
+               setzten, um den Begriff symphonische Dichtung, die dem Werk zugeschrieben wird zu
+               diskutieren. Felber zieht Vergleiche zu Strauß und Wagners romantischer Harmonik
+               sowie Motivik und hebt Schönbergs kompositorische Innovationen hervor. <ref
+                  target="https://archive.schoenberg.at/library/bilddaten/Felber1927a.pdf">(Felber,
+                  „Pelleas und Melisande“, S. 30-31.)</ref>
+               <lb/>In der genannten Fachzeitschrift für Dirigenten haben außerdem noch <persName
+                  ref="https://d-nb.info/gnd/129502499">Jascha Horenstein</persName>, <persName
+                  ref="https://d-nb.info/gnd/117067482">Heinrich Jalowetz</persName>,<persName
+                  ref="https://d-nb.info/gnd/116612487">Ernst Kunwald</persName>, <persName
+                  ref="https://d-nb.info/gnd/120849615">Hans Redlich</persName>,<persName
+                  ref="https://d-nb.info/gnd/118500775">Theodor Wiesengrund Adorno</persName> und
+                  <persName ref="https://d-nb.info/gnd/11863643X">Alexander Zemlinsky</persName>
+               einen (oder mehrere) Artikel zu einem Werk von Schönberg oder einem Thema mit
+               Schönberg Bezug geschrieben.</note>
          </correspDesc>
       </profileDesc>
    </teiHeader>
    <text>
       <body>
          <div type="letter">
-            <pb n="1" />
+            <pb n="1"/>
             <opener>
                <address>
                   <addrLine>
@@ -47,160 +92,220 @@
                <dateline rendition="#r">
                   <date when="1927-05-13">13.V.1927</date>
                </dateline>
-               <salute>Lieber <persName ref="https://d-nb.info/gnd/124172962">Stein</persName></salute>
+               <salute>Lieber <persName ref="https://d-nb.info/gnd/124172962"
+                  >Stein</persName></salute>
             </opener>
-            <p rendition="inline">das <seg type="comment"><orig><bibl sameAs="https://d-nb.info/013874969">Heft</bibl></orig><note><p>damit ist das 1927 erschienen Sonderheft: Arnold Schönberg und seine Orchesterwerke gemeint</p></note></seg>ist ausgezeichnet. Ich bin
-               wirklich n <lb/>nun stolz darauf, dass sich endlich nu<add place="intralinear">n</add>
-               doch soviele finden, <lb/>die nicht bloss durch Begeisterung für mich zu wirken im-<lb/>stande
-               sind, sondern dadurch, dass das was <unclear> zu </unclear> schreiben an <lb/>sich
-               beachtenswert ist als geistige Leistung. Vor Allem <lb/>Sie selbst: das ist wieder ein
+            <p rendition="inline">das <seg type="comment"><orig>Heft</orig><note><p>damit ist das
+                        1927 erschienen Sonderheft: Arnold Schönberg und seine Orchesterwerke
+                        gemeint</p></note><bibl sameAs="https://d-nb.info/013874969"
+                  >Heft</bibl></seg>ist ausgezeichnet. Ich bin wirklich n <lb/>nun stolz darauf,
+               dass sich endlich nu<add place="intralinear">n</add> doch soviele finden, <lb/>die
+               nicht bloss durch Begeisterung für mich zu wirken im-<lb/>stande sind, sondern
+               dadurch, dass das was <unclear> zu </unclear> schreiben an <lb/>sich beachtenswert
+               ist als geistige Leistung. Vor Allem <lb/>Sie selbst: das ist wieder ein
                ausgezeichneter <seg type="comment">
                   <orig>Artikel</orig>
                   <note>
-                     <p>Exemplar aus dem Nachlass: Stein1927b. Titel des im Sonderheft erschienenen Aufsatzes: Die Behandlung der Sprechstimme in <seg type="comment"><orig>"Pierrot Lunaire"</orig><ref target="https://www.schoenberg.at/index.php/de/joomla-license/rpierrot-lunairel-op-21"></ref></seg></p><p>
-                        <ref target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=2970&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"></ref><!-- Einen Kommentar im Kommentar kann man nicht machen, daher würde ich Pierrot Lunaire mit gnd-link versehen (damit ist das Werk identifiziert) und den Aufsatz in folgender Weise angeben: Titel des im Sonderheft erschienenen Aufsatzes: Die Behandlung der Sprechstimme in "Pierrot Lunaire". Exemplar aus dem Nachlass: <ref target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=2970&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19">Stein1927b</ref>.-->
-                     </p>
+                     <p>Titel des im Sonderheft erschienenen Aufsatzes: Die Behandlung der
+                        Sprechstimme in <ref target="https://d-nb.info/gnd/30013925X">"Pierrot
+                           Lunaire"</ref>. Exemplar aus dem Nachlass:<ref
+                           target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=2970&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"
+                           >Stein1927b</ref></p>
                   </note>
-               </seg>
-               , <lb/>voll Klarheit, Klugheit und Verständnis. Es muss unbedingt <lb/>jedem schon das Niveau
-               auf welchem alles sich bewegt, impo<lb/>nieren. Das ist kein Herumgerede mehr; hier wird
-               mit ganz <lb/>neuen und doch so alten ästhetischen Begriffen in einer <lb/>eleganten und
-               sicheren Weise operiert, dass man sieht, es <lb/>sind alle in einer so exakten Denkweise
-               wirklich zuhause. <lb/>Wie wohltuend ist der Unterschied einer solchen Schreib-<lb/>weise gegen
-               die der Schriftsteller des Impressionismus. <lb/><del>WWWW</del><add place="superlinear">
-               Da</add> ist doch überall der Wille zu einer wirklichen Er-<lb/>kenntnis ästhetischer Werte
-               vorhanden: hier wird nirgends <lb/>mehr auf die Mitgerissenheit des Lesers gerechnet. Dass
-               <lb/>2 mal 2 vier ist, muss und kann man ohne Gemütsbewegung <lb/>glauben! Es stimmt ohne
-               Stimmung.</p>
-               <lb/><p>Da es mir wirklich an Zeit fehlt allen <subst>
+               </seg> , <lb/>voll Klarheit, Klugheit und Verständnis. Es muss unbedingt <lb/>jedem
+               schon das Niveau auf welchem alles sich bewegt, impo<lb/>nieren. Das ist kein
+               Herumgerede mehr; hier wird mit ganz <lb/>neuen und doch so alten ästhetischen
+               Begriffen in einer <lb/>eleganten und sicheren Weise operiert, dass man sieht, es
+               <lb/>sind alle in einer so exakten Denkweise wirklich zuhause. <lb/>Wie wohltuend ist
+               der Unterschied einer solchen Schreib-<lb/>weise gegen die der Schriftsteller des
+               Impressionismus. <lb/><del>WWWW</del><add place="superlinear"> Da</add> ist doch
+               überall der Wille zu einer wirklichen Er-<lb/>kenntnis ästhetischer Werte vorhanden:
+               hier wird nirgends <lb/>mehr auf die Mitgerissenheit des Lesers gerechnet. Dass
+               <lb/>2 mal 2 vier ist, muss und kann man ohne Gemütsbewegung <lb/>glauben! Es stimmt
+               ohne Stimmung.</p>
+            <lb/>
+            <p>Da es mir wirklich an Zeit fehlt allen <subst>
                   <del rendition="#s">
-                     <gap></gap>
+                     <gap/>
                   </del>
                   <add place="intralinear">Mitarbeitern</add>
-               </subst> an die-<lb/>sem <bibl sameAs="https://d-nb.info/013874969">Heft</bibl> selbst zu schreiben, bitte ich
-               Sie irgend einen <lb/>Rahmenbrief, etwa unter Citierung des Anfangs und anderer <lb/>Teile
-               dieses Briefes im Bureau in sieben Exemplaren her-<lb/>stellen zu lassen, einiges
-               verbindendes selbst hinzuzufügen <lb/>und die beiliegende Kopie dieses Briefes in
-               entsprechend <lb/>viele Teile zerschneiden zu lassen und jedem das auf ihn <lb/>bezüglich Stück
-               mit dem Rahmenbrief zusammen zuzusenden. </p>
-            <pb n="2" />
-            <p>Ich bin aber nun doch von dieser Sache mit dem Rahmenbrief wie-<lb/>der abgekommen. Das ist
-               zu umständlich. Ich glaube es ist am bes-<lb/>ten, wenn Sie den einzelnen meine Grüsse
-               sagen
-               und dass ich alle <lb/>sehr gut gefunden habe und mich sehr gefreut habe. Insbesondere
-               <lb/>über das
-               Niveau des Ganzen.</p>
-               <lb/><p>Insbesondere bitte ich Sie dem <persName ref="https://d-nb.info/gnd/1180438051">
-               Felber</persName>, der in der letzten Zeit <lb/>einige sehr schöne <seg type="comment">
+               </subst> an die-<lb/>sem <bibl sameAs="https://d-nb.info/013874969">Heft</bibl>
+               selbst zu schreiben, bitte ich Sie irgend einen <lb/>Rahmenbrief, etwa unter
+               Citierung des Anfangs und anderer <lb/>Teile dieses Briefes im Bureau in sieben
+               Exemplaren her-<lb/>stellen zu lassen, einiges verbindendes selbst hinzuzufügen
+               <lb/>und die beiliegende Kopie dieses Briefes in entsprechend <lb/>viele Teile
+               zerschneiden zu lassen und jedem das auf ihn <lb/>bezüglich Stück mit dem Rahmenbrief
+               zusammen zuzusenden. </p>
+            <pb n="2"/>
+            <p>Ich bin aber nun doch von dieser Sache mit dem Rahmenbrief wie-<lb/>der abgekommen.
+               Das ist zu umständlich. Ich glaube es ist am bes-<lb/>ten, wenn Sie den einzelnen
+               meine Grüsse sagen und dass ich alle <lb/>sehr gut gefunden habe und mich sehr
+               gefreut habe. Insbesondere <lb/>über das Niveau des Ganzen.</p>
+            <lb/>
+            <p>Insbesondere bitte ich Sie dem <persName ref="https://d-nb.info/gnd/1180438051">
+                  Felber</persName>, der in der letzten Zeit <lb/>einige sehr schöne <seg
+                  type="comment">
                   <orig>Aufsätze</orig>
                   <note>
-                     <p>Exemplar aus dem Nachlass: Felber 1927a. Titel des im Sonderheft erschienen Aufsatzes: <seg type="comment"><orig>Pelleas und Melisande</orig><ref target="https://schoenberg.at/index.php/de/joomla-license/pelleas-und-melisande-nach-dem-drama-von-maurice-maeterlinck-symphonische-dichtung-fuer-orchester-19021903"></ref></seg></p><p>
-                        <ref target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=947&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"></ref>
-                     </p>
-                     <p>Exemplar aus dem Nachlass: Felber1927. Der Aufsatz Arnold Schönberg und die Oper erschien im Jahrbuch 1927 der Universal-Edition</p><p>
-                        <ref target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=946&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"></ref>
-                     </p>
+                     <p>Titel des im Sonderheft erschienen Aufsatzes: <ref
+                           target="https://d-nb.info/gnd/300139241">Pelleas und Melisande</ref>
+                        Exemplar aus dem Nachlass:<ref
+                           target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=947&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"
+                           >Felber 1927a</ref>. </p>
+                     <p>Der Aufsatz Arnold Schönberg und die Oper erschien im Jahrbuch 1927 der
+                        Universal-Edition.Exemplar aus dem Nachlass:<ref
+                           target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=946&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"
+                           >Felber1927</ref></p><p> </p>
                   </note>
-               </seg>
-               über mich geschrieben hat von mir <lb/>zu grüssen. Dann hat sich der <persName
-                  ref="https://d-nb.info/gnd/118500775">Wiesengrund</persName> sehr gebessert. Der <lb/><seg type="comment"><orig>schreibt</orig>
+               </seg> über mich geschrieben hat von mir <lb/>zu grüssen. Dann hat sich der <persName
+                  ref="https://d-nb.info/gnd/118500775">Wiesengrund</persName> sehr gebessert. Der
+                  <lb/><seg type="comment"><orig>schreibt</orig>
                   <note>
-                     <p>Exemplar aus dem Nachlass: Wiesengrund-Adorno1927. Titel des im Sonderheft erschienenen Aufsates: <seg type="comment"><orig>Orchesterstücke op. 16</orig><ref target="https://schoenberg.at/index.php/de/joomla-license/fuenf-orchesterstuecke-op-16-1909rev-1922"></ref></seg>.</p><p> 
-                        <ref target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=3387&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=20-39"></ref>
-                     </p>
+                     <p>Titel des im Sonderheft erschienenen Aufsates:<ref
+                           target="https://d-nb.info/gnd/300139349">Orchesterstücke op.
+                        16</ref>Exemplar aus dem Nachlass: <ref
+                           target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=3387&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=20-39"
+                           >Wiedengrund-Adorno1927</ref>. </p>
                   </note>
-               </seg>
-               ja jetzt ganz anders, als anfangs. Und die Anal^se ist <lb/>ausgezeichnet. Das wird Schule
-               machen. Auch <persName ref="https://d-nb.info/gnd/117067482">Jalowetz</persName> ist
-               sehr <lb/>hübsch und warm. Nur kommt er leider nicht über seinen Fehler <lb/>langer
-               Einleitungen hinaus und es fehlt ihm dann der Raum zu  <lb/>den Tatsachen. Er hätte
-               entschieden <seg type="comment"><orig>schriftstellerische Begabung</orig><note><p>Exemplar aus dem Nachlass: Jalowetz1927. Titel des im Sonderheft erschienenen Aufsatzes: <seg type="comment"><orig>Die Grurrelieder.</orig><ref target="https://schoenberg.at/index.php/de/joomla-license/fuenf-orchesterstuecke-op-16-1909rev-1922"></ref></seg> </p><p><ref target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=1430&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"></ref></p></note></seg> <lb/>schreibt aber zu selten, um diese Anfängerschwierigkeiten zu  <lb/>überwinden. Sehr hübsch finde ich auch die beiden <seg type="comment">
+               </seg> ja jetzt ganz anders, als anfangs. Und die Anal^se ist <lb/>ausgezeichnet. Das
+               wird Schule machen. Auch <persName ref="https://d-nb.info/gnd/117067482"
+                  >Jalowetz</persName> ist sehr <lb/>hübsch und warm. Nur kommt er leider nicht über
+               seinen Fehler <lb/>langer Einleitungen hinaus und es fehlt ihm dann der Raum zu
+               <lb/>den Tatsachen. Er hätte entschieden <seg type="comment"
+                     ><orig>schriftstellerische Begabung</orig><note><p>Titel des im Sonderheft
+                        erschienenen Aufsatzes: <ref target="https://d-nb.info/gnd/300139152">Die
+                           Grurrelieder</ref>. Exemplar aus dem Nachlass:<ref
+                           target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=1430&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"
+                           >Jalowetz1927</ref>. </p></note></seg>
+               <lb/>schreibt aber zu selten, um diese Anfängerschwierigkeiten zu <lb/>überwinden.
+               Sehr hübsch finde ich auch die beiden <seg type="comment">
                   <orig>Aufsätze</orig>
                   <note>
-                     <p>Exemplar aus dem Nachlass: Redlich1927a. Titel des im Sonderheft erschienenen Aufsatzes: Zu Schönbergs Instrumentierung zweier <seg type="comment"><orig>Bachscher Choralvorspiele</orig><note><p>Es handelt sich um zwei Bach-Choral Bearbeitungen von Schönberg: <ref target="https://schoenberg.at/index.php/de/faq/johann-sebastian-bach-komm-gott-schoepfer-heiliger-geist-bwv-667">"Komm, Gott, Schöpfer, Heiliger Geist"</ref>und <ref target="https://schoenberg.at/index.php/de/faq/johann-sebastian-bach-schmuecke-dich-o-liebe-seele-bwv-654">"Schmücke dich, o liebe Seele"</ref></p></note></seg>.</p><p>
-                        <ref target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=2334&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"></ref>
-                     </p>
-                     <p>Exemplar aus dem Nachlass: Redlich1927. Titel des im Sonderheft erschienenen Aufsatzes: Schönbgers Tonalität.</p><p>
-                        <ref
-                           target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=2333&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"></ref>
+                     <p>Titel des im Sonderheft erschienenen Aufsatzes: Zu Schönbergs
+                        Instrumentierung zweier Bachscher Choralvorspiele. Es handelt sich um zwei
+                        Bach-Choral Bearbeitungen von Schönberg: <ref
+                           target="https://schoenberg.at/index.php/de/faq/johann-sebastian-bach-komm-gott-schoepfer-heiliger-geist-bwv-667"
+                           >"Komm, Gott, Schöpfer, Heiliger Geist"</ref>und <ref
+                           target="https://schoenberg.at/index.php/de/faq/johann-sebastian-bach-schmuecke-dich-o-liebe-seele-bwv-654"
+                           >"Schmücke dich, o liebe Seele"</ref>.</p> Exemplar aus dem Nachlass:<ref
+                        target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=2334&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"
+                        >Redlich1927a</ref>
+                     <p>Titel des im Sonderheft erschienenen Aufsatzes: Schönbergs Tonalität.
+                        Exemplar aus dem Nachlass: <ref
+                           target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=2333&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"
+                           >Redlich1927.</ref>
                      </p>
                   </note>
-               </seg>
-               von  <lb/><persName ref="https://d-nb.info/gnd/120849615">Redlich</persName>. Aus dem kann
-               was werden, wenn Sie ihn so in die Arbeit  <lb/>nehmen wie ich es seinerzeit mit Ihnen
-               getan habe: was einaus-<lb/>gezeichnetes Resultat ergeben hat; denn Sie schreiben heute
-               <lb/>schon besser als ich! Es sind in dem <persName ref="https://d-nb.info/gnd/120849615">
-               Redlich‘schen</persName><seg type="comment"><orig>Aufsatz</orig><note><p>Exemplar aus dem Nachlass: Redlich1937a. Titel des im Sonderheft erschienenen Aufsatzes: Zu Schönbergs Instrumentierung zweier Bachscher Choralvorspiele.<ref target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=2334&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"></ref></p><p>Exemplar aus dem Nachlass: Redlich1927. Titel des im Sonderheft erschienenen Aufsatzes: Schönbergs Tonalität.<ref target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=2333&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"></ref></p></note></seg> ent- <lb/>schieden hübsche Gedanken drin. Nur gefällt er
-               sich ein bischen <lb/>zu sehr darin ungewöhnliche Termini zu erdenken, die er nicht
-               <lb/>genügend erklärt, so dass man nur eine vage Vorstellung davonhat  <lb/>was er meint. Sagen
-               Sie ihm: Beispiele! Und gerade solche Ausdrücke <lb/>wie <seg type="comment"><orig>„radiale Polytonalität“</orig><note><p>Das Original aus dem Aufsatz lautet: "Gleichzeitig enthält es den nicht minder bedeutsamen Schritt von der vier-, resp. achttaktigen Periode und ihrem Kadenzierungsbegriff zur unregelmäßigen Periode und ihrer „radialen Polytonalität“, resp. der G l e i c h – g e w i c h t s ä n d e r u n g <!-- bei gesperrter Schrift verwendet man die Codierung <hi rendition="#g>"  -->ihres linealen Melos.“ aus:<ref target="https://archive.schoenberg.at/library/bilddaten/Redlich1927.pdf">Schönbergs Tonalität 1927</ref>, S. 24.</p></note></seg> <seg type="comment"><orig>„der
-               geometrische Ort“</orig><note><p>Das Original lautet: "Dieser höchst merkwürdige Prozeß kann am besten am fis-moll-Quartet op. 10 verfolgt werden, jenem bedeutsamsten Werk am Wendepunkt von Schönbergs Entwicklung, welches in sich selbst die ganze bisherige Entwicklung noch einmal durchgeht. Dieses Werk – das letzte der alten, das erste der neuen Musik – kann in gewissem Sinne als der „geometrische Ort“ Schönbergs bezeichnet werden." aus:<ref target="https://archive.schoenberg.at/library/bilddaten/Redlich1927.pdf">Schönbergs Tonalität 1927</ref>, S. 24.</p></note></seg> (wessen?) u.  <lb/>dgl muss man eng umschreiben. Auch was <persName
+               </seg> von <lb/><persName ref="https://d-nb.info/gnd/120849615">Redlich</persName>.
+               Aus dem kann was werden, wenn Sie ihn so in die Arbeit <lb/>nehmen wie ich es
+               seinerzeit mit Ihnen getan habe: was einaus-<lb/>gezeichnetes Resultat ergeben hat;
+               denn Sie schreiben heute <lb/>schon besser als ich! Es sind in dem <persName
+                  ref="https://d-nb.info/gnd/120849615"> Redlich‘schen</persName><seg type="comment"
+                     ><orig>Aufsatz</orig><note><p>Titel des im Sonderheft erschienenen Aufsatzes:
+                        Zu Schönbergs Instrumentierung zweier Bachscher Choralvorspiele.Exemplar aus
+                        dem Nachlass: <ref
+                           target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=2334&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"
+                           >Redlich1927a</ref>.</p><p> Titel des im Sonderheft erschienenen
+                        Aufsatzes: Schönbergs Tonalität.Exemplar aus dem Nachlass: <ref
+                           target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=2333&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"
+                           >Redhlich1927</ref></p></note></seg> ent- <lb/>schieden hübsche Gedanken
+               drin. Nur gefällt er sich ein bischen <lb/>zu sehr darin ungewöhnliche Termini zu
+               erdenken, die er nicht <lb/>genügend erklärt, so dass man nur eine vage Vorstellung
+               davonhat <lb/>was er meint. Sagen Sie ihm: Beispiele! Und gerade solche Ausdrücke
+               <lb/>wie <seg type="comment"><orig>„radiale Polytonalität“</orig><note><p>Das
+                        Original aus dem Aufsatz lautet: "Gleichzeitig enthält es den nicht minder
+                        bedeutsamen Schritt von der vier-, resp. achttaktigen Periode und ihrem
+                        Kadenzierungsbegriff zur unregelmäßigen Periode und ihrer „radialen
+                        Polytonalität“, resp. der <hi rendition="#g">Gleich–gewichtsänderung</hi>
+                        ihres linealen Melos.“ aus:<ref
+                           target="https://archive.schoenberg.at/library/bilddaten/Redlich1927.pdf"
+                           >Schönbergs Tonalität 1927</ref>, S. 24.</p></note></seg>
+               <seg type="comment"><orig>„der geometrische Ort“</orig><note><p>Das Original lautet:
+                        "Dieser höchst merkwürdige Prozeß kann am besten am fis-moll-Quartet op. 10
+                        verfolgt werden, jenem bedeutsamsten Werk am Wendepunkt von Schönbergs
+                        Entwicklung, welches in sich selbst die ganze bisherige Entwicklung noch
+                        einmal durchgeht. Dieses Werk – das letzte der alten, das erste der neuen
+                        Musik – kann in gewissem Sinne als der „geometrische Ort“ Schönbergs
+                        bezeichnet werden." aus:<ref
+                           target="https://archive.schoenberg.at/library/bilddaten/Redlich1927.pdf"
+                           >Schönbergs Tonalität 1927</ref>, S. 24.</p></note></seg> (wessen?) u.
+               <lb/>dgl muss man eng umschreiben. Auch was <persName
                   ref="https://d-nb.info/gnd/116612487">Kunwald</persName> und <persName
-                  ref="https://d-nb.info/gnd/11863643X">Zemlinsky</persName> <lb/><seg type="comment">
+                  ref="https://d-nb.info/gnd/11863643X">Zemlinsky</persName>
+               <lb/><seg type="comment">
                   <orig>schreiben</orig>
                   <note>
-                     <p>Exemplar aus dem Nachlass: Zemlinsky1927. Titel des im Sonderheft erschienenen Aufsatzes: Einige Worte über das Studium von Schönbergs <seg type="comment"><orig>"Erwartung"</orig><ref target="https://schoenberg.at/index.php/de/joomla-license/rerwartungl-op-17-1909"></ref></seg>.</p><p>
-                        <ref
-                           target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=3470&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"></ref>
-                     </p>
-                     <p>Exemplar aus dem Nachlass: Kunwald1927. Titel des im Sonderheft erschienenen Aufsatzes: <seg type="comment"><orig>Die Kammersymphonie</orig><ref target="https://schoenberg.at/index.php/de/joomla-license/kammersymphonie-op-9-a-9b"></ref></seg>.</p><p>
-                        <ref
-                           target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=1709&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"></ref>
+                     <p>Titel des im Sonderheft erschienenen Aufsatzes: Einige Worte über das
+                        Studium von Schönbergs <ref target="	https://d-nb.info/gnd/300178727"
+                           >"Erwartung"</ref>. Exemplar aus dem Nachlass:<ref
+                           target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=3470&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"
+                           >Zemlinsky1927</ref>.</p>
+                     <p>Titel des im Sonderheft erschienenen Aufsatzes: <ref
+                           target="https://d-nb.info/gnd/300139179">Die
+                        Kammersymphonie</ref>.</p><p> Exemplar aus dem Nachlass: <ref
+                           target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=1709&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"
+                           >Kunwald1927.</ref>
                      </p>
                   </note>
-               </seg>,
-               ist sehr interessant und auch für mich günstig, weil <lb/>es Dirigenten sind, die doch vom
-               Praktischen sprechen. <persName ref="https://d-nb.info/gnd/129502499">Horenstein</persName>
-               <lb/>trifft sich mit <persName
-                  ref="https://d-nb.info/gnd/117067482">Jalowetz</persName> in dem Urteil über
-               meinen ersten Stil. <lb/>Das ist <seg type="comment">
+               </seg>, ist sehr interessant und auch für mich günstig, weil <lb/>es Dirigenten sind,
+               die doch vom Praktischen sprechen. <persName ref="https://d-nb.info/gnd/129502499"
+                  >Horenstein</persName>
+               <lb/>trifft sich mit <persName ref="https://d-nb.info/gnd/117067482"
+                  >Jalowetz</persName> in dem Urteil über meinen ersten Stil. <lb/>Das ist <seg
+                  type="comment">
                   <orig>beides</orig>
                   <note>
-                     <p>Exemplar aus dem Nachlass: Horenstein1927a. Titel des im Sonderheft erschienenen Aufsatzes: <seg type="comment"><orig>Verklärte Nacht</orig><ref target="https://schoenberg.at/index.php/de/joomla-license/rverklaerte-nachtl-sextett-fuer-2-violinen-2-violen-und-2-violoncelli-op-4-1899"></ref></seg>.</p><p>
-                        <ref
-                           target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=1379&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"></ref>
+                     <p>Titel des im Sonderheft erschienenen Aufsatzes: <ref
+                           target="https://d-nb.info/gnd/30013942X">Verklärte Nacht</ref>.</p><p>
+                        Exemplar aus dem Nachlass: <ref
+                           target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=1379&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"
+                           >Horenstein1927a</ref>
                      </p>
-                     <p>Exemplar aus dem Nachlass: Jalowetz1927. Titel des im Sonderheft erschienenen Aufsatzes: <seg type="comment"><orig>Die Grurrelieder.</orig><ref target="https://schoenberg.at/index.php/de/joomla-license/fuenf-orchesterstuecke-op-16-1909rev-1922"></ref></seg>.</p><p>
-                        <ref
-                           target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=1430&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"></ref>
-                     </p>
+                     <p>Titel des im Sonderheft erschienenen Aufsatzes: <ref
+                           target="https://d-nb.info/gnd/109778195X">Die Gurrelieder</ref>.</p><p>
+                        Exemplar aus dem Nachlass: <ref
+                           target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=1430&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"
+                           >Jalowetz1927</ref>. </p>
                   </note>
-               </seg>
-               sehr hübsch und ich glaube auch richtig.</p>
-               <p>Also nun habe ich doch alles besprochen: Ihnen brauche ich nicht <lb/>zu danken: Sie haben
-               sich selbst gedankt durch den grossen Fort-<lb/>schritt, den Sie in Ihrer Schriftstellerei
-               gemacht haben, der Ihn-<lb/>en sicher bald eine sehr beachtete Position verschaffen wird.
-               <lb/>Nochmals
-               also: ich habe mich sehr gefreut.</p>
+               </seg> sehr hübsch und ich glaube auch richtig.</p>
+            <p>Also nun habe ich doch alles besprochen: Ihnen brauche ich nicht <lb/>zu danken: Sie
+               haben sich selbst gedankt durch den grossen Fort-<lb/>schritt, den Sie in Ihrer
+               Schriftstellerei gemacht haben, der Ihn-<lb/>en sicher bald eine sehr beachtete
+               Position verschaffen wird. <lb/>Nochmals also: ich habe mich sehr gefreut.</p>
             <closer>
-               <lb/><salute>Viele herzlichste Grüsse an Sie und Ihre <persName ref="https://d-nb.info/gnd/131407749X">Frau</persName>, auch seiten <lb/>meiner <persName
-                     ref="https://d-nb.info/gnd/116860146">Frau</persName>. Wir kommen in circa 3
-                  Wochen nach <placeName ref="https://d-nb.info/gnd/4066009-6">Wien</placeName>. Am
-                  20 gebe <lb/>ich in der <seg type="comment">
-                     <orig>Akademie</orig>
-                     <note>
-                        <p>
-                           <ref target="https://d-nb.info/gnd/1087230586"></ref>
-                        </p>
-                     </note>
-                  </seg>
-                  ein <seg type="comment">
-                     <orig>Kompositionskonzert meiner Schüler:</orig>
-                     <note>
-                        <p><!-- Hier braucht es noch etwas Text, wie zB Das Konzert fand statt am...; Eintrag in Schönbergs Kalender: Arnold Schönberg Center Bilddatenbank <ref....>DC12623</ref>  -->
-                           <ref
-                              target="https://archive.schoenberg.at/resources/pages/view.php?search=basicyear%3A1927%2C+basicmonth%3A05&amp;k=&amp;modal=&amp;display=thumbs&amp;order_by=relevance&amp;offset=0&amp;per_page=48&amp;archive=&amp;sort=DESC&amp;restypes=6%2C12&amp;recentdaylimit=&amp;foredit=&amp;noreload=true&amp;access=&amp;ref=12623"></ref>
-                        </p>
-                     </note>
-                  </seg>
-                  Könn-<lb/>te die <orgName ref="https://d-nb.info/dnbn/33001031X">UE</orgName> Sie nicht zu diesemals Referenten hersenden und um  <lb/>eventuell den
-                  einen oder anderen Autor zu „erwerben“? Billig, <lb/>den <persName ref="https://d-nb.info/gnd/119494302">Zillig</persName>! Ihr</salute>
-            </closer>
+               <lb/>Viele herzlichste Grüsse an Sie und Ihre <persName
+                  ref="https://d-nb.info/gnd/131407749X">Frau</persName>, auch seiten <lb/>meiner
+                  <persName ref="https://d-nb.info/gnd/116860146">Frau</persName>. Wir kommen in
+               circa 3 Wochen nach <placeName ref="https://d-nb.info/gnd/4066009-6"
+               >Wien</placeName>. Am 20 gebe <lb/>ich in der <ref
+                  target="https://d-nb.info/gnd/1087230586">Akademie</ref> ein <seg type="comment">
+                  <orig>Kompositionskonzert meiner Schüler:</orig>
+                  <note>
+                     <p>Das Konzert fand am 20. Mai 1927 in der Akademie der Künste statt. Eintrag
+                        in Schönbergs Kalender: Arnold Schönberg Center Bilddatenbank<ref
+                           target="https://archive.schoenberg.at/resources/pages/view.php?search=basicyear%3A1927%2C+basicmonth%3A05&amp;k=&amp;modal=&amp;display=thumbs&amp;order_by=relevance&amp;offset=0&amp;per_page=48&amp;archive=&amp;sort=DESC&amp;restypes=6%2C12&amp;recentdaylimit=&amp;foredit=&amp;noreload=true&amp;access=&amp;ref=12623"
+                           >DC12623</ref></p>
+                  </note>
+               </seg> Könn-<lb/>te die <orgName ref="https://d-nb.info/dnbn/33001031X">UE</orgName>
+               Sie nicht zu diesemals Referenten hersenden und um <lb/>eventuell den einen oder
+               anderen Autor zu „erwerben“? Billig, <lb/>den <persName
+                  ref="https://d-nb.info/gnd/119494302">Zillig</persName>!
+               <salute>Ihr</salute></closer>
+
             <postscript>
-                  <p>PS. Bitte sagen Sie in der <orgName ref="https://d-nb.info/dnbn/33001031X">UE</orgName>,
-                     ich bitte mir 2 Exemplare meiner <lb/><seg type="comment"><orig>Choralpartitur</orig><note><p>Choralpartituren Bach-Bearbeitungen von Arnold Schönberg</p><p><ref target="https://schoenberg.at/index.php/de/faq/johann-sebastian-bach-komm-gott-schoepfer-heiliger-geist-bwv-667"></ref></p><p><ref target="https://schoenberg.at/index.php/de/faq/johann-sebastian-bach-schmuecke-dich-o-liebe-seele-bwv-654"></ref></p></note></seg> zu senden. Ich habe von einem
-                     Stück überhaupt <lb/>keines. Und möchte doch den <seg type="comment"><orig>Aufsatz</orig><note><p>es handelt sich um den AUfsatz von Redleich</p><p><ref target="https://d-nb.info/gnd/120849615"></ref></p></note></seg> prüfen.</p>
-               </postscript>
+               <p>PS. Bitte sagen Sie in der <orgName ref="https://d-nb.info/dnbn/33001031X"
+                     >UE</orgName>, ich bitte mir 2 Exemplare meiner <lb/><seg type="comment"
+                        ><orig>Choralpartitur</orig><note><p> Die beiden von Schönberg bearbeitetn
+                           Bach-Choräle: <ref
+                              target="https://schoenberg.at/index.php/de/faq/johann-sebastian-bach-komm-gott-schoepfer-heiliger-geist-bwv-667"
+                              >Komm, Gott, Schöpfer, Heiliger Geist</ref> und <ref
+                              target="https://schoenberg.at/index.php/de/faq/johann-sebastian-bach-schmuecke-dich-o-liebe-seele-bwv-654"
+                              >"Schmücke dich, o liebe Seele"</ref></p></note></seg>. zu senden. Ich
+                  habe von einem Stück überhaupt <lb/>keines. Und möchte doch den <seg
+                     type="comment"><orig>Aufsatz</orig><note><p>es handelt sich um den Aufsatz von
+                              <ref target="https://d-nb.info/gnd/120849615"
+                     >Redlich</ref></p></note></seg> prüfen.</p>
+            </postscript>
          </div>
       </body>
    </text>
