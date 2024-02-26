@@ -8,7 +8,7 @@
                 <editor>Katarina Stolarov</editor>
             </titleStmt>
             <publicationStmt>
-                <p>Publication Information</p>
+                <p>Klavierstuecke unveraendert Stop. Schoenberg-Briefe edieren, Seminar Universität für Musik und darstellende Kunst Wien, WS 23</p>
             </publicationStmt>
             <sourceDesc>
                 <p>Information about the source</p>
@@ -19,70 +19,106 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/14209062X">Karl Linke</persName>
                     <placeName>[...]</placeName>
-                    <date when="1912" />
+                    <date when="1912"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>
-                </correspAction><note>Arnold Schönberg, als Künstler und Lehrer, verlangte dasselbe von seinen Schülern. Wenn man bedenkt, dass außerhalb des selbst erworbenen Wissens und Könnens erst dann sagen können, dass etwas wirklich unser Eigenes ist und erlernt wurde. Also können wir sagen, dass Schönberg einer dieser Lehrer war, die mit ihren Schülern an Können, aber auch an Wissen arbeiteten. Er gestattete ihnen Freiheit und Entwicklung, um ihre Fähigkeiten und musikalischen Ideen zu entwickeln und zu pflegen. Sein gesamtes privates Leben, vom Komponieren über das Malen bis hin zum Schreiben, übermittelte er weiter an seine Schüler, gerade um bei seinen Studenten den gleichen Wunsch und die gleiche Leidenschaft zu wecken und zu zeigen. Bei ihm wurde Oberflächlichkeit und Unwissenheit nicht toleriert, dennoch musste das Wissen und die Informationen, die ein Schüler erlangte, selbst einen Weg finden, um sie ebenfalls der Öffentlichkeit oder jemand anderem, den er wünschte, zu präsentieren und weiterzugeben. Schönberg als Lehrer glaubte an Wahrheit und Lüge, wobei in diesem Kontext falsches Wissen, falsche Musik und alles, was damit einhergeht, bei Schönberg scharf verurteilt wurde. Aber trotz seiner konsequenten und sinnvollen Wissensvermittlung und dem Herausholen des Besten aus den Schülern war ihm das Lächeln und die Freude an der Kunst wichtig. Er bemühte sich, dies bei seinen Studenten zu pflegen. Man könnte sagen, dass Schönberg ein ausgewogenes Verhältnis sowohl im Leben als auch in der gesamten Kunst und Lehre wichtig war. Wenn ein Student ein echtes und echtes Produkt haben wollte, musste er es gründlich verstehen und sich vor allem selbst dafür interessieren und dasselbe studieren.</note>
-        
+                </correspAction>
+                <note>Arnold Schönberg, als Künstler und Lehrer von jedem Schüler verlangt, dass er nach einem echten Verständnis von Musik strebt und eine Emotionale Verbindung dazu herstellt.
+                    Unter Berücksichtigung der Tatsache, dass erst wenn jemand etwas selbst lernt und erwirbt, erst dann können wir sagen, dass diese Sache sein Eigen und gelernt ist. So betrachtete es Schönberg. Also können wir sagen, dass Schönberg einer dieser Lehrer war,
+                    die mit ihren Schülern an Können, aber auch an Wissen arbeiteten. Er gestattete
+                    ihnen Freiheit und Entwicklung, um ihre Fähigkeiten und musikalischen Ideen zu
+                    entwickeln und zu pflegen. Sein eigenes, künstlerisches Leben, vom Komponieren über
+                    das Malen bis hin zum Schreiben, übermittelte er weiter an seine Schüler, gerade
+                    um bei seinen Studenten den gleichen Wunsch und die gleiche Leidenschaft zu
+                    wecken und zu zeigen. Bei ihm wurde Oberflächlichkeit und Unwissenheit nicht
+                    toleriert. Zusätzlich wollte er, dass jeder Schüler sich zunächst bemüht, den richtigen Weg und den richtigen Ansatz zu finden, um sein erlangtes Wissen dem Publikum zu vermittlen. Natürlich bedeutet das nicht, dass der Schüler in diesem Bereich der Unterstützung seines Lehrers beraubt wurde. Schönberg
+                    als Lehrer glaubte an Wahrheit und Lüge, wobei in diesem Kontext falsches
+                    Wissen, falsche Musik und alles, was damit einhergeht, bei Schönberg scharf
+                    verurteilt wurde. Aber trotz seiner konsequenten und sinnvollen
+                    Wissensvermittlung und dem Herausholen des Besten aus den Schülern war ihm die
+                    Freude an der Kunst wichtig. Er bemühte sich, dies bei seinen
+                    Studenten zu pflegen. Man könnte sagen, dass Schönberg ein ausgewogenes
+                    Verhältnis sowohl im Leben als auch in der gesamten Kunst und Lehre wichtig war.
+                    Wenn ein Student ein echtes Produkt haben wollte, musste er es
+                    gründlich verstehen und sich vor allem selbst dafür interessieren und dasselbe
+                    studieren. Vgl. Karl Linke, Arnold Schönerg als Lehrer, in: Schulreform, 2/11 (November 1923), Seite 464-466. <ref target="https://archive.schoenberg.at/library/bilddaten/P19_20.pdf">Arnold Schönberg Center Bilddatenbank, P19/20. (Abgerufen: 21.02.2024.)</ref></note>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="letter"><pb n="1"/> <opener><salute>Sehr lieber Herr <persName ref="https://d-nb.info/gnd/118610023">Schönberg</persName></salute>,</opener> <p>Ihr
-                Brief hat mich <hi rendition="#uu">sehr</hi> erfreut, <del rendition="#s">und</del> weil <lb/>er
-                mir das bestätigt, was ich immer mehr zu fühlen beginne: Die <lb/>Unzulänglichkeit
-                unserer Schulen, ihr Versagen vor dem Kinde. Und <lb/>daß Sie mir so rückhaltlos
-                zustimmen, das ist mir ein neuer <lb/>Ansporn, ganz meinem Gefühl nachzugehen, das mich
-                sicherer <lb/>führen wird, als vorher ausgeklügelte Lehrgänge und Methoden. <lb/>Ich habe
-                jetzt das Referat über den <seg type="comment"><orig>Grammatikunterricht</orig><note>Dienstag 14. Mail 1912, halb 8 Uhr abends, Urania größer Vortragssaal<ref target="https://anno.onb.ac.at/cgi-content/anno?aid=zei&amp;datum=19120514&amp;query=%22Karl+Linke%22+%22Grammatikunterricht%22&amp;ref=anno-search&amp;seite=6"> Die Zeit, 14. Mai 1912, Seite 6</ref></note></seg> bedeutend <lb/>erweitert (für den
-                öffentlichen Vortrag), viele Beispiele, wie <lb/>ich Sie mit den Kindern erarbeitet habe
-                eingeführt, also haupt- <lb/>sächlich <hi rendition="#u">
-                        Positives</hi> gezeigt. Diese Szenen, fühle ich, machen jetzt <lb/>den Vortrag
-                sehr lebendig und lustig. Auch der Titel,- der ja <lb/>nichts sagte - hat fallen müssen
-                uns heißt jetzt: Unser <lb/><seg type="comment"><orig>Grammatikunterricht</orig><note>Dienstag 14. Mail 1912, halb 8 Uhr abends, Urania größer Vortragssaal<ref target="https://anno.onb.ac.at/cgi-content/anno?aid=zei&amp;datum=19120514&amp;query=%22Karl+Linke%22+%22Grammatikunterricht%22&amp;ref=anno-search&amp;seite=6"> Die Zeit, 14. Mai 1912,</ref></note></seg>- ein Verderber der deutschen Sprache.
-                <lb/>Ich will gleich mit der Ankündigung ein Bekenntnis ablegen. </p>
-    <p>Was Sie über meine Musikreferate sagen, hat mich auch beruhigt. <lb/><del rendition="#s">Ub</del> Was Sie mit dem, leeren Satz über
-                Gregors Regie meinen, ist mit <lb/>nicht klar geworden; so <del rendition="#s">[…]</del> „beiläufig gesagt“ ist der Satz nicht, er <lb/>hat einen
-                Sinn, der vielleicht nur verständlich wird, wenn man <lb/>vor der Premiere die
-                Vorbemerkungen in den Zeitungen gelesen hat, <lb/>auf die sich meine Anspielung bezieht.
-                Aber vielleicht ist die <lb/>Anspielung nicht fein und hätte unterbleiben sollen.</p> <p> Was ich arbeite? Ich habe 3 Sätze einer Sonate
-                (Klavier) fertig, <lb/>die jetzt bei <persName ref="https://d-nb.info/gnd/118509322">Berg</persName> sind, dem sie, als ich sie ihm vorspielte, sehr
-                <lb/>gut gefallen haben. Eines merke ich immer mehr: Man muß <lb/>den Punkt fühlen, wo man
-                aufzuhören hat. Wo das, was <lb/>unbedingt zu sagen war, zu Ende ist. Sehe es nun also
-                wie es <lb/>wolle. Ihre <bibl sameAs="	https://d-nb.info/358638364">Klavierstücke</bibl> sind mir <del rendition="#s">das</del> immer das
-                Höchste. <lb/><persName ref="https://d-nb.info/gnd/1042405174">Réti</persName> hat eines gespielt; <persName ref="https://d-nb.info/gnd/118509322">Berg</persName> wird Ihnen ja davon geschrieben <lb/>haben und an
-                dem Referat über <persName ref="https://d-nb.info/gnd/1042405174">Réti</persName> habe ich wieder bemerkt, <lb/>wie sicher ich mich vom Instinkt
-                führen lassen kann. <persName ref="https://d-nb.info/gnd/1042405174">Réti</persName> <lb/>hat nämlich auch eine <seg type="comment"><orig>eigene Sonate</orig><note>Sonntag 4.Februar 1912, Bösendorfer Saal <ref target="https://anno.onb.ac.at/cgi-content/anno?aid=iwe&amp;datum=19120211&amp;query=%22Rudolf+R%c3%a9ti%22+%22Sonate%22&amp;ref=anno-search&amp;seite=20">Illustriertes Wiener Extrablatt Nr. 40, 11. Februar 1912, Seite 20</ref></note></seg> gespielt, von der ich
-                gar <pb/><pb n="2"/> Keinen Eindruck habe. Aber wirklich nicht den
-                geringsten. Das machte <lb/>mir Sorge, denn das sollte doch der Höhepunkt der Matiné
-                ge- <lb/>wesen sein ( zur selben Stunde, als Ihre im <placeName ref="https://d-nb.info/gnd/4005728-8">Berlin</placeName> war, ich bin orien- <lb/>tiert durch
-                <persName ref="https://d-nb.info/gnd/118509322">Berg</persName>). Als ich nun schrieb und eines sich zum an- <lb/>dern formte, da kam ich zu einem
-                Abschluß, wo ich Atem holen <lb/>wollte, um nachher fortzusetzen. Und als ich es dann durch <lb/>las,
-                sah ich, daß das Referat schon so rund und geschlossen <lb/>war, daß "<del rendition="#s">
-                […]</del>" eine Fortsetzung nur eine unreinliche Anstückelung <lb/>gewesen wäre. Ich war
-                nämlich innerlich fertig geworden <lb/>und da von <persName ref="https://d-nb.info/gnd/1042405174">Rétis</persName> Sonate nichts in mir war, so
-                drängte sie <lb/>auch nicht zum Ausdruck. Ich bilde mir etwas darauf ein, <lb/>daß ich zu
-                richtigen Sekunde aufzuhören verstanden habe. <lb/>Und sonderbar: Man merkt in der
-                Besprechung gar nicht daß <lb/><persName ref="https://d-nb.info/gnd/1042405174">Rétis</persName> Sonate nicht „drangekommen“ ist. Sie geht einem
-                nicht ab. <lb/>Ich glaube, daß dieses „nicht zur rechten Zeit aufhören“ ein Haupt- <lb/>fehler
-                aller Menschen ist. Die <del rendition="#s">schließlich</del> im Gedanken
-                weiter- <lb/>leben und 100 Jahre alt werden, während sie schon länger „aufgehört“ haben.
-                <milestone unit="section" rendition="#hr"/> </p><p>Das mit <placeName ref="https://d-nb.info/gnd/4076310-9">Prag</placeName> weiß ich natürlich schon lange (auch das von <lb/><placeName ref="https://d-nb.info/gnd/4066009-6">Wien</placeName>) und
-                ringe noch mit Urlaubsverhältnissen. Ich muß ganz <lb/>verdammt moralisch erzogen worden
-                sein, ich bringe nämlich <lb/>die kleine Lüge des Krankseins nicht über mich.Da
-                widerstrebt <lb/>alles in mir wie gegen ein Verbrechen. Weiß der Teufel woher ich <lb/>diese
-                Lächerlichkeit habe; ich bringe sie nicht los. <del rendition="#s">Wird</del> Ich
-                muß <lb/>deshalb auf reellem Wege mein Ziel zu erreichen suchen; ich <lb/>hoffe, daß meine
-                Vorgesetzten doch coulanter sind als ich glaube. <lb/>Gelingt es mir, dann werde ich mit
-                1000 Freuden dort sein, <lb/>das können Sie sich denken. <milestone unit="section" rendition="#hr"/></p> <p><placeName ref="https://d-nb.info/gnd/4008684-7">Budapest"</placeName> war entzückt
-                von den Bildern (wirklich!) <lb/>Besonderes die ungarischen Blätter sollen überschwenglich geschrieben haben.Den
-                <lb/>Ausschnitt aus der „Budapester Presse“ lege ich bei für Sie. Etwas anders <lb/>reden die in <placeName ref="https://d-nb.info/gnd/4008684-7">Pest</placeName>
-                    doch als in <placeName ref="https://d-nb.info/gnd/4066009-6">Wien</placeName>.Sie und <persName ref="https://d-nb.info/gnd/118564722">Kokoschka</persName> wurden „extra“ <lb/>behandelt; nicht zusammen mit der
-                <orgName ref="https://d-nb.info/gnd/7670724-6">„Neukunstgruppe“</orgName>!.</p><closer><salute>Einstweilen
-                        herzliche Grüße von Ihrem ganz ergebenen</salute> , <date>1970</date>
-                    <signed>Linke</signed></closer></div>
+            <div type="letter">
+                <pb n="1"/>
+                <opener><salute>Sehr lieber Herr <persName ref="https://d-nb.info/gnd/118610023">Schönberg</persName>,</salute></opener>
+                <p>Ihr Brief hat mich <hi rendition="#uu">sehr</hi> erfreut, <del rendition="#s">und</del> weil <lb/>er mir das bestätigt, was ich immer mehr zu fühlen
+                    beginne: Die <lb/>Unzulänglichkeit unserer Schulen, ihr Versagen vor dem Kinde.
+                    Und <lb/>daß Sie mir so rückhaltlos zustimmen, das ist mir ein neuer
+                    <lb/>Ansporn, ganz meinem Gefühl nachzugehen, das mich sicherer <lb/>führen
+                    wird, als vorher ausgeklügelte Lehrgänge und Methoden. <lb/>Ich habe jetzt das
+                    Referat über den <seg type="comment"><orig>Grammatikunterricht</orig><note>Dienstag 14. Mai 1912, 8
+                            Uhr abends, Palace Hotel, 6. Bezirk, Zentralverein der Wiener Lehrerschaft<ref target="https://anno.onb.ac.at/cgi-content/anno?aid=zei&amp;datum=19120514&amp;query=%22Karl+Linke%22+%22Grammatikunterricht%22&amp;ref=anno-search&amp;seite=6"> Die Zeit, 14. Mai 1912, Seite 6</ref></note></seg> bedeutend
+                    <lb/>erweitert (für den öffentlichen Vortrag), viele Beispiele, wie <lb/>ich Sie
+                    mit den Kindern erarbeitet habe eingeführt, also haupt-<lb/>sächlich <hi rendition="#u"> Positives</hi> gezeigt. Diese Szenen, fühle ich, machen
+                    jetzt <lb/>den Vortrag sehr lebendig und lustig. Auch der Titel,- der ja
+                    <lb/>nichts sagte - hat fallen müssen uns heißt jetzt: Unser <lb/><seg type="comment"><orig>Grammatikunterricht</orig><note>Dienstag 14. Mai 1912,
+                            8 Uhr abends, Palace Hotel, 6. Bezirk<ref target="https://anno.onb.ac.at/cgi-content/anno?aid=zei&amp;datum=19120514&amp;query=%22Karl+Linke%22+%22Grammatikunterricht%22&amp;ref=anno-search&amp;seite=6">; Die Zeit, 14. Mai 1912, Seite 6</ref></note></seg>- ein Verderber der
+                    deutschen Sprache. <lb/>Ich will gleich mit der Ankündigung ein Bekenntnis
+                    ablegen. </p>
+                <p>Was Sie über meine Musikreferate sagen, hat mich auch beruhigt. <lb/><del rendition="#s">Ub</del> Was Sie mit dem, leeren Satz über Gregors Regie
+                    meinen, ist mit <lb/>nicht klar geworden; so <del rendition="#s">[…]</del>
+                    „beiläufig gesagt“ ist der Satz nicht, er <lb/>hat einen Sinn, der vielleicht
+                    nur verständlich wird, wenn man <lb/>vor der Premiere die Vorbemerkungen in den
+                    Zeitungen gelesen hat, <lb/>auf die sich meine Anspielung bezieht. Aber
+                    vielleicht ist die <lb/>Anspielung nicht fein und hätte unterbleiben sollen.</p>
+                <p> Was ich arbeite? Ich habe 3 Sätze einer Sonate (Klavier) fertig, <lb/>die jetzt
+                    bei <persName ref="https://d-nb.info/gnd/118509322">Berg</persName> sind, dem
+                    sie, als ich sie ihm vorspielte, sehr <lb/>gut gefallen haben. Eines merke ich
+                    immer mehr: Man muß <lb/>den Punkt fühlen, wo man aufzuhören hat. Wo das, was
+                    <lb/>unbedingt zu sagen war, zu Ende ist. Sehe es nun also wie es <lb/>wolle.
+                    Ihre <bibl sameAs="https://d-nb.info/358638364">Klavierstücke</bibl> sind mir
+                        <del rendition="#s">das</del> immer das Höchste. <lb/><persName ref="https://d-nb.info/gnd/1042405174">Réti</persName> hat eines gespielt;
+                        <persName ref="https://d-nb.info/gnd/118509322">Berg</persName> wird Ihnen
+                    ja davon geschrieben <lb/>haben und an dem Referat über <persName ref="https://d-nb.info/gnd/1042405174">Réti</persName> habe ich wieder
+                    bemerkt, <lb/>wie sicher ich mich vom Instinkt führen lassen kann. <persName ref="https://d-nb.info/gnd/1042405174">Réti</persName>
+                    <lb/>hat nämlich auch eine <seg type="comment"><orig>eigene
+                            Sonate</orig><note>Sonntag 4. Februar 1912, Bösendorfer Saal; <ref target="https://anno.onb.ac.at/cgi-content/anno?aid=iwe&amp;datum=19120211&amp;query=%22Rudolf+R%c3%a9ti%22+%22Sonate%22&amp;ref=anno-search&amp;seite=20">Illustriertes Wiener Extrablatt Nr. 40, 11. Februar 1912, Seite
+                                20</ref></note></seg> gespielt, von der ich gar <pb n="2"/>
+                    Keinen Eindruck habe. Aber wirklich nicht den geringsten. Das machte <lb/>mir
+                    Sorge, denn das sollte doch der Höhepunkt der Matiné ge- <lb/>wesen sein (<seg type="comment"><orig> zur
+                    selben Stunde</orig><note>Sonntag, 4. Februar 1912., Berlin, Harmonium-Saal, Morgen-Konzert, Kompositionen von Arnold Schönberg; <ref target="https://archive.schoenberg.at/resources/pages/view.php?search=basicyear%3A1912%2C+basicmonth%3A02&amp;k=&amp;modal=&amp;display=thumbs&amp;order_by=relevance&amp;offset=0&amp;per_page=48&amp;archive=&amp;sort=DESC&amp;restypes=7&amp;recentdaylimit=&amp;foredit=&amp;noreload=true&amp;access=&amp;ref=5513">Programmheft: Arnold Schönberg Center Bilddatenbank CP5513</ref></note></seg>, als Ihre im <placeName ref="https://d-nb.info/gnd/4005728-8">Berlin</placeName> war, ich bin orien- <lb/>tiert durch <persName ref="https://d-nb.info/gnd/118509322">Berg</persName>). Als ich nun schrieb
+                    und eines sich zum an- <lb/>dern formte, da kam ich zu einem Abschluß, wo ich
+                    Atem holen <lb/>wollte, um nachher fortzusetzen. Und als ich es dann durch-<lb/>las, sah ich, daß das Referat schon so rund und geschlossen <lb/>war, daß
+                        "<del rendition="#s"> […]</del>" eine Fortsetzung nur eine unreinliche
+                    Anstückelung <lb/>gewesen wäre. Ich war nämlich innerlich fertig geworden
+                    <lb/>und da von <persName ref="https://d-nb.info/gnd/1042405174">Rétis</persName> Sonate nichts in mir war, so drängte sie <lb/>auch nicht
+                    zum Ausdruck. Ich bilde mir etwas darauf ein, <lb/>daß ich zu richtigen Sekunde
+                    aufzuhören verstanden habe. <lb/>Und sonderbar: Man merkt in der Besprechung gar
+                    nicht daß <lb/><persName ref="https://d-nb.info/gnd/1042405174">Rétis</persName>
+                    Sonate nicht „drangekommen“ ist. Sie geht einem nicht ab. <lb/>Ich glaube, daß
+                    dieses „nicht zur rechten Zeit aufhören“ ein Haupt-<lb/>fehler aller Menschen
+                    ist. Die <del rendition="#s">schließlich</del> im Gedanken weiter- <lb/>leben
+                    und 100 Jahre alt werden, während sie schon länger „auf-<lb/>gehört“ haben. <milestone unit="section" rendition="#hr"/>
+                </p>
+                <p><seg type="comment"><orig>Das mit <placeName ref="https://d-nb.info/gnd/4076310-9">Prag</placeName></orig><note>Donnerstag, 29. Februar 1912, Prag, Neues Deutsche Theater, 3. Philharmonisches Konzert<ref target="https://archive.schoenberg.at/resources/pages/preview.php?ref=5523&amp;alternative=-1&amp;ext=jpg&amp;k=&amp;search=basicyear%3A1912&amp;offset=0&amp;order_by=relevance&amp;sort=DESC&amp;archive=&amp;page=2">; Programmheft: Arnold Schönberg Center Bilddatenbank CP5523</ref></note></seg> weiß
+                    ich natürlich schon lange (auch das von <lb/><placeName ref="https://d-nb.info/gnd/4066009-6">Wien</placeName>) und ringe noch mit
+                    Urlaubsverhältnissen. Ich muß ganz <lb/>verdammt moralisch erzogen worden sein,
+                    ich bringe nämlich <lb/>die kleine Lüge des Krankseins nicht über mich. Da
+                    widerstrebt <lb/>alles in mir wie gegen ein Verbrechen. Weiß der Teufel woher
+                    ich <lb/>diese Lächerlichkeit habe; ich bringe sie nicht los. <del rendition="#s">Wird</del> Ich muß <lb/>deshalb auf reellem Wege mein Ziel zu
+                    erreichen suchen; ich <lb/>hoffe, daß meine Vorgesetzten doch coulanter sind als
+                    ich glaube. <lb/>Gelingt es mir, dann werde ich mit 1000 Freuden dort sein,
+                    <lb/>das können Sie sich denken. <milestone unit="section" rendition="#hr"/></p>
+                <p><placeName ref="https://d-nb.info/gnd/4008684-7">Budapest"</placeName> war
+                    entzückt von den Bildern (wirklich!) <lb/>Besonderes die ungarischen Blätter
+                    sollen überschwenglich geschrieben haben.Den <lb/>Ausschnitt aus der „Budapester
+                    Presse“ lege ich bei für Sie. Etwas anders <lb/>reden die in <placeName ref="https://d-nb.info/gnd/4008684-7">Pest</placeName> doch als in
+                        <placeName ref="https://d-nb.info/gnd/4066009-6">Wien</placeName>. Sie und
+                        <persName ref="https://d-nb.info/gnd/118564722">Kokoschka</persName> wurden
+                    „extra“ <lb/>behandelt; nicht zusammen mit der <orgName ref="https://d-nb.info/gnd/7670724-6">„Neukunstgruppe“</orgName>!.</p>
+                <closer><salute>Einstweilen herzliche Grüße von Ihrem ganz ergebenen</salute> 
+                    <signed>Linke</signed></closer>
+            </div>
         </body>
     </text>
 </TEI>

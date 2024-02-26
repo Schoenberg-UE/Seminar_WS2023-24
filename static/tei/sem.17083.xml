@@ -9,7 +9,8 @@
             <editor>Veronika Lesjak</editor>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>Klavierstuecke unveraendert Stop. Schoenberg-Briefe edieren, Seminar Universität für
+               Musik und darstellende Kunst Wien, WS 23</p>
          </publicationStmt>
          <sourceDesc>
             <p>Information about the source</p>
@@ -33,56 +34,81 @@
    <text>
       <body>
          <div type="letter">
-         <pb n="1" />
-         <opener>
-            <date rendition="#r">10.IV.1927</date>
-            <salute>Lieber Herr Schönberg!</salute><!-- kein Absatz--><!-- siehe Brief 1313 -->
-         </opener>
-         <p>Vielen Dank für Ihre Briefe. <persName ref="https://d-nb.info/gnd/104532858">Dr. Adler</persName> <lb/>hat den Brief noch am selben Tag bekommen, an dem
-            ich ihn er-<lb/>hielt. Ihre Zustimmung zur Pariser <ref target="https://d-nb.info/gnd/300139152">Gurre-Lieder</ref> Aufführung <lb/>habe ich
-            weitergegeben. Man hat an Deutsch geschrieben, es ist <lb/>aber noch keine Antwort von ihm
-            da. – Schade dass Sie das Inter-<lb/>view nicht weitergemacht haben. Es wäre sehr lustig
-            geworden. <lb/>Ueber das rasende Tempo dieser Zeit möchte ich auch einmal schrei-<lb/>ben. Man
-            müsste es einmal metronomiesieren. Dann würde sich zeigen <lb/>dass die Zähleinheiten nicht
-            schneller aufeinander folgen als <lb/>früher. Aber die Gschaftlhuberei der
-            Hunderachtundzwanzigstel! <lb/>Leider wird Ihr Heft nicht so, wie ich es gehofft habe. Einige
-            <lb/>Leute, die mir wichtig waren, haben mich zuletzt im Stich gelassen. <lb/>Und ich hatte nicht
-            genug vorgesorgt. Jetzt wüsste ich, wie ich <lb/>es hätte anfangen sollen und hoffe, dass das
-            2. Schönberg-Heft von <lb/><bibl sameAs="https://d-nb.info/013874969">Pult und Taktstock</bibl> besser werden wird. Das erste wird in cca. 10
-            <lb/>Tagen erscheinen. – Ich werde jetzt die <seg type="comment"><orig>Suite</orig><note><p>Es handelt sich um die Suite op. 29 <ref target="https://d-nb.info/gnd/300139365"></ref></p></note></seg>studieren und freue <lb/>mich schon sehr drauf.
-            Auf das<del rendition="#s">2Stück</del> „Stück“ bin ich sehr begierig. <lb/>Wann haben Sie
-            eigentlich die Absicht, nach<placeName ref="https://d-nb.info/gnd/4066009-6">Wien</placeName> zu kommen? – <lb/>Wegen der Kontrabässe im <seg type="comment"><orig>Fis moll Quartett</orig><note><p><ref target="https://schoenberg.at/index.php/de/joomla-license/zweites-streichquartett-op-10-1907-1908"></ref></p></note></seg>
-            habe ich <persName ref="https://d-nb.info/gnd/118629786">Webern</persName> schon <lb/>gefragt. Er erinnert sich, dass Sie solche verwendet
-            haben, aber <lb/>sehr diskret. Ich werde mir das Exemplar, das <persName ref="https://d-nb.info/gnd/118509322">Berg</persName>hat, ansehn und <lb/>Ihnen
-            darüber berichten. – Wegen der <ref target="https://d-nb.info/gnd/300139241">Pelleas</ref>-Partitur werde ich <lb/>mit <persName ref="https://d-nb.info/gnd/116755121">Hertzka</persName> reden. Vorher aber
-            mir die Möglichkeit der Reduktion <lb/>genau überlegen. Zunächst halte ich sie nicht für
-            unmöglich und <lb/>leichter wie bei den <ref target="https://d-nb.info/gnd/300139152">Gurre-Lieder</ref>. Die Reduktion den Kapellmeistern <lb/>zu
-            überlassen halte ich für ungünstig; nicht nur weil man dann <lb/>nicht weiss, was daraus
-            wird. Die Leute beschränken sich meist auf <pb n="2"/> <lb/>ein paar Einzüge, wenn ihnen 2-3 Instrumente
-            fehlen. Hier, wo es <lb/>sich doch um cca. 10 Bläserstimmen <add place="superlinear">weniger</add>
-            handelt, wäre selbst eine schlech-<lb/>te Arbeit so gross, dass die im Betrieb stehenden
-            Kapellmeister <lb/>kaum Zeit dazu fänden. Ich werde die Partitur nochmals studieren <lb/>und Ihnen
-            von dem Resultat, zu dem ich komme, berichten. – Die <lb/>Pelleas Aufführung hab ich bei
-            <persName ref="https://d-nb.info/gnd/128400420">Kolisch</persName> gehört, der Ihnen ja viel-<lb/>leicht schon darüber berichtet hat. Er hatte sich einen
-            ganz grossen <lb/>Radioapparat ausgeliehen. Es waren waren aber so viel Störungen, <lb/>dass man
-            nur selten überhaupt etwas und nur wenige Stellen klar <lb/>hören konnte. Deutlich war die F
-            Dur Partie mit den beiden heftigen <lb/>Takten vorher, ein grosser Teil des Adagio, und der
-            grösste Teil <lb/>der Coda, namentlich die letzten Takte fast frei von Geräuschen. <lb/>Man hatte
-            den Eindruck, dass es eine sehr gute Aufführung gewesen <lb/>sein muss. – In der
-            Beethovenwoche war mir beinahe des Interessan-<lb/>teste, einmal wirklich einen Vergleich
-            zwischen <persName ref="https://d-nb.info/gnd/118629786">Webern</persName> und -<persName ref="https://d-nb.info/gnd/11863027X">Wein-<lb/>gartner</persName> ziehen zu können. <persName ref="https://d-nb.info/gnd/118629786">Webern</persName> dirigierte in einem Arbeiter
-            Kon-<lb/>zert die Chorphantasie mit <persName ref="https://d-nb.info/gnd/118953060">Steuermann</persName >am Klavier; <del rendition="#s">acht</del><add
-            place="superlinear">fünf</add> Tage später <lb/>hörte ich sie mit demselben Orchester und
-            <persName ref="https://d-nb.info/gnd/118608762">Franz Schmidt</persName> als Pianisten <lb/>unter <persName ref="https://d-nb.info/gnd/11863027X">Weingartner</persName>. Dieser Qualitätsunterschied war so
-            ungeheuerlich, <lb/>dass er selbst den Orchestermusikern, mit denen ich gesprochen hab
-            <lb/>aufgefallen ist. Das eine Mal Musik, das andere Mal ein Brei.</p>
-         <p>Bei uns zuhause ist alles in Ordnung. Die Kleine gedeiht sehr gut. Sie ist bald ein
-            Halbes Jahr alt.</p> <closer><salute>Meine Frau lässt Sie beide viel-<lb/>mals herzlichst grüssen.
-            Auch von mir viele Grüsse an Ihre liebe <lb/><persName
-            ref="https://d-nb.info/gnd/116860146">Frau</persName>. Ich bin stets in Verehrung <lb/>Ihr
-            </salute><signed
-               rendition="r">Stein</signed> <seg hand="#addressee">19/4.</seg>
-         </closer></div>
+            <pb n="1"/>
+            <opener>
+               <date rendition="#r">10.IV.1927</date>
+               <salute>Lieber Herr Schönberg!</salute>
+            </opener>
+            <p rendition="#inline">Vielen Dank für Ihre Briefe. <persName
+                  ref="https://d-nb.info/gnd/104532858">Dr. Adler</persName>
+               <lb/>hat den Brief noch am selben Tag bekommen, an dem ich ihn er-<lb/>hielt. Ihre
+               Zustimmung zur Pariser <ref target="https://d-nb.info/gnd/300139152"
+                  >Gurre-Lieder</ref> Aufführung <lb/>habe ich weitergegeben. Man hat an Deutsch
+               geschrieben, es ist <lb/>aber noch keine Antwort von ihm da. – Schade dass Sie das
+               Inter-<lb/>view nicht weitergemacht haben. Es wäre sehr lustig geworden. <lb/>Ueber
+               das rasende Tempo dieser Zeit möchte ich auch einmal schrei-<lb/>ben. Man müsste es
+               einmal metronomiesieren. Dann würde sich zeigen <lb/>dass die Zähleinheiten nicht
+               schneller aufeinander folgen als <lb/>früher. Aber die Gschaftlhuberei der
+               Hunderachtundzwanzigstel! <lb/>Leider wird Ihr Heft nicht so, wie ich es gehofft
+               habe. Einige <lb/>Leute, die mir wichtig waren, haben mich zuletzt im Stich gelassen.
+               <lb/>Und ich hatte nicht genug vorgesorgt. Jetzt wüsste ich, wie ich <lb/>es hätte
+               anfangen sollen und hoffe, dass das 2. Schönberg-Heft von <lb/><bibl
+                  sameAs="https://d-nb.info/013874969">Pult und Taktstock</bibl> besser werden wird.
+               Das erste wird in cca. 10 <lb/>Tagen erscheinen. – Ich werde jetzt die <seg
+                  type="comment"><orig>Suite</orig><note><p>Es handelt sich um die <ref
+                     target="https://d-nb.info/gnd/300139365">Suite op. 29</ref></p></note></seg>studieren und
+               freue <lb/>mich schon sehr drauf. Auf das<del rendition="#s">2Stück</del> „Stück“ bin
+               ich sehr begierig. <lb/>Wann haben Sie eigentlich die Absicht, nach <placeName
+                  ref="https://d-nb.info/gnd/4066009-6">Wien</placeName> zu kommen? – <lb/>Wegen der
+               Kontrabässe im <ref
+               target="https://schoenberg.at/index.php/de/joomla-license/zweites-streichquartett-op-10-1907-1908"
+               >Fis moll Quartett</ref> habe ich <persName ref="https://d-nb.info/gnd/118629786"
+                  >Webern</persName> schon <lb/>gefragt. Er erinnert sich, dass Sie solche verwendet
+               haben, aber <lb/>sehr diskret. Ich werde mir das Exemplar, das <persName
+                  ref="https://d-nb.info/gnd/118509322">Berg</persName> hat, ansehn und <lb/>Ihnen
+               darüber berichten. – Wegen der <ref target="https://d-nb.info/gnd/300139241"
+                  >Pelleas</ref>-Partitur werde ich <lb/>mit <persName
+                  ref="https://d-nb.info/gnd/116755121">Hertzka</persName> reden. Vorher aber mir
+               die Möglichkeit der Reduktion <lb/>genau überlegen. Zunächst halte ich sie nicht für
+               unmöglich und <lb/>leichter wie bei den <ref target="https://d-nb.info/gnd/300139152"
+                  >Gurre-Lieder</ref>. Die Reduktion den Kapellmeistern <lb/>zu überlassen halte ich
+               für ungünstig; nicht nur weil man dann <lb/>nicht weiss, was daraus wird. Die Leute
+               beschränken sich meist auf <pb n="2"/>
+               <lb/>ein paar Einzüge, wenn ihnen 2-3 Instrumente fehlen. Hier, wo es <lb/>sich doch
+               um cca. 10 Bläserstimmen <add place="superlinear">weniger</add> handelt, wäre selbst
+               eine schlech-<lb/>te Arbeit so gross, dass die im Betrieb stehenden Kapellmeister
+               <lb/>kaum Zeit dazu fänden. Ich werde die Partitur nochmals studieren <lb/>und Ihnen
+               von dem Resultat, zu dem ich komme, berichten. – Die <lb/>Pelleas Aufführung hab ich
+               bei <persName ref="https://d-nb.info/gnd/128400420">Kolisch</persName> gehört, der
+               Ihnen ja viel-<lb/>leicht schon darüber berichtet hat. Er hatte sich einen ganz
+               grossen <lb/>Radioapparat ausgeliehen. Es waren waren aber so viel Störungen,
+               <lb/>dass man nur selten überhaupt etwas und nur wenige Stellen klar <lb/>hören
+               konnte. Deutlich war die F Dur Partie mit den beiden heftigen <lb/>Takten vorher, ein
+               grosser Teil des Adagio, und der grösste Teil <lb/>der Coda, namentlich die letzten
+               Takte fast frei von Geräuschen. <lb/>Man hatte den Eindruck, dass es eine sehr gute
+               Aufführung gewesen <lb/>sein muss. – In der Beethovenwoche war mir beinahe des
+               Interessan-<lb/>teste, einmal wirklich einen Vergleich zwischen <persName
+                  ref="https://d-nb.info/gnd/118629786">Webern</persName> und -<persName
+                  ref="https://d-nb.info/gnd/11863027X">Wein-<lb/>gartner</persName> ziehen zu
+               können. <persName ref="https://d-nb.info/gnd/118629786">Webern</persName> dirigierte
+               in einem Arbeiter Kon-<lb/>zert die Chorphantasie mit <persName
+                  ref="https://d-nb.info/gnd/118953060">Steuermann</persName> am Klavier; <del
+                  rendition="#s">acht</del><add place="superlinear">fünf</add> Tage später
+               <lb/>hörte ich sie mit demselben Orchester und <persName
+                  ref="https://d-nb.info/gnd/118608762">Franz Schmidt</persName> als Pianisten
+               <lb/>unter <persName ref="https://d-nb.info/gnd/11863027X">Weingartner</persName>.
+               Dieser Qualitätsunterschied war so ungeheuerlich, <lb/>dass er selbst den
+               Orchestermusikern, mit denen ich gesprochen hab <lb/>aufgefallen ist. Das eine Mal
+               Musik, das andere Mal ein Brei.</p>
+            <p>Bei uns zuhause ist alles in Ordnung. Die Kleine gedeiht sehr gut. <lb/>Sie ist bald ein
+               Halbes Jahr alt.</p>
+            <closer><salute>Meine Frau lässt Sie beide viel-<lb/>mals herzlichst grüssen. Auch von
+                  mir viele Grüsse an Ihre liebe <lb/><persName
+                     ref="https://d-nb.info/gnd/116860146">Frau</persName>. Ich bin stets in
+                  Verehrung <lb/>Ihr </salute><signed rendition="r">Stein</signed>
+               <seg hand="#addressee">19/4.</seg>
+            </closer>
+         </div>
       </body>
    </text>
 </TEI>
