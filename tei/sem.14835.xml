@@ -8,14 +8,13 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><persName ref="https://d-nb.info/gnd/134611306">Pappenheim</persName> an
-                        <persName ref="https://d-nb.info/gnd/118610023">Schönberg</persName>, 20.
+                <title><persName ref="https://d-nb.info/gnd/134611306">Marie Pappenheim</persName> an
+                        <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>, 20.
                     Februar 1914</title>
-                <!-- Vorname und Nachname -->
                 <editor>Marius Auer</editor>
             </titleStmt>
             <publicationStmt>
-                <p>Publication Information</p>
+                <p>Klavierstuecke unveraendert Stop. Schoenberg-Briefe edieren, Seminar Universität für Musik und darstellende Kunst Wien, WS 23</p>
             </publicationStmt>
             <sourceDesc>
                 <p>Information about the source</p>
@@ -47,42 +46,38 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                                 >Allemagne</placeName></addrLine>
                         <addrLine><placeName ref="https://d-nb.info/gnd/4571629-8">Berlin -
                                 Südende</placeName></addrLine>
-                        <addrLine>Berlinerstr. 179</addrLine>
-                        <!-- korr zu 17a-->
+                        <addrLine>Berlinerstr. 17a</addrLine>
                         <addrLine><persName ref="https://d-nb.info/gnd/134611306">M
                                 Pappenheim</persName></addrLine>
-                        <addrLine><placeName ref="https://d-nb.info/gnd/4620170-1">Dem à V
-                                ieme</placeName><!-- korr V zu X - link entsprechend ändern! --></addrLine>
+                    <addrLine><placeName ref="https://d-nb.info/gnd/4638543-5">Dem à X
+                                ieme</placeName></addrLine>
                         <addrLine>Rue de Paradis N°9</addrLine>
                     </address></opener>
                 <pb n="2"/>
-                <opener><salute>Lieber Herr <persName ref="https://d-nb.info/gnd/118610023"
-                            >Schönberg</persName>,</salute></opener>
-                <p><!-- Zeilenumbrüche -->bitte schicken Sie <hi rendition="#u">mir die Szene
-                        zurück</hi> - ich mache nichts weil ich nichts weiß. Ich will d. <hi
-                        rendition="#u">Erzählung<!-- korr zu Erzähl. --> v. Sw.</hi> ganz ändern -
-                    nichts von Erlbenis<!-- korr zu Erlebn. u.s.--> w. in dieser Form. Ein rasches Gespräch - selbst in Parsifal
+                <opener><salute>Lieber Herr <persName ref="https://d-nb.info/gnd/118610023">Schönberg</persName>,</salute></opener>
+                <p>bitte schicken Sie <hi rendition="#u">mir die Szene zurück</hi> - ich mache nichts weil ich 
+                    nichts weiß. Ich will d.<hi rendition="#u">Erzähl.v. Sw.</hi> ganz ändern -
+                    nichts von Erlben. u.s.w. in dieser Form. Ein rasches Gespräch - selbst in Parsifal
                     sind die Erzählungen lang so viel kürzer sie sind. Da ich keinen Bescheid habe,
-                    habe ich in den <hi rendition="#u">ersten 2 Sz.</hi> nur gekürzt. Das 4.
-                        <unclear>Weitere</unclear><!-- soll der 4er innerhalb des unclear? --> müßten Sie doch selbst kürzen - es hängt von der
+                    habe ich in den <hi rendition="#u">ersten 2 Sz.</hi> nur gekürzt. Das 
+                    <unclear>4. Weitere</unclear> müßten Sie doch selbst kürzen - es hängt von der
                     persönlichen Wertung ab. Auch ein Wort bitt ich über die <hi rendition="#u"
-                        >Visionen</hi>. Ich schrieb schon, ich möchte <unclear>nur</unclear>
+                    >Visionen</hi>. Ich schrieb schon, ich möchte <unclear>nur</unclear>
                     denselb. Abglanz lassen den B. schildert. - Bitte antworten Sie gleich. - Auch
                     ob die <bibl sameAs="https://d-nb.info/gnd/300139152">Gurrel</bibl>. in
-                        <placeName ref="https://d-nb.info/gnd/4066009-6">Wien</placeName> sein
+                    <placeName ref="https://d-nb.info/gnd/4066009-6">Wien</placeName> sein
                     werden - und wie es in <placeName ref="https://d-nb.info/gnd/4035206-7"
-                        >Leipzig</placeName> steht? - Ich wollte Dr. <unclear>Clemenceau</unclear>
+                    >Leipzig</placeName> steht? - Ich wollte Dr. <unclear>Clemenceau</unclear>
                     besuchen, <unclear>tats</unclear> aber <add place="superlinear">noch</add>
                     nicht. Hier bleib ich ja doch nicht. - </p>
-                <closer><salute>Viele Grüße an Sie alle, an <persName
-                            ref="https://d-nb.info/gnd/136986374">Trude</persName> schreib ich bald
-                        ein Gedicht.</salute>
-                    <signed><persName ref="https://d-nb.info/gnd/134611306">M
-                        Pappenheim</persName></signed></closer>
-                <postscript>
-                    <p>Bitte, haben Sie das Textbuch gedruckt? so bitte 1 Exempl. Kennen Sie
-                            <persName ref="https://d-nb.info/gnd/4393297-6">B's</persName><!-- hier müsste der Link zum Eintrag von Balzac als Person gehen --> Widmung d
-                            <bibl sameAs="https://d-nb.info/gnd/4393297-6">Seraphita</bibl>?</p>
+                    <closer><salute>Viele Grüße an Sie alle, an <persName
+                    ref="https://d-nb.info/gnd/136986374">Trude</persName> schreib ich bald
+                    ein Gedicht.</salute>
+                    <signed><persName ref="https://d-nb.info/gnd/134611306">
+                    M Pappenheim</persName></signed></closer>
+                    <postscript><p>Bitte, haben Sie das Textbuch gedruckt? so bitte 1 Exempl. 
+                        Kennen Sie<persName ref="https://d-nb.info/gnd/118506358">B's</persName>Widmung d
+                    <bibl sameAs="https://d-nb.info/gnd/4393297-6">Seraphita</bibl>?</p>
                 </postscript>
             </div>
         </body>

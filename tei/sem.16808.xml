@@ -96,7 +96,7 @@
                                 Kritik wurde in der Zeitschrift Pult und Taktstock veröffentlicht.
                                 Exemplar aus dem Nachlass: <ref
                                     target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=1440&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"
-                                />Jarnach1927a</p></note></seg> haben <lb/>wir uns eine grössere
+                                    >Jarnach1927a</ref></p></note></seg> haben <lb/>wir uns eine grössere
                     Anzahl aus <placeName ref="https://d-nb.info/gnd/4005728-8">Berlin</placeName>
                     kommen lassen und sie im Ori-<lb/>ginal mit einem entsprechenden
                     Begleitschreiben an etwa 2 Dutzend <lb/>wichtige Dirigenten geschickt, und zwar
@@ -128,11 +128,11 @@
                         <add place="intralinear">mich das</add>
                     </subst>recht bald <lb/>wissen zu lassen.</p>
                 <closer>
-                    <salute rendition="#r"><lb/>Mit den herzlichsten Grüssen an Sie und Ihre
+                    <salute><lb/>Mit den herzlichsten Grüssen an Sie und Ihre
                             <lb/><persName ref="https://d-nb.info/gnd/116860146">Frau</persName>,
-                        bin ich stets <seg rendition="r">Ihr <lb/> ergebener</seg>
+                        bin ich stets <lb/><seg rendition="r">Ihr <lb/> ergebener</seg>
                     </salute>
-                    <signed rendition="r">Stein</signed>
+                    <signed rendition="#r">Stein</signed>
                 </closer>
             </div>
         </body>

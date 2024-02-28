@@ -55,7 +55,7 @@
                anfangen sollen und hoffe, dass das 2. Schönberg-Heft von <lb/><bibl
                   sameAs="https://d-nb.info/013874969">Pult und Taktstock</bibl> besser werden wird.
                Das erste wird in cca. 10 <lb/>Tagen erscheinen. – Ich werde jetzt die <seg
-                  type="comment"><orig>Suite</orig><note><p>Es handelt sich um die <ref
+                  type="comment"><orig>Suite</orig><note><p>Es handelt sich um Arnold Schönbergs <ref
                      target="https://d-nb.info/gnd/300139365">Suite op. 29</ref></p></note></seg>studieren und
                freue <lb/>mich schon sehr drauf. Auf das<del rendition="#s">2Stück</del> „Stück“ bin
                ich sehr begierig. <lb/>Wann haben Sie eigentlich die Absicht, nach <placeName
@@ -105,7 +105,7 @@
             <closer><salute>Meine Frau lässt Sie beide viel-<lb/>mals herzlichst grüssen. Auch von
                   mir viele Grüsse an Ihre liebe <lb/><persName
                      ref="https://d-nb.info/gnd/116860146">Frau</persName>. Ich bin stets in
-                  Verehrung <lb/>Ihr </salute><signed rendition="r">Stein</signed>
+               Verehrung <lb/><seg rendition="#r">Ihr</seg> </salute> <lb/><signed rendition="#r">Stein</signed>
                <seg hand="#addressee">19/4.</seg>
             </closer>
          </div>

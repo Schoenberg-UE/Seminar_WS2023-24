@@ -1,6 +1,6 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sem.13870">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sem.13845">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -73,7 +73,7 @@
                     einem kurzen einfachen Thema. Und als ich es fertig hatte, wußte ich, <lb/>daß
                     ich jetzt <del rendition="#s">[…]</del> wieder dort anfangen mußte, wo Sie mit
                     mir die <lb/>Kompositionslehre begannen. Bei der einfachen Liedform mit genauen
-                    <lb/>8taktigen Perioden. Vielleicht habe ich mir […] zu viel zugetraut und habe
+                    <lb/>8taktigen Perioden. Vielleicht habe ich mir <del rendition="#s">[…]</del> zu viel zugetraut und habe
                     <lb/>deshalb nicht mehr weitergekonnt; darum hat es mich jetzt so weit zurück
                     <lb/>geworfen. Ich mache jetzt Komponierübungen für Klavier zu vier Händen
                     <lb/>und bemerke, dass ich die kleinen Formen jetzt viel sicherer mache als
@@ -97,7 +97,7 @@
                     gegen die Lesebücher <lb/>geschrieben, der wahrscheinlich vom Redakteur der
                     größten Lehrerzeitung, für <lb/>die er gedacht ist, abgewiesen werden wird, da
                     der Redakteur <del rendition="#uu">für</del> die <lb/>Lesebücher ist und auch
-                    einen Leitartikel darüber geschrieben hat, auf <lb/>den mein<del rendition="#s">[…]</del> Aufsatz eine Antwort ist. Ich denke mir eine <del rendition="#s">[…]</del> periodisch <lb/>erscheinende Kinderzeitschrift (teilweise auch
+                    einen Leitartikel darüber geschrieben hat, auf <lb/>den mein <del rendition="#s">[…]</del> Aufsatz eine Antwort ist. Ich denke mir eine <del rendition="#s">[…]</del> periodisch <lb/>erscheinende Kinderzeitschrift (teilweise auch
                     von Kindern gearbeitet) <lb/>statt der öden Lesebücher. Sollte der Aufsatz
                     gedruckt werden, dann <lb/>werde ich Ihnen ein Exemplar senden. </p>
                 <milestone unit="section" rendition="#star"/>
