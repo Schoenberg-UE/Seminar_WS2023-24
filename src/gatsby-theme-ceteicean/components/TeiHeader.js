@@ -26,6 +26,7 @@ const TeiHeader = ({teiNode}) => {
   const date = senderInfo.getElementsByTagName("tei-date")[0]
   const checkDate = date ? formatDate(date.getAttribute("when")) : "ohne Datum"
   const addressee = teiNode.getElementsByTagName("tei-correspAction")[1].getElementsByTagName("tei-persName")[0]
+  const comment = teiNode.getElementsByTagName("tei-note")[0].textContent
 
   return (
     <Behavior node={teiNode}>
@@ -40,6 +41,10 @@ const TeiHeader = ({teiNode}) => {
         <div className="row addressee">
             <div className="col-md-3">Empfänger:</div>
             <div className="col-md-9">{ addressee ? addressee.textContent : "" }</div>
+        </div>
+        <div className="row comment">
+            <div className="col-md-3">Kommentar:</div>
+            <div className="col-md-9">{ comment }</div>
         </div>
       </div>
       </Alert>

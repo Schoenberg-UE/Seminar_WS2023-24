@@ -3,7 +3,8 @@ import Ceteicean from "gatsby-theme-ceteicean/src/components/Ceteicean"
 import {
   Tei,
   Ref,
-  Title
+  Title,
+  TeiHeader,
 } from "gatsby-theme-ceteicean/src/components/DefaultBehaviors"
 import Layout from "../../components/Layout"
 import Pb from "./Pb"
@@ -13,8 +14,11 @@ import PlaceName from "./PlaceName"
 import OrgName from "./OrgName"
 import Bibl from "./Bibl"
 import Add from "./Add"
-import TeiHeader from "./TeiHeader"
+import Text from "./HideText"
+//import TeiHeader from "./TeiHeader"
 import Supplied from "./Supplied"
+import TeiHeaderCommentTab from "./TeiHeaderCommentTab"
+import TeiCustom from "./TeiCustom"
 //import Mirador from "./Mirador"
 
 import "./ceteicean.css"
@@ -23,8 +27,9 @@ import "./style.css"
 const MyCeteicean = ({pageContext}) => {
 
   const routes = {
-    "tei-tei": Tei,
-    "tei-teiheader": TeiHeader,
+    "tei-tei": TeiCustom,
+    "tei-teiheader": TeiHeaderCommentTab,
+    "tei-text": Text,
     "tei-title": Title,
     "tei-note": Note,
     "tei-ref": Ref,
