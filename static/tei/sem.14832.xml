@@ -8,14 +8,13 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><persName ref="https://d-nb.info/gnd/134611306">Pappenheim</persName> an
-                        <persName ref="https://d-nb.info/gnd/118610023">Schönberg</persName>, 18.
+                <title><persName ref="https://d-nb.info/gnd/134611306">Marie Pappenheim</persName> an
+                        <persName ref="https://d-nb.info/gnd/118610023">Arnold Schönberg</persName>, 18.
                     Jänner 1914</title>
-                <!-- nennen wir im Titel Vorname und Nachname, bitte -->
                 <editor>Marius Auer</editor>
             </titleStmt>
             <publicationStmt>
-                <p>Publication Information</p>
+                <p>Klavierstuecke unveraendert Stop. Schoenberg-Briefe edieren, Seminar Universität für Musik und darstellende Kunst Wien, WS 23</p>
             </publicationStmt>
             <sourceDesc>
                 <p>Information about the source</p>
@@ -35,8 +34,8 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                 <note>Arnold Schönberg beabsichtigte zu Beginn der 1910er Jahre, die Erzählung
                     Seraphita von Honoré de Balzac zu vertonen. Er beauftragte die österreichische
                     Ärztin, Feministin und Librettistin Marie Pappenheim mit der Bearbeitung des
-                    Textes, diese hatte zuvor auch schon das Monodram Erwartung op. 17 (1909) für
-                    Schönberg vertont.<!-- Den Text für Schönbergs Monodram Erwartung verfasst --> Obwohl Marie Pappenheim in ihren Briefen an Schönberg
+                    Textes, diese hatte zuvor auch schon den Text für das Monodram Erwartung op. 17 (1909) für
+                    Schönberg verfasst hat. Obwohl Marie Pappenheim in ihren Briefen an Schönberg
                     durchwegs von Fortschritten ihrer Arbeit berichtet, findet sich bis heute kein
                     fertiges Libretto im Nachlass Schönbergs - letztlich ist kein fertiges
                     Bühnenwerk namens Seraphita entstanden. Die Auseinandersetzung mit dem
@@ -67,7 +66,7 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                     um ihn herum, über die Natur und dessen Existenz nachzudenken (vgl. Projekt
                     Gutenberg-DE; online unter:
                     https://www.projekt-gutenberg.org/balzac/seraphit/index.html; online am
-                    22.01.2024).<!-- Haben Sie für die Zusammenfassung noch eine andere Quelle als den ganzen Text online verwendet? falls ja, bitte noch angeben  --></note>
+                    22.01.2024).</note>
             </correspDesc>
         </profileDesc>
     </teiHeader>
@@ -83,42 +82,38 @@ href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" ty
                             <del rendition="#u"><placeName ref="https://d-nb.info/gnd/4011882-4">Allemagne</placeName></del></addrLine>
                         <addrLine><placeName ref="https://d-nb.info/gnd/4571629-8">Berlin -
                                 Südende</placeName></addrLine>
-                        <addrLine>Berlinerstr. 179</addrLine>
-                        <!-- 179 korr zu 17a -->
+                        <addrLine>Berlinerstr. 17a</addrLine>
                         <addrLine><persName ref="https://d-nb.info/gnd/134611306">M
                                 Pappenheim</persName></addrLine>
-                        <addrLine>Dem à V ieme</addrLine>
-                        <!-- V korr zu X -->
+                    <addrLine><placeName ref="https://d-nb.info/gnd/4638543-5">Dem à X ieme</placeName></addrLine>
                         <addrLine>Rue de Paradis N°9</addrLine>
                     </address></opener>
                 <pb n="2"/>
                 <opener><salute>Lieber Herr <persName ref="https://d-nb.info/gnd/118610023">Schönberg</persName>,</salute></opener>
-                <p>ich habe eben
-                        <lb/><!-- Zeilenumbrüche im folgenden Text-->Seraph<supplied>ita</supplied>
+                <p>ich habe eben<lb/>Seraph<supplied>ita</supplied>
                     wieder begonnen. Bitte Sie aber mir zu schreiben, ob Sie an d. 1. Szene viel
                     gekürzt od geändert wünschen. Die „Furchtbarkeit" kommt auch bei B. nur durch
-                    die Stimme des <!-- korr zu d --> Adlers und die<!-- korr zu u d --> Stimme
-                    der<!-- korr zu d. --> Turteltaube zum Bewußtsein. Die Kraft durch die
+                    die Stimme d. Adlers u d Stimme d. Turteltaube zum Bewußtsein. Die Kraft durch die
                     Bewegungen, - übrigens nehme ich etwas v d Schilderung d. Schrecken des Winters
-                    fand <!-- korrektur zu und -->d. <seg type="comment"><orig>Falbergs</orig><note>Originalzitat aus der Seraphita von H. de
-                            Balzac: "Das Gebirge, welches an seinem Fuße die ganze Wut des Meeres und
-                            auf seinem Gipfel alle Stürme des eisigen Nordpols aushalten muß, wird
-                            der Falberg genannt [...]".<ref target="https://www.projekt-gutenberg.org/balzac/seraphit/chap001.html">links<!-- statt links: Honoré de Balzac, Seraphita: Der Stromjord; online am...--></ref></note></seg> für d Szene, in d. Becker an d. Besteigung
+                    fand und d. <seg type="comment"><orig>Falbergs</orig><note>Originalzitat aus der Seraphita von H. 
+                    de Balzac: "Das Gebirge, welches an seinem Fuße die ganze Wut des Meeres und
+                    auf seinem Gipfel alle Stürme des eisigen Nordpols aushalten muß, wird
+                    der Falberg genannt [...]".<ref target="https://www.projekt-gutenberg.org/balzac/seraphit/chap001.html">Honoré de Balzac, Seraphita: Der Stromfjord; (online am 27.02.2024)</ref></note></seg> für d Szene, in d. Becker an d. Besteigung
                     zweifelt. Durch Verstärk. d Abweisung und wenn ich immer v d Abgrund sprechen
                     lasse, den Ser. Blick zwischen ihnen öffnet, wird vielleicht erreicht, was Sie
                     wollen. - Ich schicke es jetzt nicht stückweise. - Nach <seg type="comment"><orig>Lond.<supplied>on</supplied></orig><note><p>Im Jänner 1914
-                                war Arnold Schönberg auf Konzertreise in London und dirigierte ein
-                                Konzert.</p>Zeit: Samstag, 17. Jänner, 15:00<p>Aufführendes
-                                Orchester: Queen's Hall Orchestra</p><p>Ort: Queens Hall</p>
-                            <p>Programmflyer unter
-                                <ref target="https://archive.schoenberg.at/resources/pages/view.php?search=basicyear%3A1914&amp;k=&amp;modal=&amp;display=thumbs&amp;order_by=relevance&amp;offset=0&amp;per_page=48&amp;archive=0&amp;sort=DESC&amp;restypes=7&amp;recentdaylimit=&amp;foredit=&amp;noreload=true&amp;access=&amp;ref=5539">links <!-- statt links: Arnold Schönberg Center Bilddatenbank 5539 --></ref></p></note></seg>,
+                    war Arnold Schönberg auf Konzertreise in London und dirigierte ein
+                    Konzert.</p>Zeit: Samstag, 17. Jänner, 15:00<p>Aufführendes
+                    Orchester: Queen's Hall Orchestra</p><p>Ort: Queens Hall</p>
+                    <p>Programmflyer unter
+                    <ref target="https://archive.schoenberg.at/resources/pages/view.php?search=basicyear%3A1914&amp;k=&amp;modal=&amp;display=thumbs&amp;order_by=relevance&amp;offset=0&amp;per_page=48&amp;archive=0&amp;sort=DESC&amp;restypes=7&amp;recentdaylimit=&amp;foredit=&amp;noreload=true&amp;access=&amp;ref=5539">Arnold Schönberg Center Bilddatenbank 5539</ref></p></note></seg>,
                     wäre ich fast gefahren, Aber ich würde zu viel versäumen. Wars sehr schön? -</p>
                 <closer>D. gnäd <persName ref="https://d-nb.info/gnd/119318628">Frau</persName>
                     viele herzl. Grüße. Hier wird immer massiert. Was macht das Gesicht? Grüße an
                     alle Andern. <signed><persName ref="https://d-nb.info/gnd/134611306">M
                             Pappenheim</persName></signed></closer>
                 <postscript>
-                    <p>Das ist am 15.geschrieben<!-- korr zu geschr: --> seit dann<!-- dem? --> hab ich schon die<!-- korr zu d. --> 2. Szene begonnen.</p>
+                    <p>Das ist am 15. geschr: seit dem hab ich schon d. 2. Szene begonnen.</p>
                 </postscript>
             </div>
         </body>
