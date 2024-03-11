@@ -8,7 +8,7 @@
                 <editor>Adrian Schmidt</editor>
             </titleStmt>
             <publicationStmt>
-                <p>Publication Information</p>
+                <p>Klavierstuecke unveraendert Stop. Schoenberg-Briefe edieren, Seminar Universität für Musik und darstellende Kunst Wien, WS 23</p>
             </publicationStmt>
             <sourceDesc>
                 <p>Information about the source</p>
@@ -18,72 +18,112 @@
             <correspDesc>
                 <correspAction type="sent">
                     <persName>Linke, Karl</persName>
-                    <placeName>Wien</placeName>
-                    <!-- kann man nicht mit Sicherheit sagen, also weglassen -->
                 </correspAction>
                 <correspAction type="received">
-                    <persName>Schönberg, Arnold</persName>
-                    <placeName>Wien</placeName>
-                    <!-- kann man nicht mit Sicherheit sagen, eher Berlin oder Postdam (das erwähnt Linke im Brief)-->
+                    <persName ref="https://d-nb.info/gnd/118610023">Schönberg,
+                        Arnold</persName>
                 </correspAction>
+                <note>Themenkommentar zu Karl Linkes Artikel "Arnold Schönberg als Lehrer":
+                    Karl Linke zeichnet in seinem Artikel ein facettenreiches Porträt der
+                    pädagogischen Praktiken Arnold Schönbergs, eines bedeutenden Vertreters der
+                    musikalischen Avantgarde des 20. Jahrhunderts. Linke beleuchtet dabei
+                    insbesondere Schönbergs innovative Lehrmethoden, die sich durch eine klare
+                    Ausrichtung auf die Förderung der Selbstständigkeit und kreativen Entfaltung der
+                    Schüler auszeichnen.
+                    Ein zentrales Element dieser Lehrphilosophie ist die Betonung des
+                    Schaffensprozesses. Schönberg ermutigt die Schüler von Anfang an, eigenständig
+                    zu komponieren, wodurch nicht nur die natürliche Entwicklung, sondern auch die
+                    künstlerische Ausdruckskraft jedes Einzelnen gefördert wird. Linke betont die
+                    feinfühlige Beobachtungsgabe Schönbergs, der die individuellen Höhen und Tiefen
+                    im Schaffensprozess seiner Schüler erkennt und diese gezielt nutzt.
+                    Ein weiterer interessanter Aspekt ist die Strategie, während produktiver
+                    Stillstände die Schüler in Phasen erhöhter Empfängnisfähigkeit für externe
+                    Kunstwerke einzuführen. Dies verdeutlicht Schönbergs Streben nach einem
+                    ausgewogenen Lehransatz, der nicht nur das kreative Schaffen der Schüler
+                    fördert, sondern auch ihre Fähigkeit zur Wahrnehmung und Analyse erweitert.
+                    Linke hebt ebenfalls die anspruchsvolle, jedoch lehrreiche Atmosphäre in
+                    Schönbergs Unterricht hervor, in der die Schüler lernen, ihre Natur zu
+                    akzeptieren und kritisch mit ihren eigenen Werken umzugehen. Dieser Ansatz
+                    entspricht der modernen Arbeitspädagogik, die darauf abzielt, den
+                    Kenntnisunterricht in Erkenntnisunterricht umzuwandeln.
+                    Insgesamt gelingt es Linke, Schönbergs Lehrmethoden als wegweisend und
+                    zukunftsweisend zu würdigen, indem er die nachhaltigen Eindrücke betont, die
+                    diese auf die Schüler hinterlassen haben. Der Artikel liefert einen
+                    wissenschaftlich fundierten Einblick in die innovative Pädagogik eines
+                    herausragenden Musiktheoretikers und Komponisten.
+                    In jenem Artikel erkennt man ebenfalls, wie vielschichtig sich Karl Linke
+                    bereits mit Pädagogik und Lehrmethoden auseinandergesetzt hatte, was seine
+                    Tätigkeit als Autor und Referent abrundet.
+                </note>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
             <div type="letter">
-                <pb n="#1"/>
+                <pb n="#1" />
                 <opener>
-                    <salute>Sehr lieber Herr Schönberg,</salute>
+                    <salute>Sehr lieber Herr <persName ref="https://d-nb.info/gnd/118610023">
+                        Schönberg</persName>,</salute>
                 </opener>
-                <p>eben habe ich Ihr liebe <lb/>Karte aus Potsdam erhalten und <lb/>danke Ihnen
-                    dafür. Ich habe <lb/> während der Osterfeiertage einiges <lb/> gearbeitet – die
-                    beiden Tage aus-<lb/>genommen, an denen wir unsere <lb/>verunglückte Fußreise
-                    absolvierten; <lb/> aus Gründen der Billigkeit und <lb/>Gesundheit haben wir
-                    die entlegen-<lb/>sten Gebirgsdörfer aufgesucht, <lb/>aber schon am zweiten
-                    Tage kamen <lb/>wir im Schnee nicht mehr weiter, <lb/>mußten uns zur Bahn fahren
-                    <lb/>lassen und mit dem nächsten Zug <lb/>ging es bei herrlichstem Wetter
-                    <lb/>nach Wien. Es war scheußlich. <lb/>Dann hatte ich aber einige gute
-                    <lb/>Tage, wo mir viel einfiel. Vor <lb/>allem habe ich meine größte 
-                <pb n="#2"/>
-               Sorge los: Meine Sonate ist voll- <lb/>endet. Ich bin etwas besorgt <lb/>
-                    darüber, ob Sie meine Sendung <lb/>(die ersten 2 Sätze der Sonate) <lb/>
-                    erhalten haben, da Sie auch auf <lb/>der Karte nichts davon erwähnten. <lb/>
-                    Sollte sie <hi rendition="#u">nicht</hi> angekommen <lb/>sein, dann bitte ich Sie, mich gleich <lb/> zu
-                    verständigen, da ich dann <lb/>reklamieren muss.</p>
-                <p>Ist sie aber angekommen, dann <lb/>bin ich sehr neugierig, wie sie Ihnen
-                    <lb/>gefallen hat.</p>
-                <p>Ich fange jetzt an, an einem <lb/>größeren Aufsatz über den Unterricht <lb/>in
-                    Geschichte zu arbeiten. Nur brauche <lb/>ich noch einige schlechte Lehrbücher,
-                    <lb/> die mich vollends aufreizen müssen <lb/>zu dieser Arbeit. Das Positive
-                    steht <lb/> in mir <del rendition="#s">alles</del> fertig; denn es ist</p>
-                <pb n="#3"/>
-                <p>Das Ursprüngliche in mir gewesen. <lb/>Ich machte es schon so, als ich noch
-                    <lb/> nicht wußte, daß es gut war; <lb/>ja ich habe anfangs geglaubt, daß <lb/>
-                    es sogar schlecht ist (es war aber <lb/>nur anders, als die Schulmänner
-                    wollten) <lb/> Heute weiß ich aber, daß ich damals <lb/>recht hatte, wenngleich
-                    ich unbeholfen <lb/> und zaghaft war; ich hatte formale <lb/>Bedenken (keine
-                    Wiederholung des <lb/> Vorgetragenen; keine Zahlen, kein <lb/>systematisches
-                    Wissen!) und glaubte <lb/> den Schülern zu wenig zu geben. <lb/>(äußerlich zu
-                    wenig!) Erst als ich <lb/> einen Satz las, den mein würdiger <lb/>Vorgesetzter
-                    den Kindern in meiner <lb/> Abwesenheit diktierte (diktierte <lb/>in
-                    Geschichte!!), wusste ich, wie schlecht <lb/>von Grund auf dieser Unterricht in
-                    <lb/> Geschichte ist. Nun ich erst den <lb/>Unterschied spüre zwischen
-                    meinem
-                <pb n="#4"/>
-                Gefühl für die Sache und den abscheu- <lb/>lichen Phrasen aller Lehrbücher,
-                    <lb/> muß ich darangehen, das ausführlich <lb/>(negativ und viel positiv) aus-
-                    <lb/> zuarbeiten.</p>
-                <p>Vincenz Suchomel ist Regierungs- <lb/>rat geworden und pensioniert. <lb/> Wird
-                    sich in seine Heimat (Mähren) <lb/>zurückziehen und fischen (seine <lb/>
+                <p>eben habe ich Ihr liebe <lb />Karte aus <placeName
+                        ref="https://d-nb.info/gnd/4046949-9">Potsdam</placeName> erhalten und <lb />danke
+                    Ihnen dafür. Ich habe <lb />während der Osterfeiertage einiges <lb />gearbeitet
+                    – die beiden Tage aus-<lb />genommen, an denen wir unsere <lb />verunglückte
+                    Fußreise absolvierten; <lb />aus Gründen der Billigkeit und <lb />Gesundheit
+                    haben wir die entlegen-<lb />sten Gebirgsdörfer aufgesucht, <lb />aber schon am
+                    zweiten Tage kamen <lb />wir im Schnee nicht mehr weiter, <lb />mußten uns zur
+                    Bahn fahren <lb />lassen und mit dem nächsten Zug <lb />ging es bei herrlichstem
+                    Wetter <lb />nach <placeName ref="https://d-nb.info/gnd/4066009-6">Wien</placeName>.
+                    Es war scheußlich. <lb />Dann hatte ich aber einige gute <lb />Tage, wo mir viel
+                    einfiel. Vor <lb />allem habe ich meine größte <pb n="#2" /> Sorge los: Meine
+                    Sonate ist voll- <lb />endet. Ich bin etwas besorgt <lb /> darüber, ob Sie meine
+                    Sendung <lb />(die ersten 2 Sätze der Sonate) <lb /> erhalten haben, da Sie auch
+                    auf <lb /> der Karte nichts davon erwähnten. <lb /> Sollte sie <hi rendition="#u">nicht</hi> angekommen <lb />
+                    sein, dann bitte ich Sie, mich gleich <lb /> zu verständigen, da ich dann <lb />
+                    reklamieren muss.</p>
+                <p>Ist sie aber angekommen, dann <lb />bin ich sehr neugierig, wie sie Ihnen <lb />gefallen
+                    hat.</p>
+                <p>Ich fange jetzt an, an einem <lb />größeren Aufsatz<seg type="comment">
+                        <orig>Aufsatz</orig>
+                        <note>Karl Linke, Der erzählende Geschichtsunterricht. Hamburg 1914.<ref
+                                target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=5384&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19">Exemplar aus dem Nachlass</ref></note>
+                    </seg>
+                    über den Unterricht <lb />in Geschichte zu arbeiten. Nur brauche <lb />ich noch
+                    einige schlechte Lehrbücher, <lb /> die mich vollends aufreizen müssen <lb /> zu
+                    dieser Arbeit. Das Positive steht <lb /> in mir <del rendition="#s">alles</del> fertig; denn es ist <pb
+                        n="#3" />das Ursprüngliche in mir gewesen. <lb /> Ich machte es schon so,
+                    als ich noch <lb /> nicht wußte, daß es gut war; <lb /> ja ich habe anfangs
+                    geglaubt, daß <lb /> es sogar schlecht ist (es war aber <lb /> nur anders, als
+                    die Schulmänner wollten) <lb /> Heute weiß ich aber, daß ich damals <lb /> recht
+                    hatte, wenngleich ich unbeholfen <lb /> und zaghaft war; ich hatte formale <lb />
+                    Bedenken (keine Wiederholung des <lb /> Vorgetragenen; keine Zahlen, kein <lb />
+                    systematisches Wissen!) und glaubte <lb /> den Schülern zu wenig zu geben. <lb />
+                    (äußerlich zu wenig!) Erst als ich <lb /> einen Satz las, den mein würdiger <lb />
+                    Vorgesetzter den Kindern in meiner <lb /> Abwesenheit diktierte (diktierte <lb />
+                    in Geschichte!!), wusste ich, wie schlecht <lb /> von Grund auf dieser
+                    Unterricht in <lb /> Geschichte ist. Nun ich erst den <lb /> Unterschied spüre
+                    zwischen meinem <pb n="#4" /> Gefühl für die Sache und den abscheu- <lb />
+                    lichen Phrasen aller Lehrbücher, <lb /> muß ich darangehen, das ausführlich <lb />
+                    (negativ und viel positiv) aus- <lb /> zuarbeiten.</p>
+                <p><persName ref="https://d-nb.info/gnd/1038204828">Vincenz Suchomel</persName> ist
+                    Regierungs- <lb /> rat geworden und pensioniert. <lb /> Wird sich in seine
+                    Heimat (Mähren) <lb /> zurückziehen und fischen (seine <lb />
                     Lieblingsbeschäftigung).</p>
-                <p>Ihr Wiener Konzert ist überall <lb/>angekündigt (auch in allen Zeitungen, <lb/>
-                    Plakatsäulen); ich habe auch für <lb/>Thom und Frau und andere Bekannte <lb/>
-                    Karten besorgen müssen; ich freue <lb/>mich sehr darauf; wir alle.</p>
-                <closer rendition="#r">
-                    <salute>Es grüßt Sie herzlichst <lb/>Ihr ganz ergebener </salute> <lb/>
-                    <signed>Karl Linke</signed>
-                </closer><postscript><p>Bitte (wenn möglich) Nachricht über <lb/>meine Sonate!</p></postscript>
+                <p>Ihr Wiener Konzert ist überall <lb /> angekündigt (auch in allen Zeitungen, <lb />
+                    Plakatsäulen); ich habe auch für <lb /> <persName
+                        ref="https://d-nb.info/gnd/117343722">Thom</persName> und Frau und andere
+                    Bekannte <lb /> Karten besorgen müssen; ich freue <lb /> mich sehr darauf; wir
+                    alle.</p>
+                <closer rendition="r">
+                    <salute>Es grüßt Sie herzlichst <lb />Ihr ganz ergebener </salute>
+                    <signed>
+                        <persName ref="https://d-nb.info/gnd/132076357">Karl Linke</persName>
+                    </signed>
+                </closer>
+                <postscript>
+                    <p>Bitte (wenn möglich) Nachricht über <lb/>meine Sonate!</p>
+                </postscript>
             </div>
         </body>
     </text>
