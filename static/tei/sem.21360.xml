@@ -9,7 +9,7 @@
                 <editor>Soleil Fröhlich</editor>
             </titleStmt>
             <publicationStmt>
-                <p>Publication Information</p>
+                <p>Klavierstuecke unveraendert Stop. Schoenberg-Briefe edieren, Seminar Universität für Musik und darstellende Kunst Wien, WS 23</p>
             </publicationStmt>
             <sourceDesc>
                 <p>Information about the source</p>
@@ -25,16 +25,40 @@
                 <correspAction type="received">
                     <persName>Arnold Schönberg</persName>
                     <placeName>???</placeName>
-                </correspAction><!-- Themenkommentar ca. 250 Wörter über Linkes Aufsatz innerhalb eines <note></note> -->
+                </correspAction><note>
+                    <p>In dem Aufsatz „Gedanken zu Schönberg“ betont Karl Linke vor allen
+                        das Ineinandergreifen der Kunstformen im Werk Schönbergs, so spricht er z.B. von
+                        der „Dichtung als ideelle Raumkunst“; dass Schönbergs künstlerische Entwicklung
+                        zuerst eine musikalische war und dann erst eine bildnerische und dichterische,
+                        führt er eher auf den Zufall zurück. Allerdings sei Schönbergs künstlerische
+                        Entwicklung eine lineare gewesen: so konnte er in der Malerei dort einsetzen,
+                        wohin er in der Musik bereits angelangt war.</p>
+                    <p>Als übergreifende Idee präsentiert Linke die Darstellung der
+                        „inneren“ Handlungen – sowohl im Kontext des Dramas „Die glückliche Hand“ als
+                        auch in Bezug auf die Kompositionen und Malereien. Es werde nicht das
+                        dargestellt, war im „äußeren Leben“ stattfinde, sondern was „sie ihrer inneren
+                        Veranlagung nach tun und reden müßten“.</p>
+                    <p>Linke verteidigt die Tonsprache Schönbergs gegen den Vorwurf des
+                        Konstruierten – die Rezipierenden müssten ihre Wahrnehmung weiterentwickeln,
+                        bevor sie Schönbergs Musik nachvollziehen und fühlen könnten. Für die Rezeption
+                        von Schönbergs Kunst sieht Linke es als essentiell an, dass die „Aufnahmsorgane“
+                        ihre Gewohnheiten aufgeben: „der Verstand soll schweigen und warten, nur der
+                        innere Mensch soll offen sein und hingegeben.“</p>
+                    <p>Der Aufsatz ist von Bewunderung für Schönberg getragen - „Ich müsste
+                        mehr haben als die Gegenwart, um ihn umfassen zu können“</p><p>Karl Linke, Gedanken zu Schönberg, in: Der Merker 2/27 (Juni 1911), S. 710-714</p>
+                </note>
             </correspDesc>
         </profileDesc>
     </teiHeader>
+    <facsimile>
+        <graphic url="https://archive.schoenberg.at/manifest/letters/21360_hl.json" mimeType="application/ld+json" type="IIIF-Manifest" xml:id="manifest.21360_hl"/>
+    </facsimile>
     <text>
         <body>
             <div type="letter">
                 <pb n="1" />
                 <opener>
-                    <dateline><placeName>Lunz</placeName>, <date when="1910-07-09">19. Jul. <hi
+                    <dateline rendition="#r"><placeName>Lunz</placeName>, <date when="1910-07-09">19. Jul. <hi
                                 rendition="#o">10. </hi></date></dateline>
                     <salute>Geehrter Herr <persName ref="https://d-nb.info/gnd/118610023">Schönberg</persName>
                         !</salute>
@@ -44,36 +68,39 @@
                         <note>
                             <p>"Gedanken zu Schönberg" von Karl Linke, erschienen im Juni 1911 im
                     Journal "Der Merker"</p>
-                            <p>
-                                <ref target="https://archive.schoenberg.at/library/bilddaten/Linke1911.pdf"><!-- entsprechend der Harmonielehre im anderen Brief müsste der link zur übergeordneten Seite gehen https://archive.schoenberg.at/library/eintrag.php?id_eintrag=1821&amp;action=view&amp;sortieren=veroeffentlichungsDatum&amp;vonBis=0-19 -->Exemplar aus dem Nachlass<!-- erg kb --></ref>
+                            <p>Exemplar aus dem Nachlass:
+                                <ref
+                                    target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=1821&amp;action=view&amp;sortieren=veroeffentlichungsDatum&amp;vonBis=0-19">Linke 1911
+                     </ref>
                             </p>
                         </note>
                     </seg>
                     über <lb />Sie angefangen. Ich bin so froh <lb />daß er mir gleich auf den
                     ersten Griff <lb />so gelingt. Ich glaube, so warm und <lb />begeistert habe ich
                     schon lange nichts <lb />geschrieben. Vieles wird mir während <lb />des
-                    Schreibens noch weit klarer und <lb />bedeutender. Ich weiß <del rendition="#s">g</del>
-                    heute, daß <lb />nur so zu malen und zu musizieren <lb />ist, wie Sie es tun.
-                    Natürlich jeder <lb />in seinem Menschen. Aber es war <lb />bis jetzt nichts
-                    ähnliches da, weil <lb />keiner den Mut hatte, es zu wagen <lb />und
+                    Schreibens noch weit klarer und <lb />bedeutender. Ich weiß <del rendition="#s">
+                    g</del> heute, daß <lb />nur so zu malen und zu musizieren <lb />ist, wie Sie es
+                    tun. Natürlich jeder <lb />in seinem Menschen. Aber es war <lb />bis jetzt
+                    nichts ähnliches da, weil <lb />keiner den Mut hatte, es zu wagen <lb />und
                     wahrscheinlich auch keiner die <lb />Kraft. Sonst hätte er es doch wohl <lb />tun
-                    müssen. Ich habe heute immer <lb />an Sie gedacht, als ich vom <seg type="comment">
+                    müssen. Ich habe heute immer <lb />an Sie gedacht, als ich vom <seg
+                        type="comment">
                         <orig>Lunzberg</orig>
                         <note>
                             <p>Der Lunzberg ist ein zum Wandern beliebter Berg in der Gemeinde Lunz
                     am See in Niederösterreich A - 3293</p>
                         </note>
-                    </seg>
-                    Lunzberg<!-- Lunzberg 1x zuviel --> <lb />zum erstenmal die Pracht und Wucht <lb /> des <placeName ref= "https://d-nb.info/gnd/4043331-6">
-                    Ötschers</placeName> bewundern mußte. Sie <lb />werden lachen, aber ich bin so
-                    kindisch. <pb n="2" /> Es wird über Malerei<!-- Kommentar mit schon bekannter codierung--> wohl ebenso=<lb />viel gesprochen
-                    werden wie über <lb />Musik<!-- Kommentar -->. Auch über Dichtung<!-- Kommentar -->. Ich <lb />glaube, das ist alles
-                    Eines und hat <lb />Zusammenhänge, tief wie das Erz <lb />der Berge. Die Künste
-                    sind ein=<lb />ander so notwendig wie die Spektral=<lb />farben dem Sonnenlicht.
-                    Fehlt eine, <lb />dann ist’s nicht weiß und hell. Denn <lb />alles Wollen ist
-                    weiß und hell, auch <lb />wenn es dunkel ist, auch wenn <lb />Schleier drüber
-                    liegen.
-                </p>
+                    </seg> <lb />zum
+                    erstenmal die Pracht und Wucht <lb /> des <placeName
+                        ref="https://d-nb.info/gnd/4043331-6">
+                        Ötschers</placeName> bewundern mußte. Sie <lb />werden lachen, aber ich bin
+                    so kindisch. <pb n="2" /> Es wird über Malerei wohl ebenso=<lb />viel gesprochen
+                    werden wie über <lb />Musik. Auch über Dichtung. Ich <lb />glaube, das ist alles Eines 
+                     und hat <lb />Zusammenhänge, tief wie das
+                    Erz <lb />der Berge. Die Künste sind ein=<lb />ander so notwendig wie die
+                    Spektral=<lb />farben dem Sonnenlicht. Fehlt eine, <lb />dann ist’s nicht weiß
+                    und hell. Denn <lb />alles Wollen ist weiß und hell, auch <lb />wenn es dunkel
+                    ist, auch wenn <lb />Schleier drüber liegen. </p>
                 <p>Ich bin so froh, daß ich so oft <lb />bei Ihnen sein durfte. Ich glaubte <lb />immer,
                     es gäbe nichts Größeres, <del rendition="#s">als</del> das <lb />
                         <gap
@@ -91,13 +118,15 @@
                 <p>Heute ist mir vieles klar und ich <lb />weiß wie ich zu schreiben habe. Wenn <lb />ich
                     den Aufsatz so fertig bringe, wie <lb />ich ihn dunkel in mir habe, dann <lb />werde
                     ich Ihnen das Manuskript <lb />senden.</p>
-                <closer>
+                <closer rendition="#r">
                     <salute>Einstweilen verbleibe<lb />ich Ihr ganz ergebener<lb /></salute>
                     <signed>
                         <persName ref="https://d-nb.info/gnd/14209062X">Karl Linke</persName>
                     </signed>
-                    <address>
-                        <addrLine><placeName ref="https://d-nb.info/gnd/4192359-5">in Lunz, N.Ö.</placeName></addrLine>
+                    <address rendition="#r">
+                        <addrLine>
+                            <placeName ref="https://d-nb.info/gnd/4192359-5">in Lunz, N.Ö.</placeName>
+                        </addrLine>
                         <addrLine>Gasthof Grubmayr.</addrLine>
                     </address>
                 </closer>

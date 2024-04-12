@@ -9,7 +9,8 @@
             <editor>Soleil Fröhlich</editor>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>Klavierstuecke unveraendert Stop. Schoenberg-Briefe edieren, Seminar Universität für
+               Musik und darstellende Kunst Wien, WS 23</p>
          </publicationStmt>
          <sourceDesc>
             <p>Information about the source</p>
@@ -20,128 +21,163 @@
             <correspAction type="sent">
                <persName>Linke, Karl</persName>
                <placeName>Wien</placeName>
-               <date when="1911-12-24" />
+               <date when="1911-12-24"/>
             </correspAction>
             <correspAction type="received">
                <persName>Arnold Schönberg</persName>
                <placeName>???</placeName>
-            </correspAction><!-- Themenkommentar ca. 250 Wörter über Schönbergs Aufsatz innerhalb eines <note></note> -->
+            </correspAction>
+            <note>
+               <p>Im Aufsatz „Franz Liszts Werk und Wesen“ sieht Schönberg die Größe Liszts im
+                  Glauben (er meint hier nicht nur den religiösen Glauben, sondern auch die
+                  Fähigkeit zu glauben: an „den Fortschritt, an die Kultur, an die Schönheit, an die
+                  Sitte, an die Menschheit“). Er unterscheidet zwischen Überzeugungen und Glauben,
+                  wobei er den Glauben als der Überzeugung überlegen ansieht. Für das Erschaffen von
+                  Kunstwerken sieht Schönberg Glauben und Intuition verantwortlich.</p>
+               <p>Im Folgenden beschreibt er zwei „Irrtümer“ Liszts, die sich besonders auf die
+                  Symphonischen Dichtungen Liszts beziehen.</p>
+               <p>Der erste Irrtum bestehe in einem „Übersetzungsfehler“, der zwar auf der
+                  „richtigen Erkenntnis“ beruhe, „daß der Musiker zwar eine
+                  musikalisch-ausdrückende, aber […] poetisch-fühlende Persönlichkeit sei.“ Jedoch
+                  hätte er beim Übertragen dieser Erkenntnis in sein Komponieren durch Einmischung
+                  des bewussten Verstandes einen Fehler gemacht: anstatt seine eigenen
+                  Anschauungsform auszudrücken hätte er die Dichtung aus zweiter Hand ausgedrückt
+                  und damit den „Dichter in sich“ zum Schweigen gebracht.</p>
+               <p>Den zweiten Irrtum sieht Schönberg in der daraus resultierenden neuen
+                  musikalischen Form; auch diese sieht er einer ursprünglich guten Idee entsprungen:
+                  Die Schaffung neuer Formen aus einem gehobenen Ausdrucksbedürfnis heraus sei eine
+                  tiefe Erkenntnis, jedoch hätte sich Liszt auch hierbei zu sehr von seinem
+                  bewussten Verstand beeinflussen lassen, welcher die Intuition behindere und das
+                  künstlerische Ergebnis einschränke. Das Resultat sei „eine
+                  mathematisch-mechanische Weiterentwicklung der alten Formbestandteile.“ Nur die
+                  Intuition könne „Inhalt und Form als Einheit“ hervorbringen. Die üblichen (alten)
+                  Formen seien den Komponisten Gerüst und Stütze gewesen, wohingegen er Liszts neue
+                  Formen als einengenden Formalismus bezeichnet.</p>
+               <p>Trotzdem zeigt er Anerkennung gegenüber Liszts musikalischen Innovationen. Er
+                  räumt auch die Möglichkeit ein, dass die von Liszt geschaffene Form zu einer
+                  späteren Zeit wieder als geniale Erkenntnis angesehen werden würde. Die Bedeutung
+                  Liszts für die Nachwelt sieht Schönberg vor allem darin, dass durch Liszt die
+                  Persönlichkeit des Künstlers stärker in den Mittelpunkt gerückt wurde und dass das
+                  Verhältnis zwischen Form und Inhalt neu definiert werden konnte.</p><p>Arnold
+                  Schönberg, Franz Liszts Werk und Wesen, in: Allgemeine Musik-Zeitung 38/42
+                  (Oktober 1911), S. 1008-1010</p>
+            </note>
          </correspDesc>
       </profileDesc>
    </teiHeader>
+   <facsimile>
+      <graphic url="https://archive.schoenberg.at/manifest/letters/13844_hl.json" mimeType="application/ld+json" type="IIIF-Manifest" xml:id="manifest.13844_hl"/>
+   </facsimile>
    <text>
       <body>
          <div type="letter">
-            <pb n="1" />
+            <pb n="1"/>
             <opener>
-               <dateline>
+               <dateline rendition="#r">
                   <placeName ref="https://d-nb.info/gnd/4066012-6">Wien</placeName>, <date
                      when="1911-12-24">24. 12. 1911.</date>
                </dateline>
-               <salute>Sehr lieber Herr <persName ref="https://d-nb.info/gnd/118610023">Schönberg</persName>
-                  , </salute>
+               <salute>Sehr lieber Herr <persName ref="https://d-nb.info/gnd/118610023"
+                     >Schönberg</persName> , </salute>
             </opener>
             <p>ich habe Ihre <seg type="comment">
                   <orig>
                      <bibl sameAs="https://d-nb.info/gnd/7648084-7">Harmonielehre</bibl>
                   </orig>
                   <note>
-                     <p>
-                         <ref
-                           target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=6208&amp;action=view&amp;sortieren=veroeffentlichungsDatum&amp;vonBis=0-19">Digitalisat
-               der 3. Auflage 1922</ref> 
+                     <p> Arnold Schönberg, Harmonielehre, Wien-Leipzig 1911. <ref
+                           target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=6208&amp;action=view&amp;sortieren=veroeffentlichungsDatum&amp;vonBis=0-19"
+                           >Digitalisat der 3. Auflage 1922</ref>
                      </p>
                   </note>
-               </seg>
-               eben <lb />erhalten und schon wieder viel gelesen darin. Trotzdem ich doch <lb />fast
-               alles kenne, wirkt es wieder neu, frisch, unmittelbar und so <lb />lustig. Wie viele
-               werden erkennen, wie unheimlich stark dieses <lb />Buch ist? Ich werde es
-               wahrscheinlich besprechen (Budapests Presse). <lb />Sie haben doch nichts dagegen?</p>
+               </seg> eben <lb/>erhalten und schon wieder viel gelesen darin. Trotzdem ich doch
+               <lb/>fast alles kenne, wirkt es wieder neu, frisch, unmittelbar und so <lb/>lustig.
+               Wie viele werden erkennen, wie unheimlich stark dieses <lb/>Buch ist? Ich werde es
+               wahrscheinlich besprechen (Budapests Presse). <lb/>Sie haben doch nichts dagegen?</p>
             <p>Ich habe aber auch Ihren <seg type="comment">
-                  <orig>Aufsatz über <persName ref="https://d-nb.info/gnd/118573527">Liszt</persName></orig>
+                  <orig>Aufsatz über <persName ref="https://d-nb.info/gnd/118573527"
+                        >Liszt</persName></orig>
                   <note>
                      <p>
-                        <ref target="https://repo.schoenberg.at/urn:nbn:at:at-asc-T000159">"Franz
-               Liszts Werk und Wesen", Aufsatz von Arnold Schönberg, erschienen 1911 in "Allgemeine
-               Musikzeitung"</ref>
+                        <ref
+                           target="https://archive.schoenberg.at/writings/transcription.php?&amp;amp;action=view&amp;id_transcription=15"
+                           >"Franz Liszts Werk und Wesen", Aufsatz von Arnold Schönberg, erschienen
+                           1911 in "Allgemeine Musikzeitung"</ref>
                      </p>
                   </note>
-               </seg>
-               gelesen, der <lb />mir als das tiefste erscheint, was über Liszt je gesagt worden
-               ist. <lb />Wie Sie da vorrücken und den „Übersetzungsfehler“ entdecken<!-- Kommentar mit schon bekannter codierung-->, <lb />das ist
-               zum Verrücktwerden fein. Dabei ist das so ein klarer, <lb />ernster Stil und so
-               wunderbar geschlossen! Ich habe immer das <lb />Gefühl gehabt, als hätten Sie bei
-               diesem Aufsatz gar keine <lb />Sprache mehr gebraucht, weil Sie die Gedanken schon
-               ganz <lb />entblößt und nackt hinlegen konnten. Es kommen keine <lb />Bekleidungsszenen
-               mehr vor (Gedanken in Worte „kleiden“). <lb />Die Gedanken stehen <del rendition="#s">
-               ganz</del> allein dort zum Unterschied <add
-                  place="intralinear">
-                  von </add>den anderen <lb />„Kapazitäten“, wo die Worte allein stehen. In dem Heft
-               ist auch <lb />ein Ausspruch <persName ref="https://d-nb.info/gnd/11863027X"><!-- hier ist ein schließendes persName zuviel -->
-               Weingartners</persName>, wieweit die Musik „gehen darf“. <lb />Ich werde
-               mir das merken, denn er wird in Wien <seg type="comment">
-                  <orig>„Die Gefilde <lb />der Seligen“</orig>
+               </seg> gelesen, der <lb/>mir als das tiefste erscheint, was über Liszt je gesagt
+               worden ist. <lb/>Wie Sie da vorrücken und den <seg type="comment">
+                  <orig>„Übersetzungsfehler“</orig>
                   <note>
-                     <p>"Das Gefilde der Seligen" op. 21 <!-- es gibt hierzu auch einen gnd link https://d-nb.info/gnd/300829019 -->ist eine Symphonische Dichtung von Felix von
-               Weingartner, veröffentlicht 1897,<!-- Punkt --> </p>
+                     <p>Vgl. Arnold Schönberg, Franz Liszts Werk und Wesen, in: Allgemeine
+                        Musik-Zeitung 38/42 (Oktober 1911), S. 1008</p>
                   </note>
-               </seg>
-               aufführen<!-- können Sie herausfinden, wann, wo die Aufführung war und ev. das ganze Programm? "Bonusaufgabe"--> und da werde ich seine Worte brauchen. <lb />Es ist einfach niederträchtig,
-               aber der eine Ausspruch entlarvt <lb />ihn. Aus seinem Unvermögen ein Gesetz für
-               andre ableiten <del
-                  rendition="#s">zu </del><lb /><del rendition="#s">wollen</del>, aus seinem
-               persönlichen Unwohlsein eine Weltkrankheit <lb /> konstruieren <add
-                  place="superlinear">zu </add>wollen, na, ich bin auch Referent. Nach solchen <lb />Bissen
-               schnappe ich auch. </p>
+               </seg> entdecken, <lb/>das ist zum Verrücktwerden fein. Dabei ist das so ein klarer,
+               <lb/>ernster Stil und so wunderbar geschlossen! Ich habe immer das <lb/>Gefühl
+               gehabt, als hätten Sie bei diesem Aufsatz gar keine <lb/>Sprache mehr gebraucht, weil
+               Sie die Gedanken schon ganz <lb/>entblößt und nackt hinlegen konnten. Es kommen keine
+               <lb/>Bekleidungsszenen mehr vor (Gedanken in Worte „kleiden“). <lb/>Die Gedanken
+               stehen <del rendition="#s"> ganz</del> allein dort zum Unterschied <add
+                  place="intralinear"> von </add>den anderen <lb/>„Kapazitäten“, wo die Worte allein
+               stehen. In dem Heft ist auch <lb/>ein Ausspruch <persName
+                  ref="https://d-nb.info/gnd/11863027X"> Weingartners</persName>, wieweit die Musik
+               „gehen darf“. <lb/>Ich werde mir das merken, denn er wird in Wien <bibl
+                  sameAs="https://d-nb.info/gnd/300829019">"Die Gefilde <lb/>der Seligen"</bibl>
+               aufführen und da werde ich seine Worte brauchen. <lb/>Es ist einfach niederträchtig,
+               aber der eine Ausspruch entlarvt <lb/>ihn. Aus seinem Unvermögen ein Gesetz für andre
+               ableiten <del rendition="#s">zu </del><lb/><del rendition="#s">wollen</del>, aus
+               seinem persönlichen Unwohlsein eine Weltkrankheit <lb/> konstruieren <add
+                  place="superlinear">zu </add>wollen, na, ich bin auch Referent. Nach solchen
+               <lb/>Bissen schnappe ich auch. </p>
             <p>Ich bin eben mit einem großen Referat über den „<bibl
-                  sameAs="https://d-nb.info/gnd/300746393">Gaukler <lb />unserer lieben Frau</bibl>“
+                  sameAs="https://d-nb.info/gnd/300746393">Gaukler <lb/>unserer lieben Frau</bibl>“
                v. <persName ref="https://d-nb.info/gnd/118578723">Massenet</persName> fertig
-               (Opernpremiere)<!-- Kommentar mit Ausfführungsdaten und ev Besetzung "Bonusaufgabe"--> und habe <lb />es bereits weggeschickt. Heute früh lese ich die
-               Zeitungen, <lb />um meine Unwissenheit zu erfahren, da sah ich, wie seicht <lb />alle
-               diese Referate waren. Meines war natürlich schon fertig <lb />und gegen diese fremden
-               gehalten, kam es mir fast wie eine <lb />Tiefseeforschung vor. Und da die <persName
+               (Opernpremiere) und habe <lb/>es bereits weggeschickt. Heute früh lese ich die
+               Zeitungen, <lb/>um meine Unwissenheit zu erfahren, da sah ich, wie seicht <lb/>alle
+               diese Referate waren. Meines war natürlich schon fertig <lb/>und gegen diese fremden
+               gehalten, kam es mir fast wie eine <lb/>Tiefseeforschung vor. Und da die <persName
                   ref="https://d-nb.info/gnd/133345637">Bienenfeld</persName> und der <persName
-                     ref="https://d-nb.info/gnd/119060094">Korngold</persName> <pb n="2" />und alle so
-               seicht waren wie Massenets<!-- gnd link --> Musik, also<handShift scribe="kurrent" /> einander eben=<lb />bürtig,
-               mußte ich mir <del rendition="#s">
-                  doch</del>sagen, daß sie alle nichts verstehen <lb />und nur reden. Aber nichts,
-               gar nichts enthält so ein Referat! Es <lb />ist das erstemal, daß ich das
-               kontrollieren kann, da ich das Werk <lb />sehr <unclear>genau</unclear> kenne. Eine
-               solche Oberflächlichkeit hätte ich doch nicht <lb />für möglich gehalten.
-               Lexikonwissen, das ist das Einzige, das <lb />die <persName
+                  ref="https://d-nb.info/gnd/119060094">Korngold</persName>
+               <pb n="2"/>und alle so seicht waren wie <persName
+                  ref="https://d-nb.info/gnd/118578723">Massenets</persName> Musik, also<handShift
+                  scribe="kurrent"/> einander eben=<lb/>bürtig, mußte ich mir <del rendition="#s">
+                  doch</del>sagen, daß sie alle nichts verstehen <lb/>und nur reden. Aber nichts,
+               gar nichts enthält so ein Referat! Es <lb/>ist das erstemal, daß ich das
+               kontrollieren kann, da ich das Werk <lb/>sehr <unclear>genau</unclear> kenne. Eine
+               solche Oberflächlichkeit hätte ich doch nicht <lb/>für möglich gehalten.
+               Lexikonwissen, das ist das Einzige, das <lb/>die <persName
                   ref="https://d-nb.info/gnd/133345637">Bienenfeld</persName> anfhäuft. </p>
-            <p>Ich will Ihnen mein Referat dann senden, bis auch mein <lb />erstes Konzertreferat
-               erschienen ist (Anfang Jänner) und <sic>sie </sic>bitten <lb />mir zu schreiben, ob
-               es Ihnen gefällt. </p>
+            <p>Ich will Ihnen mein Referat dann senden, bis auch mein <lb/>erstes Konzertreferat
+               erschienen ist (Anfang Jänner) und <sic>sie </sic>bitten <lb/>mir zu schreiben, ob es
+               Ihnen gefällt. </p>
             <p>Am <add place="intralinear">vor</add>letzten Schultage vor Weihnachten habe ich in
-               der <lb />Lehrerkonferenz meinen Vortrag über den Grammatikunterricht <lb />gehalten,
+               der <lb/>Lehrerkonferenz meinen Vortrag über den Grammatikunterricht <lb/>gehalten,
                der größere Aufregung hervorgerufen <add place="superlinear">hat</add>, als ich
-               geahnt <lb />hätte. Einer stand <add place="superlinear">gleich </add> nachher auf
-               und sagte: "Was wir hier gehört <lb />haben, das ist einfach unerhört prächtig und
-               neu. Aber wir wissen, <lb />daß wir, die ältere Generation, vorerst krepieren müssen,
-               bevor <lb />das durchdringt. Unsere Haut ist schon hart und wir kommen aus <lb />ihr
-               nicht mehr heraus. Aber den Jüngeren dürfen wir den Weg <lb />nicht versperren. Darum
-               beschließe die Konferenz: 1. Einsendung <lb />des Referates an den Schulrat <persName>
-               Suchomel</persName><!-- ich nehme an, es ist Vincenz Suchomel -->, der auch erfahren muss <lb />was da emporwächst. 2.
-               Veröffentlichung <add
-                  place="superlinear">in </add>einem Schulblatte, <lb />damit auch die Lehrer davon
-               erfahren." Das hat die Konferenz <lb />tatsächlich beschlossen und der <handShift
-                  scribe="latin" /> <orgName ref="https://d-nb.info/gnd/4498626-9">Zentralverein der
-               Wiener Lehrerschaft</orgName> <lb /><handShift
-                  scribe="kurrent" />hat mich eingeladen, meinen Vortrag in größerem Kreise im <lb />Februar
-               zu halten. </p>
-            <p>Ich kann es Ihnen daher nicht ersparen und werde Ihnen <lb />auch dieses Referat zur
-               Lektüre senden. Ich weiß dieses „ersparen“ <lb />ist eine kleine verkappte Eitelkeit
-               von mir. Aber ich bin schon ein <lb />bißchen eitel. </p>
-            <p>Lustig werden erst die Folgen meines Schulreferates. Kein <lb />Lehrer kann mehr mit
-               ernster Miene Grammatik unterrichten, weil<lb />diese Art des Grammatikunterrichtes
-               so unsäglich bloßgestellt ist. <lb />Das fühlen schon einige, daß es so nicht
-               weitergeht. Und bei <lb />Veröffentlichung wird es einige Wandale geben, weil ich die <lb />Bonzen
-               unter den Lehrern (Verfasser von Sprachbüchern) angreife <lb />und abschreckende
-               Beispiele aus ihren Büchern zitiere. Das <lb />ist sehr, sehr lustig.</p>
-            <closer><salute>Es grüßt Sie, recht frohe Weihnachten <lb />wünschend Ihr ganz ergebener </salute>
-               <persName
-                  ref="https://d-nb.info/gnd/14209062X">Karl Linke</persName>.</closer>
+               geahnt <lb/>hätte. Einer stand <add place="superlinear">gleich </add> nachher auf und
+               sagte: "Was wir hier gehört <lb/>haben, das ist einfach unerhört prächtig und neu.
+               Aber wir wissen, <lb/>daß wir, die ältere Generation, vorerst krepieren müssen, bevor
+               <lb/>das durchdringt. Unsere Haut ist schon hart und wir kommen aus <lb/>ihr nicht
+               mehr heraus. Aber den Jüngeren dürfen wir den Weg <lb/>nicht versperren. Darum
+               beschließe die Konferenz: 1. Einsendung <lb/>des Referates an den Schulrat <persName
+                  ref="https://d-nb.info/gnd/1038204828">Suchomel</persName>, der auch erfahren muss
+               <lb/>was da emporwächst. 2. Veröffentlichung <add place="superlinear">in </add>einem
+               Schulblatte, <lb/>damit auch die Lehrer davon erfahren." Das hat die Konferenz
+               <lb/>tatsächlich beschlossen und der <handShift scribe="latin"/>
+               <orgName ref="https://d-nb.info/gnd/4498626-9">Zentralverein der Wiener
+                  Lehrerschaft</orgName>
+               <lb/><handShift scribe="kurrent"/>hat mich eingeladen, meinen Vortrag in größerem
+               Kreise im <lb/>Februar zu halten. </p>
+            <p>Ich kann es Ihnen daher nicht ersparen und werde Ihnen <lb/>auch dieses Referat zur
+               Lektüre senden. Ich weiß dieses „ersparen“ <lb/>ist eine kleine verkappte Eitelkeit
+               von mir. Aber ich bin schon ein <lb/>bißchen eitel. </p>
+            <p>Lustig werden erst die Folgen meines Schulreferates. Kein <lb/>Lehrer kann mehr mit
+               ernster Miene Grammatik unterrichten, weil<lb/>diese Art des Grammatikunterrichtes so
+               unsäglich bloßgestellt ist. <lb/>Das fühlen schon einige, daß es so nicht weitergeht.
+               Und bei <lb/>Veröffentlichung wird es einige Wandale geben, weil ich die <lb/>Bonzen
+               unter den Lehrern (Verfasser von Sprachbüchern) angreife <lb/>und abschreckende
+               Beispiele aus ihren Büchern zitiere. Das <lb/>ist sehr, sehr lustig.</p>
+            <closer><salute>Es grüßt Sie, recht frohe Weihnachten <lb/>wünschend Ihr ganz ergebener </salute>
+               <persName ref="https://d-nb.info/gnd/14209062X">Karl Linke</persName>.</closer>
             <postscript>
                <p><persName ref="https://d-nb.info/gnd/117343722">Thom</persName> wird Sie schon
                   besucht haben?</p>

@@ -68,6 +68,9 @@
             </correspDesc>
         </profileDesc>
     </teiHeader>
+    <facsimile>
+        <graphic url="https://archive.schoenberg.at/manifest/letters/16808_tl.json" mimeType="application/ld+json" type="IIIF-Manifest" xml:id="manifest.16808_tl"/>
+    </facsimile>
     <text>
         <body>
             <div type="letter">
