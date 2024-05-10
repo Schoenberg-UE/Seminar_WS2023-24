@@ -115,7 +115,7 @@ tei-del {
   text-decoration: line-through;
 }
  
-tei-add {
+tei-add, tei-subst {
   color: #cd5c5c;
 }
 
@@ -124,8 +124,16 @@ hr {
   margin-top: 0.4em;
 }
 
+.inline {
+  display: inline;
+}
+
 tei-div[type="letter"] {
   display: inline-block;
+}
+
+tei-p:has(div.inline) {
+  display: inline;
 }
 
 tei-milestone {
