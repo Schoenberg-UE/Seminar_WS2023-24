@@ -9,12 +9,14 @@ export default function basicNavbar({ location, title, menuLinks }) {
 
     <Navbar expand="lg" className="bg-body-tertiary">
       <Container>
-        <Navbar.Brand href={ menuLinks[0].link }>{ title }</Navbar.Brand>
+        {/*<Navbar.Brand href={ menuLinks[0].link }>{ title }</Navbar.Brand>*/}
+        <Link className="navbar-brand" to={menuLinks[0].link}>{ title }</Link>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
           { menuLinks.map(m => (
-                <Nav.Link key={ m.name } href={ m.link }>{ m.name }</Nav.Link>
+                <Link className="nav-link" key={ m.name } to={ m.link }>{ m.name }</Link>
+                /* <Nav.Link key={ m.name } href={ m.link }>{ m.name }</Nav.Link> */
             ))}
           </Nav>
         </Navbar.Collapse>
