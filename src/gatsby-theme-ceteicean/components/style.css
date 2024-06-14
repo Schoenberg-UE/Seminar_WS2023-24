@@ -111,11 +111,11 @@ a {
 }
 
 /* Hinzufügungen und Streichungen */
-tei-del {
+tei-del, .deletion {
   text-decoration: line-through;
 }
  
-tei-add, tei-subst {
+tei-add, .addition {
   color: #cd5c5c;
 }
 
@@ -136,9 +136,11 @@ tei-p:has(div.inline) {
   display: inline;
 }
 
+/*
 tei-postscript:before {
   content: "[Postskriptum:] "
 }
+*/
 
 tei-milestone {
   display: block;

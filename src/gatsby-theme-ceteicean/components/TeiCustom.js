@@ -75,7 +75,7 @@ const TeiCustom = (props) => {
                   <TEINodes 
                       teiNodes={props.teiNode.childNodes}
                       {...props}
-                      availableRoutes={["tei-teiheader", "tei-text"]}
+                      availableRoutes={["tei-teiheader", "tei-text", "tei-ref"]}
                       />
               </Tab>
           </Tabs>
