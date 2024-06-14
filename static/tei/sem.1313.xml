@@ -26,53 +26,31 @@
                <persName ref="https://d-nb.info/gnd/124172962">Erwin Stein</persName>
                <placeName ref="https://d-nb.info/gnd/4066009-6">Wien</placeName>
             </correspAction>
-            <note>Erwin Stein (Hg.), „Arnold Schönberg und seine Orchesterwerke, in: Pult und
-               Taktstock. Fachzeitschrift für Dirigenten 4/Heft 3/4 (1927). Das Sonderheft von Pult
-               und Taktstock hatte den Themenschwerpunkt: Arnold Schönberg und seine Orchesterwerke.
-               Es erschien 1927. Für das Heft konnte <persName ref="https://d-nb.info/gnd/124172962"
-                  >Erwin Stein</persName> viele namentliche Musikwissenschaftler, Musiker,
-               Dirigenten und Komponisten gewinnen, die einen schriftlichen Beitrag leisteten. Stein
-               selbst schrieb einen Beitrag mit dem Titel <ref
+            <note>
+               <p>Erwin Stein (Hg.), „Arnold Schönberg und seine Orchesterwerke“, in: <title>Pult und
+               Taktstock. Fachzeitschrift für Dirigenten</title> 4 (1927), Heft 3.</p>
+               <p>Das Sonderheft von Pult und Taktstock hatte den Themenschwerpunkt „Arnold Schönberg und seine Orchesterwerke“.
+               Es erschien 1927. Für das Heft konnte <persName ref="https://d-nb.info/gnd/124172962">Erwin Stein</persName> viele namhafte Musikwissenschaftler, Musiker,
+               Dirigenten und Komponisten gewinnen, die einen schriftlichen Beitrag leisteten. Stein selbst schrieb einen Beitrag mit dem Titel „<ref
                   target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=2970&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"
-                  >„Die Behandlung der Sprechstimme in ‚Pierrot Lunaire‘“</ref>. Der Aufsatz ist
-               eine Analyse des Werks im Hinblick auf die Verwendung der Sprechstimme. Der Autor
-               thematisiert Schwierigkeiten und gibt Anweisungen wie das Stück geübt bzw. eingeübt
-               werden soll. Zum Beispiel meint Stein, dass man sich eine sogenannte „singende
-               Sprechweise“ (oder Singsang wie er es auch bezeichnet) nicht angewöhnen soll, da es
-               uncharakteristisch sei und sich nur schwer abgewöhnen lässt. <ref
-                  target="https://archive.schoenberg.at/library/bilddaten/Stein1927b.pdf">(Stein,
-                  „Die Behandlung der Sprechstimme in ‚Pierrot Lunaire‘“, S. 46.)</ref> Außerdem sei
-               der erste Schritt beim Einstudieren, sich den Rhythmus zu vergegenwärtigen und erst
-               dann die Sprechmelodie einzuüben <ref
-                  target="https://archive.schoenberg.at/library/bilddaten/Stein1927b.pdf">(Stein,
-                  „Die Behandlung der Sprechstimme in ‚Pierrot Lunaire‘“, S. 48.)</ref> Die Nähe zur
-               Praxis wird am Ende des Aufsatzes hervorgehoben: Stein schrieb den Artikel im
-               Hinblick auf das selbst erlebte Einstudieren des Stücks.<ref
-                  target="https://archive.schoenberg.at/library/bilddaten/Stein1927b.pdf">(Stein,
-                  „Die Behandlung der Sprechstimme in ‚Pierrot Lunaire‘“, S. 49.)</ref>
-               <lb/>Ein weiterer Aufsatz aus dem Sonderheft, welcher von Schönberg gelobt wird, ist
-               jener von <persName ref="https://d-nb.info/gnd/1180438051">Erwin
-                  Felber</persName><ref
-                  target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=947&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19"
-                  >„Pelleas und Melisande“</ref>. Der Aufsatz behandelt Schönbergs einzige
-               Symphonische Dichtung <ref target="https://d-nb.info/gnd/300139241">„Pelleas und
-                  Melisande“</ref>. Wie Felber betont, spielt dieses Werk bei der Entwicklung von
-               Schönbergs Stil eine große Rolle. Seine Analyse versucht dies darzulegen. Außerdem
-               wird versucht das Werk in den Kontext der folgenden und vorhergehenden Werke zu
-               setzten, um den Begriff symphonische Dichtung, die dem Werk zugeschrieben wird zu
-               diskutieren. Felber zieht Vergleiche zu Strauß und Wagners romantischer Harmonik
-               sowie Motivik und hebt Schönbergs kompositorische Innovationen hervor. <ref
-                  target="https://archive.schoenberg.at/library/bilddaten/Felber1927a.pdf">(Felber,
-                  „Pelleas und Melisande“, S. 30-31.)</ref>
-               <lb/>In der genannten Fachzeitschrift für Dirigenten haben außerdem noch <persName
-                  ref="https://d-nb.info/gnd/129502499">Jascha Horenstein</persName>, <persName
-                  ref="https://d-nb.info/gnd/117067482">Heinrich Jalowetz</persName>,<persName
-                  ref="https://d-nb.info/gnd/116612487">Ernst Kunwald</persName>, <persName
-                  ref="https://d-nb.info/gnd/120849615">Hans Redlich</persName>,<persName
-                  ref="https://d-nb.info/gnd/118500775">Theodor Wiesengrund Adorno</persName> und
-                  <persName ref="https://d-nb.info/gnd/11863643X">Alexander Zemlinsky</persName>
-               einen (oder mehrere) Artikel zu einem Werk von Schönberg oder einem Thema mit
-               Schönberg Bezug geschrieben.</note>
+                  >Die Behandlung der Sprechstimme in ‚Pierrot Lunaire‘</ref>“. Der Aufsatz ist eine Analyse des Werks im Hinblick auf die Verwendung der Sprechstimme. Der Autor
+               thematisiert Schwierigkeiten und gibt Anweisungen, wie das Stück geübt bzw. eingeübt werden soll. Zum Beispiel meint Stein, dass man sich eine sogenannte „singende
+               Sprechweise“ (oder Singsang, wie er es auch bezeichnet) nicht angewöhnen soll, da es uncharakteristisch sei und sich nur schwer abgewöhnen lässt. (Ebd., S. 46.)
+               Außerdem sei der erste Schritt beim Einstudieren, sich den Rhythmus zu vergegenwärtigen und erst dann die Sprechmelodie einzuüben (ebd., S. 48). Die Nähe zur
+               Praxis wird am Ende des Aufsatzes hervorgehoben: Stein schrieb den Artikel im Hinblick auf das selbst erlebte Einstudieren des Stücks. (Ebd., S. 49.)</p>
+               <p>Ein weiterer Aufsatz aus dem Sonderheft, welcher von Schönberg gelobt wird, ist jener von <persName ref="https://d-nb.info/gnd/1180438051">Erwin Felber</persName>:
+                  „<ref target="https://archive.schoenberg.at/library/eintrag.php?id_eintrag=947&amp;action=view&amp;sortieren=lastChanged%20DESC&amp;vonBis=0-19">Pelleas und Melisande</ref>“. Der Aufsatz behandelt Schönbergs einzige
+               Symphonische Dichtung <ref target="https://d-nb.info/gnd/300139241">Pelleas und Melisande</ref>. Wie Felber betont, spielt dieses Werk bei der Entwicklung von Schönbergs Stil eine große Rolle. Seine Analyse versucht
+               dies darzulegen. Außerdem wird versucht das Werk in den Kontext der folgenden und vorhergehenden Werke zu setzten, um den Begriff symphonische Dichtung, die dem Werk zugeschrieben wird zu diskutieren. Felber zieht
+               Vergleiche zu Strauß und Wagners romantischer Harmonik sowie Motivik und hebt Schönbergs kompositorische Innovationen hervor. (Ebd., S. 30-31.)</p>
+               <p>In der genannten Fachzeitschrift für Dirigenten haben außerdem noch <persName ref="https://d-nb.info/gnd/129502499">Jascha Horenstein</persName>,
+                   <persName ref="https://d-nb.info/gnd/117067482">Heinrich Jalowetz</persName>, 
+                   <persName ref="https://d-nb.info/gnd/116612487">Ernst Kunwald</persName>,
+                   <persName ref="https://d-nb.info/gnd/120849615">Hans Redlich</persName>,
+                   <persName ref="https://d-nb.info/gnd/118500775">Theodor Wiesengrund Adorno</persName> und
+                   <persName ref="https://d-nb.info/gnd/11863643X">Alexander Zemlinsky</persName>
+               einen (oder mehrere) Artikel zu einem Werk von Schönberg oder einem Thema mit Schönberg Bezug geschrieben.</p>
+            </note>
          </correspDesc>
       </profileDesc>
    </teiHeader>
@@ -95,13 +73,13 @@
                <dateline rendition="#r">
                   <date when="1927-05-13">13.V.1927</date>
                </dateline>
-               <salute>Lieber <persName ref="https://d-nb.info/gnd/124172962"
-                  >Stein</persName></salute>
+               <salute rendition="#inline">Lieber <persName ref="https://d-nb.info/gnd/124172962"
+                  >Stein</persName>, </salute>
             </opener>
-            <p rendition="inline">das <seg type="comment"><orig>Heft</orig><note><p>damit ist das
+            <p>das <seg type="comment"><orig><bibl sameAs="https://d-nb.info/013874969"
+               >Heft</bibl></orig><note><p>Damit ist das
                         1927 erschienene Sonderheft: "Arnold Schönberg und seine Orchesterwerke"
-                        gemeint</p></note><bibl sameAs="https://d-nb.info/013874969"
-                  >Heft</bibl></seg>ist ausgezeichnet. Ich bin wirklich n <lb/>nun stolz darauf,
+                        gemeint</p></note></seg> ist ausgezeichnet. Ich bin wirklich n <lb/>nun stolz darauf,
                dass sich endlich nu<add place="intralinear">n</add> doch soviele finden, <lb/>die
                nicht bloss durch Begeisterung für mich zu wirken im-<lb/>stande sind, sondern
                dadurch, dass das was <unclear> zu </unclear> schreiben an <lb/>sich beachtenswert
@@ -121,16 +99,14 @@
                Begriffen in einer <lb/>eleganten und sicheren Weise operiert, dass man sieht, es
                <lb/>sind alle in einer so exakten Denkweise wirklich zuhause. <lb/>Wie wohltuend ist
                der Unterschied einer solchen Schreib-<lb/>weise gegen die der Schriftsteller des
-               Impressionismus. <lb/><del>WWWW</del><add place="superlinear"> Da</add> ist doch
+               Impressionismus. <lb/><subst><del rendition="#s">Hier</del><add place="superlinear">Da</add></subst> ist doch
                überall der Wille zu einer wirklichen Er-<lb/>kenntnis ästhetischer Werte vorhanden:
                hier wird nirgends <lb/>mehr auf die Mitgerissenheit des Lesers gerechnet. Dass
                <lb/>2 mal 2 vier ist, muss und kann man ohne Gemütsbewegung <lb/>glauben! Es stimmt
                ohne Stimmung.</p>
             <lb/>
             <p>Da es mir wirklich an Zeit fehlt allen <subst>
-                  <del rendition="#s">
-                     <gap/>
-                  </del>
+                  <del rendition="#s">Teilnehmern</del>
                   <add place="intralinear">Mitarbeitern</add>
                </subst> an die-<lb/>sem <bibl sameAs="https://d-nb.info/013874969">Heft</bibl>
                selbst zu schreiben, bitte ich Sie irgend einen <lb/>Rahmenbrief, etwa unter
