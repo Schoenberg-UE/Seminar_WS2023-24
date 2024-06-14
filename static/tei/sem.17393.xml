@@ -43,7 +43,7 @@
                         <lb/>Musikverlag.<lb/>Fernsprecher Nro. 6279.<lb/>
                         <placeName ref="https://d-nb.info/gnd/4031483-2">Cöln</placeName> am Rhein,
                         den <seg hand="#author"><date when="1912-03-18">18.März
-                            1912</date></seg><placeName ref="https://d-nb.info/gnd/4831677-5"
+                            1912</date></seg><lb/><placeName ref="https://d-nb.info/gnd/4831677-5"
                             >Bayenthal</placeName> Marienburgerstrasse 55.</stamp>
                     <address>
                         <addrLine rendition="#c">Herrn</addrLine>
@@ -62,7 +62,7 @@
                     <del rendition="#s">und</del> kommen <lb/>zu lassen, und dieselben noch einmal
                     auf event. <lb/>Vortragszeichen selbst zu prüfen, da alle nach-<lb/>träglichen
                     Korrekturen, wenn der Stich einmal <lb/>begonnen ist, sehr kostspielig
-                    werden.<metamark/> Die a cappella-<lb/>Partitur und Stimmen werden jedenfalls
+                    werden.<add place="superlinear"><metamark/></add> Die a cappella-<lb/>Partitur und Stimmen werden jedenfalls
                     gestochen <lb/>und Raum für eine fremdsprachliche Übersetzung <lb/>vorgesehen.
                     Wenn Sie eine künstlerisch <lb/>einwandfreie englische Übersetzung verschaffen
                     <lb/>können, welche nicht allzu kostspielig wird, so <lb/>sind wir gern bereit,
@@ -98,7 +98,7 @@
                     <p>In §2 habe ich freigelassen, wer das Aufführungs-<lb/>recht hat, und bitte
                         Sie das auszufüllen. Wir <lb/>sind Mitglieder der <orgName
                             ref="https://d-nb.info/gnd/2172833-1">deutschen
-                        Genossenschaft</orgName>, aber w<gap reason="lost"/><!-- Herausgeberergänzung der vermutlich fehlenden Buchstaben <supplied>is-</supplied> --><!-- lb -->sen nicht, ob Sie ev.
+                        Genossenschaft</orgName>, aber w<supplied>is-</supplied><lb/>sen nicht, ob Sie ev.
                         der <orgName ref="https://d-nb.info/gnd/16016856-9">oester.</orgName>
                         Angehören.</p><!-- hier könnte noch ein Kommentar sein, das lässt sich anhand der ASCC klären -->
                     <closer><!-- hier können Sie den ganzen closer nach rechts setzten statt der Einzelteile --><salute rendition="#r">Bestens grüßt Ihr ergebener</salute><lb/><!-- ich sehe das eher als eine Zeile -->

@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Karl Linke an Arnold Schönberg, ohne Datum</title>
+                <title>Karl Linke an Arnold Schönberg, ohne Datum [1912]</title>
                 <editor>Katarina Stolarov</editor>
             </titleStmt>
             <publicationStmt>
@@ -54,8 +54,10 @@
         <body>
             <div type="letter">
                 <pb n="1"/>
-                <opener><salute>Sehr lieber Herr <persName ref="https://d-nb.info/gnd/118610023">Schönberg</persName>,</salute></opener>
-                <p rendition="#inline">Ihr Brief hat mich <hi rendition="#uu">sehr</hi> erfreut, <del rendition="#s">und</del> weil <lb/>er mir das bestätigt, was ich immer mehr zu fühlen
+                <opener>
+                    <salute rendition="#inline">Sehr lieber Herr <persName ref="https://d-nb.info/gnd/118610023">Schönberg</persName>, </salute>
+                </opener>
+                <p>Ihr Brief hat mich <hi rendition="#uu">sehr</hi> erfreut, <del rendition="#s">und</del> weil <lb/>er mir das bestätigt, was ich immer mehr zu fühlen
                     beginne: Die <lb/>Unzulänglichkeit unserer Schulen, ihr Versagen vor dem Kinde.
                     Und <lb/>daß Sie mir so rückhaltlos zustimmen, das ist mir ein neuer
                     <lb/>Ansporn, ganz meinem Gefühl nachzugehen, das mich sicherer <lb/>führen

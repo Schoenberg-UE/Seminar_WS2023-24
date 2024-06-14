@@ -46,6 +46,7 @@ const TeiCustom = (props) => {
         <h5>bearbeitet von { editor }</h5>
       </div>
       <Alert variant="info">
+        {/* Link zum ASCC-Datenbankeintrag hinzufügen */}
         <div className="metadata">
             <div className="row sender">
                 <div className="col-md-3">Absender:</div>
@@ -58,7 +59,7 @@ const TeiCustom = (props) => {
         </div>
       </Alert>
       <div className="row">
-        <div className="col-6">
+        <div className="col-md-6">
           <Tabs
             defaultActiveKey="text"
             id="uncontrolled-tab-example"
@@ -79,7 +80,7 @@ const TeiCustom = (props) => {
               </Tab>
           </Tabs>
         </div>
-        <div className="col-6">
+        <div className="col-md-6">
         <div style={{ position: "sticky", top: 0, marginTop: "3em" }}>
               <Mirador config={{ id: "mirador", manifest: manifest }} plugins={[]} />
             </div>

@@ -29,8 +29,8 @@ const Note = (props) => {
   );
 
   return <Behavior node={props.teiNode}>
-            <OverlayTrigger trigger="click" placement="auto" overlay={popover}>
-                <sup className="Note"><Button variant="link" className="popoverButton" style={{padding: 0, textDecoration: "none"}}>{ n }</Button></sup>
+            <OverlayTrigger trigger="focus" placement="auto" overlay={popover}>
+                <sup className="Note" style={{ verticalAlign: "top" }}><Button variant="link" className="popoverButton" style={{padding: 0, textDecoration: "none"}}>{ n }</Button></sup>
                 </OverlayTrigger>
          </Behavior>
 }

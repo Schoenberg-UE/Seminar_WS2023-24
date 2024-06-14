@@ -77,8 +77,8 @@
                   <placeName ref="https://d-nb.info/gnd/4066012-6">Wien</placeName>, <date
                      when="1911-12-24">24. 12. 1911.</date>
                </dateline>
-               <salute>Sehr lieber Herr <persName ref="https://d-nb.info/gnd/118610023"
-                     >Schönberg</persName> , </salute>
+               <salute rendition="#inline">Sehr lieber Herr <persName ref="https://d-nb.info/gnd/118610023"
+                     >Schönberg</persName>, </salute>
             </opener>
             <p>ich habe Ihre <seg type="comment">
                   <orig>
@@ -101,8 +101,8 @@
                      <p>
                         <ref
                            target="https://archive.schoenberg.at/writings/transcription.php?&amp;amp;action=view&amp;id_transcription=15"
-                           >"Franz Liszts Werk und Wesen", Aufsatz von Arnold Schönberg, erschienen
-                           1911 in "Allgemeine Musikzeitung"</ref>
+                           >"Franz Liszts Werk und Wesen"</ref>, Aufsatz von Arnold Schönberg, erschienen
+                           1911 in "Allgemeine Musikzeitung"
                      </p>
                   </note>
                </seg> gelesen, der <lb/>mir als das tiefste erscheint, was über Liszt je gesagt
@@ -141,7 +141,7 @@
                <pb n="2"/>und alle so seicht waren wie <persName
                   ref="https://d-nb.info/gnd/118578723">Massenets</persName> Musik, also<handShift
                   scribe="kurrent"/> einander eben=<lb/>bürtig, mußte ich mir <del rendition="#s">
-                  doch</del>sagen, daß sie alle nichts verstehen <lb/>und nur reden. Aber nichts,
+                  doch</del> sagen, daß sie alle nichts verstehen <lb/>und nur reden. Aber nichts,
                gar nichts enthält so ein Referat! Es <lb/>ist das erstemal, daß ich das
                kontrollieren kann, da ich das Werk <lb/>sehr <unclear>genau</unclear> kenne. Eine
                solche Oberflächlichkeit hätte ich doch nicht <lb/>für möglich gehalten.
@@ -154,29 +154,29 @@
                der <lb/>Lehrerkonferenz meinen Vortrag über den Grammatikunterricht <lb/>gehalten,
                der größere Aufregung hervorgerufen <add place="superlinear">hat</add>, als ich
                geahnt <lb/>hätte. Einer stand <add place="superlinear">gleich </add> nachher auf und
-               sagte: "Was wir hier gehört <lb/>haben, das ist einfach unerhört prächtig und neu.
+               sagte: „Was wir hier gehört <lb/>haben, das ist einfach unerhört prächtig und neu.
                Aber wir wissen, <lb/>daß wir, die ältere Generation, vorerst krepieren müssen, bevor
                <lb/>das durchdringt. Unsere Haut ist schon hart und wir kommen aus <lb/>ihr nicht
                mehr heraus. Aber den Jüngeren dürfen wir den Weg <lb/>nicht versperren. Darum
                beschließe die Konferenz: 1. Einsendung <lb/>des Referates an den Schulrat <persName
                   ref="https://d-nb.info/gnd/1038204828">Suchomel</persName>, der auch erfahren muss
                <lb/>was da emporwächst. 2. Veröffentlichung <add place="superlinear">in </add>einem
-               Schulblatte, <lb/>damit auch die Lehrer davon erfahren." Das hat die Konferenz
+               Schulblatte, <lb/>damit auch die Lehrer davon erfahren.“ Das hat die Konferenz
                <lb/>tatsächlich beschlossen und der <handShift scribe="latin"/>
                <orgName ref="https://d-nb.info/gnd/4498626-9">Zentralverein der Wiener
                   Lehrerschaft</orgName>
                <lb/><handShift scribe="kurrent"/>hat mich eingeladen, meinen Vortrag in größerem
                Kreise im <lb/>Februar zu halten. </p>
             <p>Ich kann es Ihnen daher nicht ersparen und werde Ihnen <lb/>auch dieses Referat zur
-               Lektüre senden. Ich weiß dieses „ersparen“ <lb/>ist eine kleine verkappte Eitelkeit
+               Lektüre senden. Ich weiß, dieses „ersparen“ <lb/>ist eine kleine verkappte Eitelkeit
                von mir. Aber ich bin schon ein <lb/>bißchen eitel. </p>
             <p>Lustig werden erst die Folgen meines Schulreferates. Kein <lb/>Lehrer kann mehr mit
                ernster Miene Grammatik unterrichten, weil<lb/>diese Art des Grammatikunterrichtes so
                unsäglich bloßgestellt ist. <lb/>Das fühlen schon einige, daß es so nicht weitergeht.
-               Und bei <lb/>Veröffentlichung wird es einige Wandale geben, weil ich die <lb/>Bonzen
+               Und bei <lb/>Veröffentlichung wird es einige Skandale geben, weil ich die <lb/>Bonzen
                unter den Lehrern (Verfasser von Sprachbüchern) angreife <lb/>und abschreckende
                Beispiele aus ihren Büchern zitiere. Das <lb/>ist sehr, sehr lustig.</p>
-            <closer><salute>Es grüßt Sie, recht frohe Weihnachten <lb/>wünschend Ihr ganz ergebener </salute>
+            <closer rendition="#inline"><salute>Es grüßt Sie, recht frohe Weihnachten <lb/>wünschend Ihr ganz ergebener </salute>
                <persName ref="https://d-nb.info/gnd/14209062X">Karl Linke</persName>.</closer>
             <postscript>
                <p><persName ref="https://d-nb.info/gnd/117343722">Thom</persName> wird Sie schon

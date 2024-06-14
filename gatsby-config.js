@@ -11,6 +11,9 @@ const {applyxslt} = require('./scripts/applyxslt')
 
 module.exports = {
   pathPrefix: "/Seminar_WS2023-24",
+  /*flags: {
+    DEV_SSR: true
+  },*/
   siteMetadata: {
     title: `Briefe von und an Arnold Schönberg`,
     menuLinks: [

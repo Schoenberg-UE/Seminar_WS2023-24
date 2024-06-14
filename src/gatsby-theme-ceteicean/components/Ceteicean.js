@@ -20,6 +20,8 @@ import HideText from "./HideText"
 import Supplied from "./Supplied"
 import TeiHeaderCommentTab from "./TeiHeaderCommentTab"
 import TeiCustom from "./TeiCustom"
+import Salute from "./Salute"
+import Closer from "./Closer"
 
 import "./ceteicean.css"
 import "./style.css"
@@ -34,6 +36,8 @@ const MyCeteicean = ({pageContext}) => {
     "tei-p": Paragraph,
     "tei-note": Note,
     "tei-ref": Ref,
+    "tei-salute": Salute,
+    "tei-closer": Closer,
     "tei-persname": PersName,
     "tei-orgname": OrgName,
     "tei-placename": PlaceName,

@@ -95,7 +95,7 @@ tei-stamp tei-seg[hand] {
   
 }*/
 
-tei-closer tei-salute {
+.closer tei-salute {
   margin: 0 !important;
   display: inline;
 }
@@ -134,6 +134,10 @@ tei-div[type="letter"] {
 
 tei-p:has(div.inline) {
   display: inline;
+}
+
+tei-postscript:before {
+  content: "[Postskriptum:] "
 }
 
 tei-milestone {

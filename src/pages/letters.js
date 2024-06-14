@@ -58,8 +58,10 @@ const Index = () => {
         <div className="container">
           <h3 className="text-center my-5">Briefliste</h3>
           <div>{cardInfo.map(obj => (
-
-              <div className="card w-50 mb-4 mx-auto" key={ obj.id }>
+            <div className="row" key={ obj.id }>
+              <div className="col-1 col-md-3"/>
+              <div className="col-10 col-md-6">
+                <div className="card mb-4">
                   <div className="card-body">
                       <h5 className="card-title mb-3">
                           <Link to={ `../${obj.id}` }>{ obj.title }</Link>
@@ -67,8 +69,10 @@ const Index = () => {
                       <h6 className="card-subtitle mb-2 text-muted">{ `bearbeitet von ${obj.editor}` }</h6>
                       <p className="card-text">{ `${obj.incipit}...` }</p>
                   </div>
+                </div>
               </div>
-            
+              <div className="col-1 col-md-3"/>
+            </div>
             ))}
           </div>
         </div>
