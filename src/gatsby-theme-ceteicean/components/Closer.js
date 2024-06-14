@@ -5,7 +5,7 @@ import { TEINodes } from "react-teirouter"
 const Closer = (props) => {
   
   const closer = props.teiNode
-  
+  if (closer.classList === undefined) return
   if (closer.classList.contains("inline")) {
     return null
   }

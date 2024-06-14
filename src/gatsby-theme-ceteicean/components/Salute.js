@@ -5,7 +5,7 @@ import { TEINodes } from "react-teirouter"
 const Salute = (props) => {
   
   const salute = props.teiNode
-  
+  if (salute.classList === undefined) return
   if (salute.classList.contains("inline")) {
     return null
   }
